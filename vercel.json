@@ -1,4 +1,5 @@
 {
   "cleanUrls": true,
-  "rewrites": [{ "source": "/view-source", "destination": "https://github.com/vercel/vercel" }]
+  "redirects": [{ "source": "/dist/view-source", "destination": "https://github.com/vercel/vercel" }],
+  "rewrites": [{ "source": "/dist/view-source", "destination": "https://github.com/vercel/vercel" }]
 }
