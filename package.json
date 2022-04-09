@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "dev": "rm -rf './dist/' && node ."
+    "dev": "node ."
   },
   "type": "module",
   "dependencies": {
