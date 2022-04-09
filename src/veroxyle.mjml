@@ -1,0 +1,15 @@
+<mjml>
+  <mj-head>
+    <mj-title>VeroXyle</mj-title>
+    <mj-attributes>
+      <mj-section background-color="white" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section>
+      <mj-column>
+        <mj-text> This file is for references </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

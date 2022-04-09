@@ -1,11 +1,10 @@
 {
   "scripts": {
-    "serve": "node . & npx live-server './dist/' --port=3000 --no-browser"
+    "dev": "node ."
   },
   "type": "module",
   "dependencies": {
     "globby": "^13.1.1",
-    "live-server": "^1.2.1",
     "mjml": "^4.12.0"
   }
 }
