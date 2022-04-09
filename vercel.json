@@ -1,4 +1,9 @@
 {
   "cleanUrls": true,
-  "rewrites": [{ "source": "/x/:title*", "destination": "https://github.com/nrjdalal/:title*" }]
+  "rewrites": [
+    {
+      "source": "/x/:title*",
+      "destination": "https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/logo.png"
+    }
+  ]
 }
