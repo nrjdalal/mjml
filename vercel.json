@@ -1,4 +1,4 @@
 {
   "cleanUrls": true,
-  "redirects": [{ "source": "/nrjdalal", "destination": "https://github.com/" }]
+  "redirects": [{ "source": "/x/:title*", "destination": "https://github.com/nrjdalal/:title*" }]
 }
