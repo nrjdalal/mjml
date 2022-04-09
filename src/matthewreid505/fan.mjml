@@ -20,6 +20,7 @@
           src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/payolie-alt-logo.png"
           alt=""
           width="180px"
+          padding="32px"
         />
         <mj-text color="white" font-size="20px" font-weight="700" padding-top="0"> You just made 1 new fan! </mj-text>
         <mj-image
