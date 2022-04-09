@@ -3,10 +3,6 @@ import { exec } from 'child_process'
 
 const dirs = []
 
-// primary cleanup
-exec("rm -rf './dist/'")
-
-// mjml compiler
 const compile = async () => {
   const paths = await globby('./src/**/*.mjml')
 
