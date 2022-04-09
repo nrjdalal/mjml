@@ -9,7 +9,7 @@
       <mj-wrapper background-color="#FDF4FF" padding="32px" />
       <mj-column border-radius="12px" />
       <mj-spacer height="24px" />
-      <mj-image src="https://mailr.vercel.app/matthewreid505/assets/payolie-indigo.png" alt="Payolie" />
+      <mj-image src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/payolie-ts.png" alt="Payolie" />
       <mj-text align="center" color="white" font-family="Poppins, Arial" line-height="1.4" />
     </mj-attributes>
   </mj-head>
@@ -20,7 +20,7 @@
         <mj-column background-color="#E570FF">
           <mj-spacer />
           <mj-spacer />
-          <mj-image width="156px" />
+          <mj-image width="96px" />
           <mj-text font-size="20px" font-weight="500"> Cash Accepted </mj-text>
           <mj-text> Josh King signed up for Payolie to deposit the $20 you sent yesterday! </mj-text>
           <mj-spacer />
