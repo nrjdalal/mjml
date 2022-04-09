@@ -8,7 +8,7 @@
   <mj-body>
     <mj-section>
       <mj-column>
-        <mj-text> This file is for references </mj-text>
+        <mj-text> This file is for references! </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
