@@ -23,16 +23,11 @@
       <mj-column>
         <mj-text font-size="18px"> GET YOUR OWN PAIR OF </mj-text>
         <mj-text font-size="18px" font-weight="600" padding-top="0">
-          REUSABLE
-          <br />
-          BLACK MASKS @ 7.75
+          REUSABLE BLACK MASKS <br />
+          AT JUST 3.87 FOR ONE
         </mj-text>
         <mj-text font-size="16px" font-weight="600" container-background-color="white" color="black">
-          <a href="https://amzn.to/3ulpjSt" style="color: black; text-decoration: none">
-            SALE ! SALE ! SALE !
-            <br />
-            3.87 for 1 mask !
-          </a>
+          <a href="https://amzn.to/3ulpjSt" style="color: black; text-decoration: none"> SALE ! SALE ! SALE ! </a>
         </mj-text>
       </mj-column>
     </mj-section>
