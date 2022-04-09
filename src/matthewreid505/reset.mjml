@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title>Payolie Improve</mj-title>
+    <mj-title>Payolie Reset</mj-title>
 
     <mj-font
       name="Montserrat"
@@ -18,7 +18,6 @@
       <mj-hero padding="0px" padding-left="0px" padding-right="0px">
         <mj-divider width="100%" padding="0px" border-color="#5857D4" border-width="4px" />
       </mj-hero>
-
       <mj-section padding="10px">
         <mj-column>
           <mj-image
@@ -26,35 +25,28 @@
             alt=""
             width="48px"
           />
-          <mj-text color="black" font-size="18px" font-weight="500"> Please help us improve {{product}} </mj-text>
-          <mj-text align="left" color="#000">
-            You recently canceled our {{product}} subscription and I'm sorry to see you go. Thank you for being with us.
-            There could be various reasons for leaving and I really hope you can help us learn and improve.
-          </mj-text>
-          <mj-text align="left">
-            If it's not too much to ask, please let me know what made you unhappy, or what we could have done better.
-            Please share your feedback here.
-          </mj-text>
-          <mj-button background-color="#5857D4" color="white" href="https://google.com">
-            Share Your Feedback
-          </mj-button>
+          <mj-text color="black" font-size="18px" font-weight="500"> Oops! </mj-text>
+          <mj-text align="center" color="#000"> It seems that you've forgotten your password. </mj-text>
+          <mj-image
+            src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/ls-studio-main.jpg"
+            alt=""
+            width="80px"
+            height="80px"
+            border-radius="50%"
+          />
+
+          <mj-button background-color="#5857D4" color="white" href="https://google.com"> Reset Password </mj-button>
         </mj-column>
       </mj-section>
 
-      <mj-section padding="0 10px 24px 10px">
-        <mj-column>
-          <mj-text align="left">Thank You, and hope our paths will cross again.</mj-text>
-          <mj-text align="left">Best Regards,</mj-text>
-          <mj-text align="left">
-            Neeraj Dalal
-            <br />
-            Elon Musk, CEO and Founder
-            <br />
-            <a href="https://veroxyle.com" style="color: #5857d4">https://veroxyle.com</a>
+      <mj-section padding="0px">
+        <mj-column padding="16px 0px">
+          <mj-text align="center" color="#999">
+            If you did not make this request, just ignore this email. Otherwise please click the button above to reset
+            your password.
           </mj-text>
         </mj-column>
       </mj-section>
-
       <mj-section background-color="#ccc">
         <mj-column>
           <mj-text color="#666">
