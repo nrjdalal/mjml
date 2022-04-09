@@ -10,7 +10,7 @@ const compile = async () => {
     const src = paths[index].slice(0, paths[index].lastIndexOf('/') + 1)
 
     if (!dirs.includes(src)) {
-      const dist = src.slice(0, src.lastIndexOf('/') + 1).replace('./src/', './dist/')
+      const dist = src.slice(0, src.lastIndexOf('/') + 1).replace('./src/', './public/')
       exec(`mkdir -p '${dist}' && npx mjml -w '${src}/*.mjml' -o '${dist}'`)
       dirs.push(src)
     }
