@@ -19,7 +19,7 @@
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/payolie-alt-logo.png"
           alt=""
-          width="48px"
+          width="180px"
         />
         <mj-text color="white" font-size="18px" font-weight="500"> Cash Accepted </mj-text>
         <mj-text color="#F3F4F6"> Josh King signed up for Payolie to deposit the $20 you sent yesterday. </mj-text>

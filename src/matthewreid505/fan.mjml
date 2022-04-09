@@ -17,12 +17,11 @@
     <mj-section padding="32px">
       <mj-column background-color="#5857D4" border-radius="10px" padding-bottom="24px">
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/payolie-logo.png"
+          src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/payolie-alt-logo.png"
           alt=""
-          width="128px"
-          padding-bottom="0"
+          width="180px"
         />
-        <mj-text color="white" font-size="20px" font-weight="600" padding-top="0"> You just made 1 new fan! </mj-text>
+        <mj-text color="white" font-size="20px" font-weight="700" padding-top="0"> You just made 1 new fan! </mj-text>
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/girl.jpg"
           alt=""
