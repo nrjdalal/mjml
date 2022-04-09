@@ -9,7 +9,7 @@
       <mj-wrapper background-color="#EEF2FF" padding="32px" />
       <mj-column border-radius="12px" />
       <mj-spacer height="24px" />
-      <mj-image src="https://mailr.vercel.app/matthewreid505/assets/payolie.png" alt="Payolie" />
+      <mj-image src="https://mailr.vercel.app/matthewreid505/assets/payolie-indigo.png" alt="Payolie" />
       <mj-text align="center" color="white" font-family="Poppins, Arial" line-height="1.4" />
     </mj-attributes>
   </mj-head>
@@ -17,7 +17,7 @@
     <mj-wrapper>
       <!-- Section 01 -->
       <mj-section>
-        <mj-column background-color="#4F46E5">
+        <mj-column background-color="#5857D4">
           <mj-spacer />
           <mj-spacer />
           <mj-image width="156px" />

@@ -6,10 +6,10 @@
       href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
     />
     <mj-attributes>
-      <mj-wrapper background-color="#EEF2FF" padding="32px" />
+      <mj-wrapper background-color="#FDF4FF" padding="32px" />
       <mj-column border-radius="12px" />
       <mj-spacer height="24px" />
-      <mj-image src="https://mailr.vercel.app/matthewreid505/assets/payolie.png" alt="Payolie" />
+      <mj-image src="https://mailr.vercel.app/matthewreid505/assets/payolie-indigo.png" alt="Payolie" />
       <mj-text align="center" color="white" font-family="Poppins, Arial" line-height="1.4" />
     </mj-attributes>
   </mj-head>
@@ -17,7 +17,7 @@
     <mj-wrapper>
       <!-- Section 01 -->
       <mj-section>
-        <mj-column background-color="#4F46E5">
+        <mj-column background-color="#E570FF">
           <mj-spacer />
           <mj-spacer />
           <mj-image width="156px" />
@@ -33,7 +33,7 @@
           <mj-spacer />
           <mj-text color="black"> Share this link and we'll send you $1 when your friends try Payolie. </mj-text>
           <mj-text padding-top="0">
-            <a href="https://veroxyle.com" style="color: #5857d4">https://veroxyle.com</a>
+            <a href="https://veroxyle.com" style="color: #e570ff">https://veroxyle.com</a>
           </mj-text>
           <mj-social padding-bottom="0">
             <mj-social-element
