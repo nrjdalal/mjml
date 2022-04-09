@@ -1,9 +1,10 @@
 {
   "cleanUrls": true,
-  "rewrites": [
+  "redirects": [
     {
       "source": "/x/:title*",
-      "destination": "https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/logo.png"
+      "destination": "https://raw.githubusercontent.com/nrjdalal/mjml/master/assets/:title*",
+      "permanent": true
     }
   ]
 }
