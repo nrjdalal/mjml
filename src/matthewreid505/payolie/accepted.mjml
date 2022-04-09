@@ -1,0 +1,59 @@
+<mjml>
+  <mj-head>
+    <mj-title>Payolie Accepted</mj-title>
+
+    <mj-font
+      name="Montserrat"
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap"
+    />
+
+    <mj-attributes>
+      <mj-section background-color="white" />
+      <mj-text align="center" font-family="Montserrat, Arial" line-height="1.4" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body>
+    <mj-section padding="32px">
+      <mj-column background-color="#22C55E" border-radius="10px" padding="64px 16px" width="400px">
+        <mj-image
+          src="https://cdn3.iconfinder.com/data/icons/font-awesome-solid/512/fire-flame-curved-128.png"
+          alt=""
+          width="48px"
+        />
+        <mj-text color="white" font-size="18px" font-weight="500"> Cash Accepted </mj-text>
+        <mj-text color="#F3F4F6"> Josh King signed up for Payolie to deposit the $20 you sent yesterday. </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 32px">
+      <mj-column border="1px dashed #9CA3AF" border-radius="10px" padding="16px" width="400px">
+        <mj-text> Share this link and we'll send you $1 when your friends try Payolie. </mj-text>
+        <mj-text padding-top="0">
+          <a href="https://veroxyle.com" style="color: #22c55e">https://veroxyle.com</a>
+        </mj-text>
+
+        <mj-social>
+          <mj-social-element
+            icon-size="32px"
+            src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/twitter_circle_color-256.png"
+          />
+          <mj-social-element
+            icon-size="32px"
+            src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_circle_color-256.png"
+          />
+          <mj-social-element
+            icon-size="32px"
+            src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-256.png"
+          />
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0">
+      <mj-column width="400px">
+        <mj-text>© Payolie | Account | Security</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

@@ -3,7 +3,6 @@ import { exec } from 'child_process'
 
 const dirs = []
 
-// mjml compiler
 const compile = async () => {
   const paths = await globby('./src/**/*.mjml')
 
