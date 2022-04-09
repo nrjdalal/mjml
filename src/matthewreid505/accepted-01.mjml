@@ -15,6 +15,7 @@
   </mj-head>
   <mj-body>
     <mj-wrapper>
+      <!-- Section 01 -->
       <mj-section>
         <mj-column>
           <mj-spacer />
@@ -26,7 +27,7 @@
           <mj-spacer />
         </mj-column>
       </mj-section>
-
+      <!-- Section 02 -->
       <mj-section>
         <mj-column background-color="white" border="1px dashed black">
           <mj-spacer />
@@ -34,10 +35,10 @@
           <mj-text padding-top="0">
             <a href="https://veroxyle.com" style="color: #5857d4">https://veroxyle.com</a>
           </mj-text>
-          <mj-social>
+          <mj-social padding-bottom="0">
             <mj-social-element
               icon-size="32px"
-              src="https://cdn-icons.flaticon.com/png/128/4494/premium/4494475.png?token=exp=1649521752~hmac=7f27e1c4a55055fcb5af722ba79275f7"
+              src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/twitter_circle_color-256.png"
             />
             <mj-social-element
               icon-size="32px"
