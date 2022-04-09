@@ -1,8 +1,8 @@
 {
+  "type": "module",
   "scripts": {
     "build": "node compile.js"
   },
-  "type": "module",
   "dependencies": {
     "globby": "^13.1.1",
     "mjml": "^4.12.0"
