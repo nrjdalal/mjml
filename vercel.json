@@ -1,4 +1,4 @@
 {
   "cleanUrls": true,
-  "rewrites": [{ "source": "/view-source", "destination": "/veroxyle" }]
+  "redirects": [{ "source": "/view-source", "destination": "/veroxyle" }]
 }
