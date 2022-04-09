@@ -33,7 +33,6 @@
           </mj-button>
           <mj-spacer />
           <mj-text> Thank You, and hope our paths will cross again. </mj-text>
-
           <mj-text font-size="16px" font-weight="500"> Need Help? </mj-text>
           <mj-text>
             You can send us a mail at
