@@ -2,8 +2,8 @@
   "cleanUrls": true,
   "redirects": [
     {
-      "source": "/x/:title*",
-      "destination": "https://raw.githubusercontent.com/nrjdalal/mjml/master/assets/:title*",
+      "source": "/:dirname/assets/:title*",
+      "destination": "https://raw.githubusercontent.com/nrjdalal/mjml/master/:dirname/assets/:title*",
       "permanent": true
     }
   ]
