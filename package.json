@@ -1,6 +1,5 @@
 {
   "scripts": {
-    "dev": "node .",
     "build": "node compile.js"
   },
   "type": "module",
