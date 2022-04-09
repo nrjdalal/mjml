@@ -10,6 +10,7 @@
       <mj-column border-radius="12px" />
       <mj-spacer height="24px" />
       <mj-image
+        href="https://www.bombsbeats.com/"
         src="https://www.bombsbeats.com/wp-content/uploads/2020/05/bombs_preview-1024x819.jpg"
         alt="BombsBeats"
       />
@@ -27,7 +28,7 @@
           <mj-text align="left">
             Hi Devonta Norris,
             <br /><br />
-            Thank you for buying a BombBeat.
+            Thank you for buying BombsBeats. Hope you put it to good use.
           </mj-text>
           <mj-table>
             <tr style="border-bottom: 1px solid #ffffff; color: white; text-align: left; padding: 15px 0">
@@ -40,30 +41,31 @@
               <td style="padding: 0 15px">1</td>
               <td style="padding: 0 0 0 15px; text-align: right">$10</td>
             </tr>
-            <tr style="color: white">
-              <td style="padding: 0 15px 0 0">Product Two</td>
-              <td style="padding: 0 15px">2</td>
-              <td style="padding: 0 0 0 15px; text-align: right">$30</td>
-            </tr>
           </mj-table>
-          <mj-button background-color="white" color="#5857D4" font-weight="500" width="200px">
+          <mj-button
+            href="https://www.bombsbeats.com/"
+            background-color="white"
+            color="#000"
+            font-weight="500"
+            width="200px"
+          >
             Download Product
           </mj-button>
           <mj-text font-size="16px" font-weight="500"> Let us know your experience </mj-text>
-          <mj-text align="left">
-            If it's not too much to ask, please leave a feedback / what we could have done better.
-          </mj-text>
-          <mj-button background-color="white" color="#5857D4" font-weight="500" width="200px">
-            Share Your Feedback
+          <mj-text> If you need any help, feel free to contact us. </mj-text>
+          <mj-button
+            href="mailto:bombsbeats@gmail.com"
+            background-color="white"
+            color="#000"
+            font-weight="500"
+            width="200px"
+          >
+            Leave a message
           </mj-button>
           <mj-text align="left">
             Best regards,
-            <br /><br />
-            Neeraj Dalal
             <br />
-            CEO and Founder, VeroXyle
-            <br />
-            <a href="mailto:talk@veroxyle.com" style="color: white">talk@veroxyle.com</a>
+            BombsBeats
           </mj-text>
           <mj-spacer />
           <mj-spacer />
@@ -72,7 +74,7 @@
       <!-- Section 02 -->
       <mj-section padding-top="0">
         <mj-column>
-          <mj-text color="black">© Payolie | Account | Security</mj-text>
+          <mj-text color="black">2020 © BOMBSBEATS.COM</mj-text>
         </mj-column>
       </mj-section>
     </mj-wrapper>
