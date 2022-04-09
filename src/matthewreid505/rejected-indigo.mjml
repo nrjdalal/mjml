@@ -1,0 +1,63 @@
+<mjml>
+  <mj-head>
+    <mj-title>Payolie Accepted</mj-title>
+    <mj-font
+      name="Poppins"
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
+    />
+    <mj-attributes>
+      <mj-wrapper background-color="#EEF2FF" padding="32px" />
+      <mj-column border-radius="12px" />
+      <mj-spacer height="24px" />
+      <mj-image src="https://mailr.vercel.app/matthewreid505/assets/payolie-indigo.png" alt="Payolie" />
+      <mj-text align="center" color="white" font-family="Poppins, Arial" line-height="1.4" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-wrapper>
+      <!-- Section 01 -->
+      <mj-section>
+        <mj-column background-color="#5857D4">
+          <mj-spacer />
+          <mj-spacer />
+          <mj-image width="156px" />
+          <mj-text font-size="20px" font-weight="500"> Cash Rejected </mj-text>
+          <mj-text> Josh King signed up for Payolie to deposit the $20 you sent yesterday! </mj-text>
+          <mj-spacer />
+          <mj-spacer />
+        </mj-column>
+      </mj-section>
+      <!-- Section 02 -->
+      <mj-section>
+        <mj-column border="1px dashed black">
+          <mj-spacer />
+          <mj-text color="black"> Share this link and we'll send you $1 when your friends try Payolie. </mj-text>
+          <mj-text padding-top="0">
+            <a href="https://veroxyle.com" style="color: #5857d4">https://veroxyle.com</a>
+          </mj-text>
+          <mj-social padding-bottom="0">
+            <mj-social-element
+              icon-size="32px"
+              src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/twitter_circle_color-256.png"
+            />
+            <mj-social-element
+              icon-size="32px"
+              src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_circle_color-256.png"
+            />
+            <mj-social-element
+              icon-size="32px"
+              src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-256.png"
+            />
+          </mj-social>
+          <mj-spacer />
+        </mj-column>
+      </mj-section>
+      <!-- Section 03 -->
+      <mj-section padding-top="0">
+        <mj-column>
+          <mj-text color="black">© Payolie | Account | Security</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
