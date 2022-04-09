@@ -22,7 +22,7 @@
           <mj-spacer />
           <mj-image width="156px" />
           <mj-text font-size="20px" font-weight="500"> Please help us improve our product </mj-text>
-          <mj-text>
+          <mj-text align="left">
             You recently canceled our product subscription and I'm sorry to see you go. Thank you for being with us.
             There could be various reasons for leaving and I really hope you can help us learn and improve.
             <br /><br />
@@ -32,18 +32,20 @@
           <mj-button background-color="white" color="#5857D4" font-weight="500" width="200px">
             Share your feedback
           </mj-button>
-          <mj-spacer />
-          <mj-text>
+
+          <mj-text align="left">
             Thank You, and hope our paths will cross again.
+
             <br />
             <br />
+            Best regards,
+            <br /><br />
             Neeraj Dalal
             <br />
             CEO and Founder, VeroXyle
             <br />
             <a href="mailto:talk@veroxyle.com" style="color: white">talk@veroxyle.com</a>
           </mj-text>
-
           <mj-spacer />
           <mj-spacer />
         </mj-column>
