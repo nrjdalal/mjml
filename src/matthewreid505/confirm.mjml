@@ -33,7 +33,9 @@
           </mj-text>
           <mj-text align="center" color="#000"> Lorem ipsum dorem lorem ipsum dorem </mj-text>
 
-          <mj-button background-color="blue" color="white" href="https://google.com"> Share Your Feedback </mj-button>
+          <mj-button background-color="#5857D4" color="white" href="https://google.com">
+            Share Your Feedback
+          </mj-button>
         </mj-column>
       </mj-section>
 
