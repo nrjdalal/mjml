@@ -3,7 +3,8 @@
   "redirects": [
     {
       "source": "/to-veroxyle",
-      "destination": "https://veroxyle.com"
+      "destination": "https://veroxyle.com",
+      "permanent": true
     }
   ]
 }
