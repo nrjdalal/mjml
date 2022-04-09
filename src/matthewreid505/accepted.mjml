@@ -22,7 +22,7 @@
           width="180px"
         />
         <mj-text color="white" font-size="18px" font-weight="500"> Cash Accepted </mj-text>
-        <mj-text color="#F3F4F6"> Josh King signed up for Payolie to deposit the $20 you sent yesterday. </mj-text>
+        <mj-text color="#F3F4F6"> Josh King signed up for Payolie to deposit the $20 you sent yesterday! </mj-text>
       </mj-column>
     </mj-section>
 
