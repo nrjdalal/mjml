@@ -17,7 +17,6 @@ const compile = async () => {
       const dist = src.slice(0, src.lastIndexOf('/') + 1).replace('./src/', './dist/')
       exec(`mkdir -p '${dist}' && npx mjml -w '${src}/*.mjml' -o '${dist}'`)
       dirs.push(src)
-      console.log(dirs)
     }
   }
 }
