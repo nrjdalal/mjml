@@ -15,11 +15,7 @@
   <mj-body>
     <mj-section padding-top="32px" padding-bottom="0">
       <mj-column>
-        <mj-image
-          src="https://m.media-amazon.com/images/I/81IChbtpFuS._AC_UX569_.jpg"
-          border-radius="10px"
-          width="360px"
-        />
+        <mj-image src="https://mailr.vercel.app/saragoncalves/assets/sale.png" border-radius="10px" width="360px" />
       </mj-column>
     </mj-section>
 
