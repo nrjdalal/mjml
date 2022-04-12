@@ -30,18 +30,6 @@
             <br /><br />
             Thank you for buying BombsBeats. Hope you put it to good use.
           </mj-text>
-          <mj-table>
-            <tr style="border-bottom: 1px solid #ffffff; color: white; text-align: left; padding: 15px 0">
-              <th style="padding: 0 15px 0 0">Name</th>
-              <th style="padding: 0 15px">Quantity</th>
-              <th style="padding: 0 0 0 15px; text-align: right">Total</th>
-            </tr>
-            <tr style="color: white">
-              <td style="padding: 0 15px 0 0">Product One</td>
-              <td style="padding: 0 15px">1</td>
-              <td style="padding: 0 0 0 15px; text-align: right">$10</td>
-            </tr>
-          </mj-table>
           <mj-button
             href="https://www.bombsbeats.com/"
             background-color="white"
