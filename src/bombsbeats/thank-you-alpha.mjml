@@ -28,28 +28,8 @@
           <mj-text align="left">
             Hi Devonta Norris,
             <br /><br />
-            Thank you for buying BombsBeats. Hope you put it to good use.
+            Thank you for your purchase.
           </mj-text>
-          <mj-button
-            href="https://www.bombsbeats.com/"
-            background-color="white"
-            color="#000"
-            font-weight="500"
-            width="200px"
-          >
-            Download Product
-          </mj-button>
-          <mj-text font-size="16px" font-weight="500"> Let us know your experience </mj-text>
-          <mj-text> If you need any help, feel free to contact us. </mj-text>
-          <mj-button
-            href="mailto:bombsbeats@gmail.com"
-            background-color="white"
-            color="#000"
-            font-weight="500"
-            width="200px"
-          >
-            Leave a message
-          </mj-button>
           <mj-text align="left">
             Best regards,
             <br />
