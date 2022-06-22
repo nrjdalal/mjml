@@ -8,8 +8,8 @@
     <mj-attributes>
       <mj-button href="http://maxi2.co.uk/" background-color="white" color="black" />
       <mj-image href="http://maxi2.co.uk/" alt="Reuseable Face Mask" />
-      <mj-section background-color="black" />
-      <mj-text align="center" color="white" font-family="Montserrat, Arial" line-height="1.4" />
+      <mj-section background-color="white" />
+      <mj-text align="center" color="black" font-family="Montserrat, Arial" line-height="1.4" />
     </mj-attributes>
   </mj-head>
   <mj-body>
@@ -21,19 +21,19 @@
 
     <mj-section padding-top="32px" padding-bottom="0">
       <mj-column>
-        <mj-image src="https://mailr.vercel.app/saragoncalves/assets/sale.png" border-radius="10px" width="360px" />
+        <mj-image src="http://maxi2.co.uk/wp-content/uploads/2013/12/new1.png" border-radius="10px" padding="0 20px" />
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="black" padding-bottom="32px">
+    <mj-section background-color="white" padding-bottom="32px">
       <mj-column>
-        <mj-text font-size="18px"> GET YOUR OWN PAIR OF </mj-text>
-        <mj-text font-size="18px" font-weight="600" padding-top="0">
-          REUSABLE BLACK MASKS <br />
-          AT JUST 3.87 FOR ONE
+        <mj-text font-size="18px"> IT HAS FINALLY ARRIVED </mj-text>
+        <mj-text color="#1D4ED8" font-size="18px" font-weight="600" padding-top="0">
+          NEW IMPROVED <br />
+          <span style="font-size: 24px">Maxi2</span>
         </mj-text>
-        <mj-text font-size="16px" font-weight="600" container-background-color="white" color="black">
-          <a href="https://amzn.to/3ulpjSt" style="color: black; text-decoration: none"> LIMITED STOCK / BUY NOW </a>
+        <mj-text font-size="16px" font-weight="600" container-background-color="black" color="black">
+          <a href="http://maxi2.co.uk/" style="color: white; text-decoration: none"> LIMITED STOCK / BUY NOW </a>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -45,17 +45,14 @@
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-image
-          src="https://m.media-amazon.com/images/I/813eUppBXmS._AC_UX569_.jpg"
-          border="1.5px solid
-        white"
-          border-radius="10px"
-          width="300px"
-        />
-        <mj-text color="#22D3EE" font-size="18px" font-weight="500"> Adjustable </mj-text>
+        <mj-image src="http://maxi2.co.uk/wp-content/uploads/2013/12/new2.png" border-radius="10px" width="300px" />
+        <mj-text color="#22D3EE" font-size="18px" font-weight="500"> What Maxi2 Can Do For You </mj-text>
         <mj-text color="white" padding-top="0">
-          SG cotton face masks are adjustable because we believe everyone has a different size face/head so it needs to
-          be adjustable. The rubber slides on our fabric mask allows you to adjust to your desired size.
+          Sends your libido into hot overdrive in just minutes even though you are not in the mood for sex prior to
+          taking Maxi2 <br /><br />
+          Fills your body with energy so that you can perform for hours, even without a break Desensitizes your penis to
+          prevent premature ejaculation <br /><br />
+          And most importantly, you will not experience any unpleasant side effects when taking Maxi2
         </mj-text>
         <mj-button> BUY NOW </mj-button>
       </mj-column>
@@ -68,17 +65,12 @@
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-image
-          src="https://m.media-amazon.com/images/I/713FoICQvvS._AC_UX569_.jpg"
-          border="1.5px solid white"
-          border-radius="10px"
-          width="300px"
-        />
-        <mj-text color="#22D3EE" font-size="18px" font-weight="500"> 2 Layer Protection </mj-text>
+        <mj-image src="http://maxi2.co.uk/wp-content/uploads/2013/12/new3.png" border-radius="10px" width="300px" />
+        <mj-text color="#22D3EE" font-size="18px" font-weight="500"> The ultimate sexual performance enhancer </mj-text>
         <mj-text color="white" padding-top="0">
-          Our cool masks have Lycra-Cooling fabric on the outside so you can still breath and cotton on the inside for
-          your protection and comfort! SG adult face mask protects enough but also isn't overly thick because you still
-          meed to breath!
+          The nature’s answer to strong erections and increased sex drive <br /><br />
+          The herbal ingredients in MAXI2 create a potent formula that has been traditionally used for men with sexual
+          dysfunction such as impotence, low libido, premature ejaculation and erectile problems
         </mj-text>
         <mj-button> BUY NOW </mj-button>
       </mj-column>
@@ -91,24 +83,21 @@
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-image
-          src="https://m.media-amazon.com/images/I/81UE1rj7ojS._AC_UX569_.jpg"
-          border="1.5px solid white"
-          border-radius="10px"
-          width="300px"
-        />
-        <mj-text color="#22D3EE" font-size="18px" font-weight="500"> Washable Masks </mj-text>
+        <mj-image src="http://maxi2.co.uk/wp-content/uploads/2013/12/new4.png" border-radius="10px" width="300px" />
+        <mj-text color="#22D3EE" font-size="18px" font-weight="500"> Increase sexual health and vitality </mj-text>
         <mj-text color="white" padding-top="0">
-          Cloth face masks are great because you can rewash and re-wear! Saves money and is very convenient. We chose
-          our masks black so they look cleaner for longer. Of course with the black colour it will hide any stains or
-          dirt until you are able to wash your black cloth mask. These aren't just Womens masks, although it has a
-          feminine design men wear theses as-well. We have a male model in one of our images on this listing.
+          MAXI2 combines the best quality, sourced herbs in exact quantities to produce the strongest, yet safest,
+          herbal solution for men. <br /><br />
+          The main ingredient in MAXi2 is a proven aphrodisiac plant called Eurycoma Longifolia. It has been widely used
+          in Southeast Asia for centuries to help enhance the sexual health and vitality. <br /><br />
+          Today, Eurycoma Longifolia is also used by bodybuilders and sportsmen all over the world as a natural
+          testosterone enhancer.
         </mj-text>
         <mj-button> BUY NOW </mj-button>
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="black" padding="0 30px">
+    <!-- <mj-section background-color="black" padding="0 30px">
       <mj-column
         border-bottom="2.5px solid white"
         border-right="2.5px solid white"
@@ -117,7 +106,6 @@
       >
         <mj-image
           src="https://m.media-amazon.com/images/I/71WjVHXn9KS._AC_UX569_.jpg"
-          border="1.5px solid white"
           border-radius="10px"
           width="300px"
         />
@@ -140,7 +128,6 @@
       >
         <mj-image
           src="https://m.media-amazon.com/images/I/71upGS4VxjS._AC_UX569_.jpg"
-          border="1.5px solid white"
           border-radius="10px"
           width="300px"
         />
@@ -151,7 +138,7 @@
         </mj-text>
         <mj-button> BUY NOW </mj-button>
       </mj-column>
-    </mj-section>
+    </mj-section> -->
 
     <mj-section background-color="black" padding-bottom="32px">
       <mj-column>
@@ -159,14 +146,30 @@
           <mj-social-element
             color="white"
             src="https://iconic.app/icons/iconic/png/white/world.png"
-            href="https://amzn.to/3ulpjSt"
+            href="http://maxi2.co.uk/"
           >
-            &nbsp;https://amzn.to/3ulpjSt
+            &nbsp;http://maxi2.co.uk/
           </mj-social-element>
         </mj-social>
 
         <mj-text container-background-color="white">
-          <a style="color: black; text-decoration: none"> <span style="font-size: 10px">Rated 4.5 out of 5</span></a>
+          <br />
+          <a style="color: black; text-decoration: none">
+            <span style="font-size: 10px"
+              >Get Free Shipping on all orders no matter where you are in the world. All orders received before 4.00 pm
+              will be shipped same day. In most cases, if you live in the UK, you will receive your order next
+              day.</span
+            ></a
+          >
+          <br /><br />
+          <a style="color: black; text-decoration: none; font-size: 14px">
+            No Customs or Duty Fees! <br /><br />
+            <span style="font-size: 10px"
+              >We pay these fees so you don’t have to! The total billed at checkout is the final amount you pay,
+              inclusive of VAT, with no additional charges at the time of delivery!</span
+            ></a
+          >
+          <br /><br />
         </mj-text>
       </mj-column>
     </mj-section>
