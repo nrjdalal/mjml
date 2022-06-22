@@ -1,24 +1,18 @@
 <mjml>
   <mj-head>
-    <mj-title>MAXI2</mj-title>
+    <mj-title>REUSABLE BLACK MASKS</mj-title>
     <mj-font
       name="Montserrat"
       href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap"
     />
     <mj-attributes>
-      <mj-button href="http://maxi2.co.uk/" background-color="white" color="black" />
-      <mj-image href="http://maxi2.co.uk/" alt="Reuseable Face Mask" />
+      <mj-button href="https://amzn.to/3ulpjSt" background-color="white" color="black" />
+      <mj-image href="https://amzn.to/3ulpjSt" alt="Reuseable Face Mask" />
       <mj-section background-color="black" />
       <mj-text align="center" color="white" font-family="Montserrat, Arial" line-height="1.4" />
     </mj-attributes>
   </mj-head>
   <mj-body>
-    <mj-section padding-top="32px" padding-bottom="0">
-      <mj-column>
-        <mj-image src="https://mailr.vercel.app/saragoncalves/assets/sale.png" border-radius="10px" width="360px" />
-      </mj-column>
-    </mj-section>
-
     <mj-section padding-top="32px" padding-bottom="0">
       <mj-column>
         <mj-image src="https://mailr.vercel.app/saragoncalves/assets/sale.png" border-radius="10px" width="360px" />
