@@ -13,9 +13,9 @@
     </mj-attributes>
   </mj-head>
   <mj-body>
-    <mj-section padding-top="32px" padding-bottom="0">
+    <mj-section padding-top="12px" padding-bottom="12px" background-color="white">
       <mj-column>
-        <mj-image src="https://mailr.vercel.app/saragoncalves/assets/sale.png" border-radius="10px" width="360px" />
+        <mj-image src="https://mailr.vercel.app/welllyhopper/assets/logo.jpg" border-radius="10px" width="128px" />
       </mj-column>
     </mj-section>
 
