@@ -13,12 +13,6 @@
     </mj-attributes>
   </mj-head>
   <mj-body>
-    <!-- <mj-section padding-top="12px" padding-bottom="12px" background-color="#008683">
-      <mj-column>
-        <mj-image src="https://exipure.com/assets/images/logo.png" width="128px" />
-      </mj-column>
-    </mj-section> -->
-
     <mj-section padding-top="32px" padding-bottom="0">
       <mj-column>
         <mj-image src="https://mailr.vercel.app/pdisband/assets/exipure.png" border-radius="10px" padding="0 20px" />
