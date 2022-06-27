@@ -96,18 +96,67 @@
 
     <mj-section background-color="#0284C7" padding-bottom="32px">
       <mj-column>
-        <mj-social padding-top="0">
-          <mj-social-element
-            color="white"
-            src="https://iconic.app/icons/iconic/png/white/world.png"
-            href="https://www.splashtop.com/en-au/"
-          >
-            &nbsp;https://www.splashtop.com/en-au/
-          </mj-social-element>
-        </mj-social>
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="white"
+          font-size="18px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          Arrange the trial
+        </mj-text>
 
-        <mj-text container-background-color="white">
-          <a style="color: black; text-decoration: none"> <span style="font-size: 10px">Rated 4.5 out of 5</span></a>
+        <mj-button
+          href="mailto:sales@pactec.co?subject=runecast trial"
+          background-color="#DC2626"
+          font-family="DM Sans, sans-serif"
+          color="white"
+          font-size="16px"
+          font-weight="400"
+          letter-spacing="1px"
+          padding-bottom="20px"
+        >
+          Contact Us
+        </mj-button>
+
+        <mj-image
+          alt=""
+          href="https://pactec.co"
+          padding-bottom="24px"
+          src="https://i.ibb.co/1nydQhc/Pactec-GMail-White.png"
+          width="200px"
+        />
+
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins, sans-serif"
+          font-size="12px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="2"
+        >
+          Copyright © 2021. All rights reserved.<br />
+          <a href="https://pactec.co" style="color: #ffffff; text-decoration: none"> Packet Technologies </a>
+        </mj-text>
+
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins, sans-serif"
+          font-size="12px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          <a
+            href="mailto:sales@pactec.co?subject=unsubscribe"
+            style="color: #ffffff; text-decoration: none; font-size: 10px"
+          >
+            unsubscribe from all emails
+          </a>
         </mj-text>
       </mj-column>
     </mj-section>
