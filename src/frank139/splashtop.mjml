@@ -21,7 +21,7 @@
 
     <mj-section background-color="#E0F2FE" padding-bottom="0">
       <mj-column>
-        <mj-text font-size="18px" color="black" font-weight="600">
+        <mj-text font-size="20px" color="black" font-weight="600">
           The All-In-One Remote Access
           <br />
           and Remote Support for Enterprise
@@ -37,7 +37,7 @@
 
     <mj-section background-color="#E0F2FE" padding-bottom="32px" padding-top="0">
       <mj-column>
-        <mj-text font-size="20px" font-weight="600" padding-top="0" color="#0284C7">
+        <mj-text font-size="20px" font-weight="600" padding-top="0" color="#7E22CE">
           Available on Cloud or On-Premise
           <br />
           <ul style="text-align: left; font-size: 18px; color: black; font-weight: 400">
@@ -47,13 +47,13 @@
             <li>Remote control computers and mobile devices as if you are sitting in front of them</li>
           </ul>
         </mj-text>
-        <mj-text font-size="16px" font-weight="600" container-background-color="black" color="white">
+        <mj-text font-size="16px" font-weight="600" container-background-color="#7E22CE" color="white">
           <a href="https://www.splashtop.com/en-au/" style="color: white; text-decoration: none"> FIND OUT MORE </a>
         </mj-text>
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#0284C7" padding="48px 30px 0">
+    <!-- <mj-section background-color="#0284C7" padding="48px 30px 0">
       <mj-column
         border-bottom="2.5px solid white"
         border-left="2.5px solid white"
@@ -70,9 +70,9 @@
         </mj-text>
         <mj-button color="#0284C7"> TRY NOW </mj-button>
       </mj-column>
-    </mj-section>
+    </mj-section> -->
 
-    <mj-section background-color="#0284C7" padding="0 30px">
+    <!-- <mj-section background-color="#0284C7" padding="0 30px">
       <mj-column
         border-bottom="2.5px solid white"
         border-right="2.5px solid white"
@@ -92,9 +92,9 @@
         </mj-text>
         <mj-button color="#0284C7"> FREE TRIAL AVAILABLE </mj-button>
       </mj-column>
-    </mj-section>
+    </mj-section> -->
 
-    <mj-section background-color="#0284C7" padding-bottom="32px">
+    <mj-section background-color="#7E22CE" padding-bottom="32px">
       <mj-column>
         <mj-text
           font-family="DM Sans, sans-serif"
@@ -110,9 +110,9 @@
 
         <mj-button
           href="mailto:sales@pactec.co?subject=runecast trial"
-          background-color="#DC2626"
+          background-color="#ffffff"
           font-family="DM Sans, sans-serif"
-          color="white"
+          color="#581C87"
           font-size="16px"
           font-weight="400"
           letter-spacing="1px"
