@@ -21,7 +21,7 @@
 
     <mj-section padding-top="32px" padding-bottom="0" background-color="white">
       <mj-column>
-        <mj-image src="https://www.splashtop.com/wp-content/uploads/en_US/hero-image.png" width="333px" />
+        <mj-image src="https://mailr.vercel.app/frank139/assets/hero-image.png" width="400px" />
       </mj-column>
     </mj-section>
 
@@ -53,19 +53,15 @@
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-image
-          src="https://m.media-amazon.com/images/I/813eUppBXmS._AC_UX569_.jpg"
-          border="1.5px solid
-        white"
-          border-radius="10px"
-          width="300px"
-        />
-        <mj-text color="#22D3EE" font-size="18px" font-weight="500"> Adjustable </mj-text>
+        <mj-text color="#22D3EE" font-size="18px" font-weight="500"> Who benefits? </mj-text>
         <mj-text color="white" padding-top="0">
-          SG cotton face masks are adjustable because we believe everyone has a different size face/head so it needs to
-          be adjustable. The rubber slides on our fabric mask allows you to adjust to your desired size.
+          • Employees working remotely can access their work computers instantly, from anywhere.
+          <br />
+          • IT departments can remotely access, manage, and support unattended computers.
+          <br />
+          • Educational institutions can easily enhance their distance and hybrid learning programs.
         </mj-text>
-        <mj-button> BUY NOW </mj-button>
+        <mj-button> TRY NOW </mj-button>
       </mj-column>
     </mj-section>
 
@@ -76,88 +72,18 @@
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-image
-          src="https://m.media-amazon.com/images/I/713FoICQvvS._AC_UX569_.jpg"
-          border="1.5px solid white"
-          border-radius="10px"
-          width="300px"
-        />
-        <mj-text color="#22D3EE" font-size="18px" font-weight="500"> 2 Layer Protection </mj-text>
+        <mj-text color="#22D3EE" font-size="18px" font-weight="500"> Key features and benefits </mj-text>
         <mj-text color="white" padding-top="0">
-          Our cool masks have Lycra-Cooling fabric on the outside so you can still breath and cotton on the inside for
-          your protection and comfort! SG adult face mask protects enough but also isn't overly thick because you still
-          meed to breath!
+          • High Performance <br />
+          • Unattended Remote Access & Control <br />
+          • Broad Device Support <br />
+          • Powerful Management <br />
+          • Granular Permissions <br />
+          • SSO/SAML Integration <br />
+          • Advanced Security <br />
+          • Active Directory Integration
         </mj-text>
-        <mj-button> BUY NOW </mj-button>
-      </mj-column>
-    </mj-section>
-
-    <mj-section background-color="black" padding="0 30px">
-      <mj-column
-        border-bottom="2.5px solid white"
-        border-left="2.5px solid white"
-        padding-bottom="15px"
-        padding-top="15px"
-      >
-        <mj-image
-          src="https://m.media-amazon.com/images/I/81UE1rj7ojS._AC_UX569_.jpg"
-          border="1.5px solid white"
-          border-radius="10px"
-          width="300px"
-        />
-        <mj-text color="#22D3EE" font-size="18px" font-weight="500"> Washable Masks </mj-text>
-        <mj-text color="white" padding-top="0">
-          Cloth face masks are great because you can rewash and re-wear! Saves money and is very convenient. We chose
-          our masks black so they look cleaner for longer. Of course with the black colour it will hide any stains or
-          dirt until you are able to wash your black cloth mask. These aren't just Womens masks, although it has a
-          feminine design men wear theses as-well. We have a male model in one of our images on this listing.
-        </mj-text>
-        <mj-button> BUY NOW </mj-button>
-      </mj-column>
-    </mj-section>
-
-    <mj-section background-color="black" padding="0 30px">
-      <mj-column
-        border-bottom="2.5px solid white"
-        border-right="2.5px solid white"
-        padding-bottom="15px"
-        padding-top="15px"
-      >
-        <mj-image
-          src="https://m.media-amazon.com/images/I/71WjVHXn9KS._AC_UX569_.jpg"
-          border="1.5px solid white"
-          border-radius="10px"
-          width="300px"
-        />
-        <mj-text color="#22D3EE" font-size="18px" font-weight="500"> Breathable </mj-text>
-        <mj-text color="white" padding-top="0">
-          Our 2 pack adult mask is an extremely breathable mask because of the Lycra-cooling technology on the mask. If
-          you want a cool mask that feels lightweight and breathable, you are at the right place! Although it says
-          cooling, it will not actually make you cold so you are still able to use this in the cold weather as-well.
-        </mj-text>
-        <mj-button> BUY NOW </mj-button>
-      </mj-column>
-    </mj-section>
-
-    <mj-section background-color="black" padding="0 30px 48px">
-      <mj-column
-        border-bottom="2.5px solid white"
-        border-left="2.5px solid white"
-        padding-bottom="15px"
-        padding-top="15px"
-      >
-        <mj-image
-          src="https://m.media-amazon.com/images/I/71upGS4VxjS._AC_UX569_.jpg"
-          border="1.5px solid white"
-          border-radius="10px"
-          width="300px"
-        />
-        <mj-text color="#22D3EE" font-size="18px" font-weight="500"> Customer Satisfaction Guaranteed </mj-text>
-        <mj-text color="white" padding-top="0">
-          We can guarantee our cotton masks for women and men are great quality and have already satisfied tons of our
-          customers! If you are not satisfied get your money back guaranteed.
-        </mj-text>
-        <mj-button> BUY NOW </mj-button>
+        <mj-button> FREE TRIAL AVAILABLE </mj-button>
       </mj-column>
     </mj-section>
 
