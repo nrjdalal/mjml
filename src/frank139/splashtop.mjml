@@ -13,32 +13,31 @@
     </mj-attributes>
   </mj-head>
   <mj-body>
-    <mj-section padding-top="32px" padding-bottom="16px" background-color="white">
+    <mj-section padding-top="32px" padding-bottom="16px" background-color="#E0F2FE">
       <mj-column>
         <mj-image src="https://mailr.vercel.app/frank139/assets/logo.png" width="192px" />
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="white">
+    <mj-section background-color="#E0F2FE" padding-bottom="0">
       <mj-column>
-        <mj-text font-size="18px" color="black" font-weight="500">
-          The All-In-One Remote Access and Remote Support for Enterprise
+        <mj-text font-size="18px" color="black" font-weight="600">
+          The All-In-One Remote Access
+          <br />
+          and Remote Support for Enterprise
         </mj-text>
       </mj-column>
     </mj-section>
 
-    <mj-section padding-bottom="0" background-color="white">
+    <mj-section padding-top="0" padding-bottom="0" background-color="#E0F2FE">
       <mj-column>
-        <mj-image src="https://mailr.vercel.app/frank139/assets/hero-image.png" width="400px" />
+        <mj-image src="https://mailr.vercel.app/frank139/assets/alien.png" width="400px" />
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="white" padding-bottom="32px">
+    <mj-section background-color="#E0F2FE" padding-bottom="32px" padding-top="0">
       <mj-column>
-        <mj-text font-size="18px" color="black" font-weight="500">
-          The All-In-One Remote Access and Remote Support for Enterprise
-        </mj-text>
-        <mj-text font-size="20px" font-weight="600" padding-top="0" color="#0EA5E9">
+        <mj-text font-size="20px" font-weight="600" padding-top="0" color="#0284C7">
           Available on Cloud or On-Premise
           <br />
           <ul style="text-align: left; font-size: 18px; color: black; font-weight: 400">
@@ -54,14 +53,14 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="black" padding="48px 30px 0">
+    <mj-section background-color="#0284C7" padding="48px 30px 0">
       <mj-column
         border-bottom="2.5px solid white"
         border-left="2.5px solid white"
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-text color="#22D3EE" font-size="18px" font-weight="500"> Who benefits? </mj-text>
+        <mj-text color="#E0F2FE" font-size="18px" font-weight="500"> Who benefits? </mj-text>
         <mj-text color="white" padding-top="0">
           • Employees working remotely can access their work computers instantly, from anywhere.
           <br />
@@ -69,18 +68,18 @@
           <br />
           • Educational institutions can easily enhance their distance and hybrid learning programs.
         </mj-text>
-        <mj-button> TRY NOW </mj-button>
+        <mj-button color="#0284C7"> TRY NOW </mj-button>
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="black" padding="0 30px">
+    <mj-section background-color="#0284C7" padding="0 30px">
       <mj-column
         border-bottom="2.5px solid white"
         border-right="2.5px solid white"
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-text color="#22D3EE" font-size="18px" font-weight="500"> Key features and benefits </mj-text>
+        <mj-text color="#E0F2FE" font-size="18px" font-weight="500"> Key features and benefits </mj-text>
         <mj-text color="white" padding-top="0">
           • High Performance <br />
           • Unattended Remote Access & Control <br />
@@ -91,11 +90,11 @@
           • Advanced Security <br />
           • Active Directory Integration
         </mj-text>
-        <mj-button> FREE TRIAL AVAILABLE </mj-button>
+        <mj-button color="#0284C7"> FREE TRIAL AVAILABLE </mj-button>
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="black" padding-bottom="32px">
+    <mj-section background-color="#0284C7" padding-bottom="32px">
       <mj-column>
         <mj-social padding-top="0">
           <mj-social-element
