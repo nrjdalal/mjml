@@ -19,7 +19,15 @@
       </mj-column>
     </mj-section>
 
-    <mj-section padding-top="32px" padding-bottom="0" background-color="white">
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text font-size="18px" color="black" font-weight="500">
+          The All-In-One Remote Access and Remote Support for Enterprise
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="0" background-color="white">
       <mj-column>
         <mj-image src="https://mailr.vercel.app/frank139/assets/hero-image.png" width="400px" />
       </mj-column>
