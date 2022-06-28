@@ -4,8 +4,8 @@ const nodemailer = require('nodemailer')
 const validate = require('validate.js')
 const xlsx = require('xlsx')
 
-// 1. helper utilities
-// 1.1 email validator
+// ~ 1. helper utilities
+// ~ 1.1 email validator
 const isEmail = (email) => {
   const res = validate({ from: email }, { from: { email: true } })
   if (res) {
@@ -14,10 +14,10 @@ const isEmail = (email) => {
     return true
   }
 }
-// 1.2 delay timer
+// ~ 1.2 delay timer
 const timer = (ms) => new Promise((res) => setTimeout(res, ms))
 
-// 2. nodemailer configuration
+// ~ 2. nodemailer configuration
 const sender = async (content, to) => {
   let transporter = nodemailer.createTransport({
     host: process.env.HOST || 'mail.veroxyle.com',
@@ -39,23 +39,23 @@ const sender = async (content, to) => {
   console.log('Email sent to ' + to)
 }
 
-// 3. mailer (one-by-one)
+// ~ 3. mailer (one-by-one)
 const mailer = async (content, to, delay) => {
-  // email sender
+  // ~ email sender
   fs.readFile(process.cwd() + `/${to}`, 'utf8', (err, res) => {
     let index = 1
     if (err) {
       to = to.replace(/ /g, '')
-      // if empty
+      // ~ if empty
       if (to.length === 0) {
         sender(content, process.env.FROM_MAIL || 'do-not-reply@veroxyle.com')
         return
       }
-      // to single email address
+      // ~ to single email address
       if (isEmail(to)) {
         sender(content, to)
       }
-      // to comma separated emails
+      // ~ to comma separated emails
       if (to.includes(',')) {
         async function sendmail() {
           for (x of to.split(',')) {
@@ -93,7 +93,7 @@ const mailer = async (content, to, delay) => {
         }
       } else {
         res = res.replace(/ /g, '')
-        // list file
+        // ~ list file
         async function sendmail() {
           for (x of res.split('\n')) {
             console.log(index++)
@@ -111,13 +111,13 @@ const mailer = async (content, to, delay) => {
   })
 }
 
-// operating function
+// ~ operating function
 fs.readFile(process.cwd() + `/${process.env.HTML}`, 'utf8', (err, res) => {
   if (err) {
-    // email as string
+    // ~ email as string
     mailer(process.env.HTML, process.env.TO_MAIL || 'admin@nrjdalal.com', process.env.DELAY || 5000)
   } else {
-    // email as html file
+    // ~ email as html file
     mailer(res, process.env.TO_MAIL || 'admin@nrjdalal.com', process.env.DELAY || 5000)
   }
 })
