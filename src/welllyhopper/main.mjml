@@ -7,7 +7,7 @@
     />
     <mj-attributes>
       <mj-button href="http://maxi2.co.uk/" background-color="white" color="black" />
-      <mj-image href="http://maxi2.co.uk/" alt="Reuseable Face Mask" />
+      <mj-image href="http://maxi2.co.uk/" alt="MAXI2" />
       <mj-section background-color="white" />
       <mj-text align="center" color="black" font-family="Montserrat, Arial" line-height="1.4" />
     </mj-attributes>
@@ -96,49 +96,6 @@
         <mj-button> BUY NOW </mj-button>
       </mj-column>
     </mj-section>
-
-    <!-- <mj-section background-color="black" padding="0 30px">
-      <mj-column
-        border-bottom="2.5px solid white"
-        border-right="2.5px solid white"
-        padding-bottom="15px"
-        padding-top="15px"
-      >
-        <mj-image
-          src="https://m.media-amazon.com/images/I/71WjVHXn9KS._AC_UX569_.jpg"
-          border-radius="10px"
-          width="300px"
-        />
-        <mj-text color="#22D3EE" font-size="18px" font-weight="500"> Breathable </mj-text>
-        <mj-text color="white" padding-top="0">
-          Our 2 pack adult mask is an extremely breathable mask because of the Lycra-cooling technology on the mask. If
-          you want a cool mask that feels lightweight and breathable, you are at the right place! Although it says
-          cooling, it will not actually make you cold so you are still able to use this in the cold weather as-well.
-        </mj-text>
-        <mj-button> BUY NOW </mj-button>
-      </mj-column>
-    </mj-section>
-
-    <mj-section background-color="black" padding="0 30px 48px">
-      <mj-column
-        border-bottom="2.5px solid white"
-        border-left="2.5px solid white"
-        padding-bottom="15px"
-        padding-top="15px"
-      >
-        <mj-image
-          src="https://m.media-amazon.com/images/I/71upGS4VxjS._AC_UX569_.jpg"
-          border-radius="10px"
-          width="300px"
-        />
-        <mj-text color="#22D3EE" font-size="18px" font-weight="500"> Customer Satisfaction Guaranteed </mj-text>
-        <mj-text color="white" padding-top="0">
-          We can guarantee our cotton masks for women and men are great quality and have already satisfied tons of our
-          customers! If you are not satisfied get your money back guaranteed.
-        </mj-text>
-        <mj-button> BUY NOW </mj-button>
-      </mj-column>
-    </mj-section> -->
 
     <mj-section background-color="black" padding-bottom="32px">
       <mj-column>
