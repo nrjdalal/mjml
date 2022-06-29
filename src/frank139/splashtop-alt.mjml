@@ -87,7 +87,12 @@
           line-height="2"
         >
           Contact:
-          <a href="mailto:sales@pactec.co" style="color: #ffffff; text-decoration: none"> sales@pactec.co </a>
+          <a
+            href="mailto:sales@pactec.co?subject=Splashtop Sales Enquiry"
+            style="color: #ffffff; text-decoration: none"
+          >
+            sales@pactec.co
+          </a>
         </mj-text>
 
         <mj-text
