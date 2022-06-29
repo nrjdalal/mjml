@@ -18,13 +18,13 @@
     </mj-attributes>
   </mj-head>
   <mj-body>
-    <mj-section padding-top="32px" padding-bottom="16px" background-color="#E0F2FE">
+    <mj-section padding-top="32px" padding-bottom="0" background-color="#E0F2FE">
       <mj-column>
-        <mj-image src="https://mailr.vercel.app/frank139/assets/logo.png" width="192px" />
+        <mj-image src="https://mailr.vercel.app/frank139/assets/logo.png" width="256px" />
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#E0F2FE" padding-bottom="0">
+    <mj-section background-color="#E0F2FE" padding-bottom="0" padding-top="0">
       <mj-column>
         <mj-text font-size="20px" color="#0284C7" font-weight="600" padding-bottom="0">
           The All-In-One Remote Access
@@ -62,87 +62,22 @@
         <!-- <mj-text font-size="16px" font-weight="600" container-background-color="#7E22CE" color="white">
           <a href="https://www.splashtop.com/en-au/" style="color: white; text-decoration: none"> FIND OUT MORE </a>
         </mj-text> -->
-        <mj-button background-color="#0284C7" color="white"> FIND OUT MORE </mj-button>
+        <mj-button background-color="#0284C7" color="white" border-radius="30px"> FIND OUT MORE </mj-button>
       </mj-column>
     </mj-section>
 
-    <!-- <mj-section background-color="#0284C7" padding="48px 30px 0">
-      <mj-column
-        border-bottom="2.5px solid white"
-        border-left="2.5px solid white"
-        padding-bottom="15px"
-        padding-top="15px"
-      >
-        <mj-text color="#E0F2FE" font-size="18px" font-weight="500"> Who benefits? </mj-text>
-        <mj-text color="white" padding-top="0">
-          • Employees working remotely can access their work computers instantly, from anywhere.
-          <br />
-          • IT departments can remotely access, manage, and support unattended computers.
-          <br />
-          • Educational institutions can easily enhance their distance and hybrid learning programs.
-        </mj-text>
-        <mj-button color="#0284C7"> TRY NOW </mj-button>
-      </mj-column>
-    </mj-section> -->
-
-    <!-- <mj-section background-color="#0284C7" padding="0 30px">
-      <mj-column
-        border-bottom="2.5px solid white"
-        border-right="2.5px solid white"
-        padding-bottom="15px"
-        padding-top="15px"
-      >
-        <mj-text color="#E0F2FE" font-size="18px" font-weight="500"> Key features and benefits </mj-text>
-        <mj-text color="white" padding-top="0">
-          • High Performance <br />
-          • Unattended Remote Access & Control <br />
-          • Broad Device Support <br />
-          • Powerful Management <br />
-          • Granular Permissions <br />
-          • SSO/SAML Integration <br />
-          • Advanced Security <br />
-          • Active Directory Integration
-        </mj-text>
-        <mj-button color="#0284C7"> FREE TRIAL AVAILABLE </mj-button>
-      </mj-column>
-    </mj-section> -->
-
-    <mj-section background-color="#7E22CE" padding-bottom="32px">
+    <mj-section background-color="#834694" padding-bottom="32px">
       <mj-column>
-        <!-- <mj-text
-          font-family="DM Sans, sans-serif"
-          color="white"
-          font-size="18px"
-          font-weight="400"
-          letter-spacing="1px"
-          line-height="1.4"
-          align="center"
-        >
-          Arrange the trial
-        </mj-text> -->
-
-        <mj-button
-          href="mailto:sales@pactec.co?subject=runecast trial"
-          background-color="#ffffff"
-          font-family="DM Sans, sans-serif"
-          color="#581C87"
-          font-size="16px"
-          font-weight="400"
-          letter-spacing="1px"
-          padding-bottom="20px"
-        >
-          Contact Us
-        </mj-button>
-
         <mj-image
           alt=""
           href="https://pactec.co"
-          padding-bottom="24px"
-          src="https://i.ibb.co/1nydQhc/Pactec-GMail-White.png"
+          padding-bottom="12px"
+          src="https://mailr.vercel.app/frank139/assets/pactec.webp"
           width="200px"
         />
 
         <mj-text
+          padding-top="0"
           align="center"
           color="#FFFFFF"
           font-family="Poppins, sans-serif"
@@ -151,8 +86,8 @@
           letter-spacing="1px"
           line-height="2"
         >
-          Copyright © 2021. All rights reserved.<br />
-          <a href="https://pactec.co" style="color: #ffffff; text-decoration: none"> Packet Technologies </a>
+          Contact:
+          <a href="mailto:sales@pactec.co" style="color: #ffffff; text-decoration: none"> sales@pactec.co </a>
         </mj-text>
 
         <mj-text
@@ -168,7 +103,7 @@
             href="mailto:sales@pactec.co?subject=unsubscribe"
             style="color: #ffffff; text-decoration: none; font-size: 10px"
           >
-            unsubscribe from all emails
+            unsubscribe
           </a>
         </mj-text>
       </mj-column>
