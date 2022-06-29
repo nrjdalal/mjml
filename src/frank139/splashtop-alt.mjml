@@ -89,7 +89,7 @@
           Contact:
           <a
             href="mailto:sales@pactec.co?subject=Splashtop Sales Enquiry"
-            style="color: #ffffff; text-decoration: none"
+            style="color: #ffffff; text-decoration: underline"
           >
             sales@pactec.co
           </a>
