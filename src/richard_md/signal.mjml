@@ -13,12 +13,6 @@
     </mj-attributes>
   </mj-head>
   <mj-body>
-    <mj-section padding-top="32px" padding-bottom="0">
-      <mj-column>
-        <mj-image src="https://mailr.vercel.app/richard_md/assets/logo.jpg" width="128px" />
-      </mj-column>
-    </mj-section>
-
     <mj-section padding-top="0" padding-bottom="0">
       <mj-column>
         <mj-image src="https://mailr.vercel.app/richard_md/assets/main.png" padding-left="24px" padding-right="24px" />
@@ -104,6 +98,12 @@
           Pre-register today and get <span style="font-size: 16px; font-weight: 500">20% discount</span> on first
           12-months subscription. Limited to first 100,000 subscribers or until 31st July 2022, whichever comes first.  
         </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="32px" padding-bottom="0">
+      <mj-column>
+        <mj-image src="https://mailr.vercel.app/richard_md/assets/logo.jpg" width="128px" />
       </mj-column>
     </mj-section>
 
