@@ -53,10 +53,10 @@
           <br /><br />
 
           <span style="font-weight: 400; font-size: 14px; text-align: center; line-height: 1.6">
-            <li>10GB | Unlimited Calls | Free SMS</li>
-            <li>RM25,000 Personal Accident</li>
+            <li>10GB Data | Unlimited Calls | Free SMS</li>
+            <li>RM25,000 Personal Accident Takaful Benefit</li>
             <li>RM50,000 Double Indemnity on Public Transportation</li>
-            <li>RM20,000 Family Takaful Benefits</li>
+            <li>RM20,000 Family Takaful Benefit</li>
             <li>RM50/day Accidental Hospital Income</li>
           </span>
         </mj-text>
@@ -87,7 +87,7 @@
       >
         <mj-text color="#eab308" font-size="18px" font-weight="500"> What will it cost? </mj-text>
         <mj-text color="white" padding-top="0">
-          Only for <span style="font-size: 20px; font-weight: 500">RM42</span> / per month (subject to 6% SST). 
+          Only <span style="font-size: 20px; font-weight: 500">RM42</span> / per month (subject to 6% SST). 
         </mj-text>
       </mj-column>
     </mj-section>
