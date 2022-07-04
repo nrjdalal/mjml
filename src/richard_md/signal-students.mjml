@@ -6,8 +6,8 @@
       href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap"
     />
     <mj-attributes>
-      <mj-button href="https://www.mysignal.com.my/signal-l-lite" background-color="white" color="black" />
-      <mj-image href="https://www.mysignal.com.my/signal-l-lite" alt="SIGNAL Life by AXXESS" />
+      <mj-button href="https://www.mysignal.com.my/signal-lite" background-color="white" color="black" />
+      <mj-image href="https://www.mysignal.com.my/signal-lite" alt="SIGNAL Life by AXXESS" />
       <mj-section background-color="black" />
       <mj-text align="center" color="black" font-family="Montserrat, Arial" line-height="1.4" />
     </mj-attributes>
@@ -62,7 +62,7 @@
         </mj-text>
 
         <mj-text font-size="16px" font-weight="600" container-background-color="#eab308" color="black">
-          <a href="https://www.mysignal.com.my/signal-l-lite" style="color: black; text-decoration: none">
+          <a href="https://www.mysignal.com.my/signal-lite" style="color: black; text-decoration: none">
             PRE-REGISTER HERE
           </a>
         </mj-text>
@@ -86,10 +86,16 @@
           </span>
 
           <br />
-          <span style="font-weight: 400; font-size: 14px; font-style: italic">
+        </mj-text>
+
+        <mj-text font-size="16px" font-weight="400" container-background-color="black" color="black">
+          <a
+            href="https://www.mysignal.com.my/signal-lite"
+            style="color: #eab308; text-decoration: none; font-weight: 500; font-size: 14px; font-style: italic"
+          >
             Full payment of School & University Fees (including food & lodging) in the event of accidental death or
             permanent disablement of a named parent (up to a maximum of RM250,000)
-          </span>
+          </a>
         </mj-text>
 
         <mj-image
@@ -160,22 +166,22 @@
           <mj-social-element
             color="white"
             src="https://iconic.app/icons/iconic/png/white/world.png"
-            href="https://www.mysignal.com.my/signal-l-lite"
+            href="https://www.mysignal.com.my/signal-lite"
           >
-            &nbsp;www.mysignal.com.my/signal-l-lite
+            &nbsp;www.mysignal.com.my/signal-lite
           </mj-social-element>
         </mj-social>
 
         <mj-text font-size="16px" font-weight="600" container-background-color="#eab308" color="black">
-          <a href="https://www.mysignal.com.my/signal-l-lite" style="color: black; text-decoration: none">
+          <a href="https://www.mysignal.com.my/signal-lite" style="color: black; text-decoration: none">
             PRE-REGISTER HERE
           </a>
         </mj-text>
 
         <mj-text padding-top="24px" font-size="10px" color="white">
-          You may <a href="https://www.mysignal.com.my/signal-l-lite" style="color: white">unsubscribe</a> or
-          <a href="https://www.mysignal.com.my/signal-l-lite" style="color: white"> change your contact details</a> at
-          any time.
+          You may <a href="https://www.mysignal.com.my/signal-lite" style="color: white">unsubscribe</a> or
+          <a href="https://www.mysignal.com.my/signal-lite" style="color: white"> change your contact details</a> at any
+          time.
         </mj-text>
       </mj-column>
     </mj-section>
