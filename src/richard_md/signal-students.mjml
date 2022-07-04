@@ -19,13 +19,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section padding-top="32px" padding-bottom="0" background-color="white">
-      <mj-column>
-        <mj-image src="https://mailr.vercel.app/richard_md/assets/main.png" padding-left="24px" padding-right="24px" />
-      </mj-column>
-    </mj-section>
-
-    <mj-section background-color="white" padding-bottom="32px">
+    <mj-section padding-top="24px" padding-bottom="0" background-color="white">
       <mj-column>
         <mj-text font-size="18px"> SIGNAL for Students </mj-text>
         <mj-text font-size="18px" font-weight="600" padding-top="0">
@@ -38,9 +32,20 @@
             providing exceptional telco benefits with valuable insurance and takaful protection.
           </span>
 
-          <br /><br />
+          <br />
         </mj-text>
 
+        <mj-image
+          src="https://mailr.vercel.app/richard_md/assets/priscilla-du-preez-XkKCui44iM0-unsplash.jpg"
+          padding-left="24px"
+          padding-right="24px"
+          border-radius="10px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding-top="12px" padding-bottom="32px">
+      <mj-column>
         <mj-text font-size="18px" font-weight="600" padding-bottom="32px">
           <span style="color: #eab308">Get Telco Benefits -</span>
 
@@ -62,7 +67,15 @@
           </a>
         </mj-text>
 
-        <mj-text font-size="18px" font-weight="600" padding-top="36px">
+        <mj-image
+          src="https://mailr.vercel.app/richard_md/assets/priscilla-du-preez-XkKCui44iM0-unsplash.jpg"
+          padding-left="24px"
+          padding-right="24px"
+          border-radius="10px"
+          padding-top="32px"
+        />
+
+        <mj-text font-size="18px" font-weight="600" padding-top="24px">
           <span style="color: #eab308">Get Exclusive Benefits -</span>
 
           <br /><br />
