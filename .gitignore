@@ -1,5 +1,6 @@
 .DS_Store
 .env
+*.xlsx
 
 node_modules/
 public/
