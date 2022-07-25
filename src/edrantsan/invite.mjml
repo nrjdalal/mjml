@@ -46,7 +46,7 @@
       </mj-section>
       <!-- Section 02 -->
       <mj-section>
-        <mj-column border="2px solid white">
+        <mj-column border="1px solid white">
           <mj-spacer />
           <mj-text color="white">
             If you invite 10 or more clients to Prooption24, your commission will grow up to 40% per referred client
