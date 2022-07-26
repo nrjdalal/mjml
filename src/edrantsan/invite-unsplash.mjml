@@ -1,0 +1,70 @@
+<mjml>
+  <mj-head>
+    <mj-title>Want to earn easy 50 USD?</mj-title>
+    <mj-font
+      name="Poppins"
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
+    />
+    <mj-attributes>
+      <mj-wrapper padding="32px" />
+      <mj-column border-radius="12px" />
+      <mj-spacer height="24px" />
+      <mj-image src="https://mailr.vercel.app/edrantsan/assets/logo.png" alt="Payolie" />
+      <mj-text align="center" color="black" font-family="Poppins, Arial" line-height="1.4" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#06B6D4">
+    <mj-wrapper>
+      <!-- Section 01 -->
+      <mj-section>
+        <mj-column background-color="#ffffff">
+          <mj-spacer />
+          <mj-spacer />
+          <mj-image width="156px" />
+          <mj-text font-size="20px" font-weight="500"> Want to earn easy 50 USD on you balance? </mj-text>
+          <mj-image
+            src="https://mailr.vercel.app/edrantsan/assets/unsplash.jpg"
+            alt=""
+            width="300px"
+            border-radius="10px"
+          />
+          <mj-text font-size="16px" font-weight="500" padding-bottom="0"> It's easy! </mj-text>
+          <mj-text>
+            Just get your friends to sign up to ProOption24 and we will top up your account for quick 50 USD.
+          </mj-text>
+          <mj-spacer />
+
+          <mj-text padding-top="0">
+            Thanks,
+            <br />
+            Team ProOption24
+          </mj-text>
+          <mj-spacer />
+          <mj-spacer />
+        </mj-column>
+      </mj-section>
+      <!-- Section 02 -->
+      <mj-section>
+        <mj-column>
+          <mj-spacer />
+          <mj-text color="white">
+            If you invite 10 or more clients to Prooption24, your commission will grow up to 40% per referred client
+            deposit..
+          </mj-text>
+          <mj-text padding-top="0">
+            <a href="https://veroxyle.com" style="color: #ffffff">Learn more!</a>
+          </mj-text>
+
+          <mj-spacer />
+        </mj-column>
+      </mj-section>
+
+      <!-- Section 03 -->
+      <mj-section padding-top="0">
+        <mj-column>
+          <mj-text color="white">© ProOption24 | Join now | FAQ</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
