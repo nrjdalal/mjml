@@ -15,11 +15,7 @@
   <mj-body>
     <mj-section padding-top="32px" padding-bottom="0">
       <mj-column>
-        <mj-image
-          src="https://mailr.vercel.app/amaurymerlano/assets/get-started.png"
-          border-radius="10px"
-          padding="0 20px"
-        />
+        <mj-image src="https://mailr.vercel.app/amaurymerlano/assets/main.jpg" border-radius="10px" padding="0 20px" />
       </mj-column>
     </mj-section>
 
