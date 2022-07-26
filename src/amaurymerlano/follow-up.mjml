@@ -1,0 +1,104 @@
+<mjml>
+  <mj-head>
+    <mj-title>Save Money</mj-title>
+    <mj-font
+      name="Montserrat"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap"
+    />
+    <mj-attributes>
+      <mj-button href="http://savemoneywith.me/" background-color="white" color="black" />
+      <mj-image href="http://savemoneywith.me/" alt="Exipure" />
+      <mj-section background-color="white" />
+      <mj-text align="center" color="black" font-family="Montserrat, Arial" line-height="1.4" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section padding-top="32px" padding-bottom="0">
+      <mj-column>
+        <mj-image
+          src="https://mailr.vercel.app/amaurymerlano/assets/get-started.png"
+          border-radius="10px"
+          padding="0 20px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding-bottom="32px">
+      <mj-column>
+        <mj-text font-size="18px">
+          Welcome to the next step that will help you start saving substantial money on your recurring business bills.
+        </mj-text>
+        <mj-text color="#14B8A6" font-size="18px" font-weight="600" padding-top="0">
+          I am glad that you took the time to check the information on the site and saw the incredible potential to have
+          hundreds and even thousands of extra dollars in your pocket each year.
+          <br />
+          <br />
+          <span style="font-size: 20px"> Don’t forget to claim your free vacation voucher </span>
+          <br /><br />
+          <span style="color: black">
+            Just reply to this email after booking for details.
+            <br /><br />
+            Thank you once again for thinking about your financial future.
+          </span>
+        </mj-text>
+        <mj-text font-size="16px" font-weight="600" container-background-color="black" color="black">
+          <a href="http://savemoneywith.me/" style="color: white; text-decoration: none"> GET STARTED </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="black" padding="48px 30px 0">
+      <mj-column
+        border-bottom="2.5px solid white"
+        border-left="2.5px solid white"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-text color="#2DD4BF" font-size="18px" font-weight="500">
+          We love referrals, win a $100 Dining Guru Restaurant voucher after they book a free savings review
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="black" padding-bottom="32px">
+      <mj-column>
+        <mj-text color="white">
+          We would like to offer all the information you need and we can schedule a meeting for details!
+          <br />
+          <br />
+          We’ve Save Business Owners Millions on Monthly Business Expenses!
+          <br />
+          <br />
+          All win-win– no risks – no hidden fees!
+        </mj-text>
+
+        <mj-social padding-top="0">
+          <mj-social-element
+            color="white"
+            src="https://iconic.app/icons/iconic/png/white/world.png"
+            href="http://savemoneywith.me/"
+          >
+            &nbsp;savemoneywith.me
+          </mj-social-element>
+        </mj-social>
+
+        <mj-text container-background-color="white">
+          <br />
+          <a style="color: black; text-decoration: none; font-size: 14px" href="http://savemoneywith.me/">
+            <span style="color: #14b8a6; font-weight: 500">
+              Please add my SHG Representative Name and Phone number below while booking your free savings review.
+              <br /><br />
+              <span style="color: black"> Amaury Merlano</span>
+              <br /><br />
+              SHG Authorized Representative
+              <br />
+              832-679-0370
+            </span>
+            <br />
+          </a>
+          <br />
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
