@@ -20,33 +20,24 @@
     </mj-attributes>
   </mj-head>
   <mj-body>
-    <mj-section padding-top="32px" padding-bottom="16px" background-color="black">
+    <mj-section padding-top="32px" padding-bottom="16px" background-color="white">
       <mj-column>
         <mj-image
-          src="https://cdn.shopify.com/s/files/1/0552/4196/5756/files/Takitextile_logo_37d8cc56-7794-4b32-87f3-0bd32bc2ffab_100x@2x.png?v=1631067049"
-          width="128px"
+          src="https://cdn.shopify.com/s/files/1/0552/4196/5756/files/Takitextile_logo_37d8cc56-7794-4b32-87f3-0bd32bc2ffab_100x@2x.png"
+          width="96px"
         />
       </mj-column>
     </mj-section>
 
     <mj-section padding-top="24px" padding-bottom="0" background-color="white">
       <mj-column>
-        <mj-text font-size="18px"> SIGNAL for Students </mj-text>
+        <mj-text font-size="18px" font-weight="500"> Buy 2 Get 1 Free </mj-text>
         <mj-text font-size="18px" font-weight="600" padding-top="0">
           <span style="color: #eab308"> Organic Hooded Kids Bath Robe </span>
-
-          <br /><br />
-
-          <span style="font-size: 14px; line-height: 1.2">
-            SIGNAL Lite is a first of its kind telco cum takaful plan, developed exclusively for students, providing
-            exceptional telco benefits with valuable takaful protection.
-          </span>
-
-          <br />
         </mj-text>
 
         <mj-image
-          src="https://mailr.vercel.app/richard_md/assets/priscilla-du-preez-XkKCui44iM0-unsplash.jpg"
+          src="https://mailr.vercel.app/julyasse/assets/main.png"
           padding-left="24px"
           padding-right="24px"
           border-radius="10px"
@@ -57,17 +48,21 @@
     <mj-section background-color="white" padding-top="12px" padding-bottom="32px">
       <mj-column>
         <mj-text font-size="18px" font-weight="600" padding-bottom="32px">
-          <span style="color: #eab308">Get Telco Benefits -</span>
+          <span style="color: #eab308">Exceptionally Soft, Thick, and Luxurious</span>
 
           <br /><br />
 
           <span style="font-weight: 400; font-size: 14px; text-align: center; line-height: 1.6">
-            <li>16GB Data</li>
-            <li>Unlimited Calls</li>
-            <li>
-              Unlimited Data for socials - <br />
-              Facebook, Instagram, Youtube, Whatsapp, WeChat
-            </li>
+            Inspired by our best-selling organic cotton Thermal® towels, this bathrobe begins with the same long-staple
+            cotton, loomed into single loops that feel thick and plush, yet lofty. Make bath and shower time a luxurious
+            event for your little one with our incredibly soft and colorful organic bathrobe.
+            <br /><br />
+            Our bathrobe is made with 100% organic cotton using soft twist yarn that maintains plushness wash after wash
+            unlike twisted fabrics that become rougher with time. Our bathrobe features a cozy hood along with a belt to
+            easily dry your child and keep him/her warm after a relaxing bath.
+            <br /><br />
+            The bathrobe is super absorbent and dry up quickly, reducing the build up of bacteria and inhibits the
+            growth of odors to keep your little one safe.
           </span>
         </mj-text>
 
@@ -76,27 +71,25 @@
             href="https://takitextile.com/products/organic-hooded-kids-bath-robe"
             style="color: black; text-decoration: none"
           >
-            PRE-REGISTER HERE
+            ADD TO CART
           </a>
         </mj-text>
 
         <mj-text font-size="18px" font-weight="600" padding-top="36px">
-          <span style="color: #eab308">Get Exclusive Benefits -</span>
+          <span style="color: #eab308">Customer Feedbacks</span>
 
-          <br /><br />
+          <br />
 
-          <span style="font-weight: 400; font-size: 14px; text-align: center; line-height: 1.6">
-            <li>RM25,000 Accidental Death or Permanent Disablement</li>
-            <li>RM50,000 Double Indemnity On Public Transportation</li>
-            <li>RM50/day Accidental Hospital Income</li>
-
+          <p style="font-weight: 400; font-size: 14px; text-align: center; line-height: 1.6">
+            <span style="font-size: 16px; font-weight: 600">Martha H.</span> <br />
+            Great robe 👍🏻 - A gift for my toddler grandson, so I have no details about it. It is easier to use for
+            toddlers than 2 towels.
+            <br /><br />
+            <span style="font-size: 16px; font-weight: 600">Gregory W.</span> <br />
+            Just what I was looking for - Excellent quality, substantial cotton terry fabric, nicely dries the child up.
+            Beautiful color, promptly delivered. Highly recommended!
             <br />
-
-            <li>
-              One-touch access to Emergency Services - <br />
-              Police / Ambulance / Fire-Brigade
-            </li>
-          </span>
+          </p>
 
           <br />
         </mj-text>
@@ -106,13 +99,12 @@
             href="https://takitextile.com/products/organic-hooded-kids-bath-robe"
             style="color: #eab308; text-decoration: none; font-weight: 500; font-size: 14px; font-style: italic"
           >
-            Full payment of School & University Fees (including food & lodging) in the event of accidental death or
-            permanent disablement of a named parent (up to a maximum of RM250,000)
+            In stock, ready to ship - Buy Now
           </a>
         </mj-text>
 
         <mj-image
-          src="https://mailr.vercel.app/richard_md/assets/akson-1K8pIbIrhkQ-unsplash.jpg"
+          src="https://cdn.shopify.com/s/files/1/0552/4196/5756/files/IMG_9959_a4e8c9c5-b383-467a-921f-9ce581bb9d52_900x.jpg?v=1630873974"
           padding-left="24px"
           padding-right="24px"
           border-radius="10px"
@@ -128,26 +120,11 @@
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-text color="#eab308" font-size="18px" font-weight="500"> Who is it for? </mj-text>
+        <mj-text color="#eab308" font-size="18px" font-weight="500"> Safe, Comfortable and Plush </mj-text>
         <mj-text color="black" padding-top="0">
-          Malaysian and legally registered non-Malaysian students. Between the age of 10 and 26 years (based on age at
-          next birthday).
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <mj-section background-color="white" padding="0px 30px">
-      <mj-column
-        border-bottom="2.5px solid #eab308"
-        border-right="2.5px solid #eab308"
-        padding-bottom="15px"
-        padding-top="15px"
-      >
-        <mj-text color="#eab308" font-size="18px" font-weight="500"> What will it cost? </mj-text>
-        <mj-text color="black" padding-top="0">
-          Only <span style="font-size: 20px; font-weight: 500">RM58</span> / per month (subject to 6% SST).  <br />
-          Also available with 10GB Data at <span style="font-size: 20px; font-weight: 500">RM38</span> / per month
-          (subject to 6% SST).
+          High quality organic cotton bath robe is designed with a hood that’s perfect for keeping the little ones warm
+          and cozy after bath time. Designed for toddlers, but also works well for babies with sensitive skin because of
+          the natural materials.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -155,19 +132,19 @@
     <mj-section background-color="white" padding="0px 30px" padding-bottom="48px">
       <mj-column
         border-bottom="2.5px solid #eab308"
-        border-left="2.5px solid #eab308"
+        border-right="2.5px solid #eab308"
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-text color="#eab308" font-size="18px" font-weight="500"> Why Pre-Register? </mj-text>
+        <mj-text color="#eab308" font-size="18px" font-weight="500"> The Feel </mj-text>
         <mj-text color="black" padding-top="0">
-          Pre-register today and get <span style="font-size: 16px; font-weight: 500">10% discount</span> on first
-          12-months subscription. Limited to first 100,000 subscribers or until 31st July 2022, whichever comes first.  
+          TakiTextile kids bath robe envelopes your baby in warmth and comfort straight out of the bath. It’s soft and
+          absorbent, making sure your little one gets dry quickly.
         </mj-text>
       </mj-column>
     </mj-section>
 
-    <mj-section padding-top="32px" padding-bottom="0">
+    <mj-section padding-top="32px" padding-bottom="0" background-color="white">
       <mj-column>
         <mj-image
           src="https://cdn.shopify.com/s/files/1/0552/4196/5756/files/Takitextile_logo_37d8cc56-7794-4b32-87f3-0bd32bc2ffab_100x@2x.png?v=1631067049"
@@ -176,15 +153,15 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="black" padding-bottom="32px">
+    <mj-section background-color="white" padding-bottom="32px">
       <mj-column>
         <mj-social padding-top="0">
           <mj-social-element
-            color="white"
+            color="black"
             src="https://iconic.app/icons/iconic/png/white/world.png"
             href="https://takitextile.com/products/organic-hooded-kids-bath-robe"
           >
-            &nbsp;www.mysignal.com.my/signal-lite
+            &nbsp;Fast 2-3 business days shipping
           </mj-social-element>
         </mj-social>
 
@@ -193,15 +170,15 @@
             href="https://takitextile.com/products/organic-hooded-kids-bath-robe"
             style="color: black; text-decoration: none"
           >
-            PRE-REGISTER HERE
+            BUY NOW
           </a>
         </mj-text>
 
-        <mj-text padding-top="24px" font-size="10px" color="white">
+        <mj-text padding-top="24px" font-size="10px" color="black">
           You may
-          <a href="https://takitextile.com/products/organic-hooded-kids-bath-robe" style="color: white">unsubscribe</a>
+          <a href="https://takitextile.com/products/organic-hooded-kids-bath-robe" style="color: black">unsubscribe</a>
           or
-          <a href="https://takitextile.com/products/organic-hooded-kids-bath-robe" style="color: white">
+          <a href="https://takitextile.com/products/organic-hooded-kids-bath-robe" style="color: black">
             change your contact details</a
           >
           at any time.
