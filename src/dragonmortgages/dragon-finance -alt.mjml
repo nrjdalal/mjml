@@ -21,15 +21,16 @@
 
     <mj-section padding-top="24px" padding-bottom="0" background-color="white">
       <mj-column>
-        <mj-text font-size="18px"> MONTHLY CREDIT PAYMENTS TOO HIGH? </mj-text>
+        <mj-text font-size="18px"> ARE YOU LOOKING TO COMPLETE HOME IMPROVEMENTS? </mj-text>
         <mj-text font-size="18px" font-weight="600" padding-top="0">
-          <span style="color: #ef4444"> CONSOLIDATION LOANS FOR HOMEOWNERS </span>
+          <span style="color: #ef4444"> LOANS FOR HOMEOWNERS </span>
 
           <br /><br />
 
           <span style="font-size: 14px; line-height: 1.2">
-            A debt consolidation loan could make your debts easier to manage, it can also reduce the amount of interest
-            you pay by having all your credit commitments in one place at a lower interest rate.
+            A home improvement loan allows you to borrow a large sum of money for major renovations on your property.
+            Typically, with a home improvement loan, interest rates are lower and you can borrow large amounts as it's
+            secured against your property.
           </span>
 
           <br />
@@ -62,7 +63,7 @@
 
         <mj-text font-size="16px" font-weight="600" container-background-color="#ef4444" color="black">
           <a
-            href="https://www.dragonfinance.co.uk/homeowner-loans/debt-consolidation-loans/"
+            href="https://dragonfinance.co.uk/homeowner-loans/home-improvement-loans/"
             style="color: white; text-decoration: none"
           >
             GET QUOTE
@@ -137,7 +138,7 @@
       <mj-column>
         <mj-text font-size="16px" font-weight="600" container-background-color="#ef4444" color="black">
           <a
-            href="https://www.dragonfinance.co.uk/homeowner-loans/debt-consolidation-loans/"
+            href="https://dragonfinance.co.uk/homeowner-loans/home-improvement-loans/"
             style="color: white; text-decoration: none"
           >
             GET QUOTE
