@@ -266,6 +266,12 @@
           padding-bottom="0"
         />
 
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/ahidi.afrika"> </mj-social-element>
+          <mj-social-element background-color="#DB2777" name="instagram" href="https://www.instagram.com/ahidi.afrika">
+          </mj-social-element>
+        </mj-social>
+
         <mj-text font-size="18px" font-weight="600">
           <span style="font-weight: 400; font-size: 14px; text-align: center; line-height: 1.6">
             <!-- <a href="tel:0161 974 5100" style="text-decoration: none; color: black">0161 974 5100</a>
