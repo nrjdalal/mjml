@@ -68,7 +68,7 @@
       >
         <mj-text color="#edae51" font-size="18px" font-weight="500"> Step 1 </mj-text>
         <mj-button background-color="#edae51" color="white" font-size="16px" href="https://vendor.ahidi.co.ke">
-          Log in and select your business
+          Log In And Select Your Business
         </mj-button>
       </mj-column>
     </mj-section>
@@ -85,7 +85,7 @@
           “this will showcase the services your business provides”
         </mj-text>
         <mj-button background-color="#edae51" color="white" font-size="16px" href="https://vendor.ahidi.co.ke/services">
-          Add services
+          Add Services
         </mj-button>
       </mj-column>
     </mj-section>
@@ -103,7 +103,7 @@
           the service when they book online”
         </mj-text>
         <mj-button background-color="#edae51" color="white" font-size="16px" href="https://vendor.ahidi.co.ke/staff">
-          Add staff
+          Add Staff
         </mj-button>
       </mj-column>
     </mj-section>
@@ -116,10 +116,11 @@
       >
         <mj-text color="#edae51" font-size="18px" font-weight="500"> Step 4 </mj-text>
         <mj-text color="black" font-size="14px" padding-top="0">
-          “this will showcase the services your business provides”
+          “start creating your products so you can start selling them online. If you don’t sell products , that’s okay ,
+          you can still use this section to manage your in store use products and ensure you never run out of stock”
         </mj-text>
-        <mj-button background-color="#edae51" color="white" font-size="16px" href="https://vendor.ahidi.co.ke/services">
-          Add services
+        <mj-button background-color="#edae51" color="white" font-size="16px" href="https://vendor.ahidi.co.ke/products">
+          Inventory > Add Products
         </mj-button>
       </mj-column>
     </mj-section>
@@ -133,11 +134,10 @@
       >
         <mj-text color="#edae51" font-size="18px" font-weight="500"> Step 5 </mj-text>
         <mj-text color="black" font-size="14px" padding-top="0">
-          “this will enable to manage your staff as well as allowing your customers to select the preferred staff for
-          the service when they book online”
+          “specify shipping details for your customers ”
         </mj-text>
-        <mj-button background-color="#edae51" color="white" font-size="16px" href="https://vendor.ahidi.co.ke/staff">
-          Add staff
+        <mj-button background-color="#edae51" color="white" font-size="16px" href="https://vendor.ahidi.co.ke/settings">
+          Add Shipping Details
         </mj-button>
       </mj-column>
     </mj-section>
