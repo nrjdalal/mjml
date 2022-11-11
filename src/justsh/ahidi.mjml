@@ -244,12 +244,7 @@
     <mj-section background-color="white" padding-bottom="32px">
       <mj-column>
         <mj-text font-size="16px" font-weight="600" container-background-color="#edae51" color="black">
-          <a
-            href="https://vendor.ahidi.co.ke/homeowner-loans/debt-consolidation-loans/"
-            style="color: white; text-decoration: none"
-          >
-            GET QUOTE
-          </a>
+          <a href="https://vendor.ahidi.co.ke" style="color: white; text-decoration: none"> Ahidi Team </a>
         </mj-text>
 
         <mj-image
