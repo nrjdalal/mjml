@@ -15,7 +15,7 @@
   <mj-body>
     <mj-section padding-top="32px" padding-bottom="16px" background-color="white">
       <mj-column>
-        <mj-image src="https://mailr.vercel.app/justsh/assets/logo.jpg" width="256px" />
+        <mj-image src="https://mailr.vercel.app/dragonmortgages/assets/logo.jpg" width="256px" />
       </mj-column>
     </mj-section>
 
