@@ -22,7 +22,7 @@
     <mj-section padding-top="24px" padding-bottom="0" background-color="white">
       <mj-column>
         <mj-text font-size="18px"> WELCOME TO THE AHIDI FAMILY! </mj-text>
-        <mj-text font-size="18px" font-weight="600" padding-top="0">
+        <mj-text font-size="18px" font-weight="600" padding-top="0" padding-bottom="48px">
           <span style="color: #edae51">
             You have just taken the right steps and are now setting up the road for your Business to Success!
           </span>
@@ -137,7 +137,7 @@
           “specify shipping details for your customers ”
         </mj-text>
         <mj-button background-color="#edae51" color="white" font-size="16px" href="https://vendor.ahidi.co.ke/settings">
-          Add Shipping Details
+          Settings > Add Shipping Details
         </mj-button>
       </mj-column>
     </mj-section>
@@ -150,10 +150,11 @@
       >
         <mj-text color="#edae51" font-size="18px" font-weight="500"> Step 6 </mj-text>
         <mj-text color="black" font-size="14px" padding-top="0">
-          “this will showcase the services your business provides”
+          “get your products or services displayed online, highly recommended to upload professional photos to improve
+          sales!”
         </mj-text>
-        <mj-button background-color="#edae51" color="white" font-size="16px" href="https://vendor.ahidi.co.ke/services">
-          Add services
+        <mj-button background-color="#edae51" color="white" font-size="16px" href="https://vendor.ahidi.co.ke/shop">
+          Add Ahidi Shop
         </mj-button>
       </mj-column>
     </mj-section>
@@ -167,11 +168,16 @@
       >
         <mj-text color="#edae51" font-size="18px" font-weight="500"> Step 7 </mj-text>
         <mj-text color="black" font-size="14px" padding-top="0">
-          “this will enable to manage your staff as well as allowing your customers to select the preferred staff for
-          the service when they book online”
+          “this is the Face of your business, will dictate if your customers will be interested or not. Upload high
+          quality photos and catchy words to attract new customers!”
         </mj-text>
-        <mj-button background-color="#edae51" color="white" font-size="16px" href="https://vendor.ahidi.co.ke/staff">
-          Add staff
+        <mj-button
+          background-color="#edae51"
+          color="white"
+          font-size="16px"
+          href="https://vendor.ahidi.co.ke/website-builder"
+        >
+          Create Mini Website
         </mj-button>
       </mj-column>
     </mj-section>
@@ -184,10 +190,12 @@
       >
         <mj-text color="#edae51" font-size="18px" font-weight="500"> Step 8 </mj-text>
         <mj-text color="black" font-size="14px" padding-top="0">
-          “this will showcase the services your business provides”
+          “this step is extremely important. Integrate the payment gateway to be able to receive payments online or face
+          to face. Remember that your customers won’t be able to book a service or buy your products online without
+          this.”
         </mj-text>
-        <mj-button background-color="#edae51" color="white" font-size="16px" href="https://vendor.ahidi.co.ke/services">
-          Add services
+        <mj-button background-color="#edae51" color="white" font-size="16px" href="https://vendor.ahidi.co.ke/payments">
+          Add Payment Gateway
         </mj-button>
       </mj-column>
     </mj-section>
@@ -201,12 +209,10 @@
       >
         <mj-text color="#edae51" font-size="18px" font-weight="500"> Step 9 </mj-text>
         <mj-text color="black" font-size="14px" padding-top="0">
-          “this will enable to manage your staff as well as allowing your customers to select the preferred staff for
-          the service when they book online”
+          “all the hard work is done and now all you have to focus on is reaching out to your existing and new clients.
+          Add your website link to your social media pages and also share stories and posts to let everybody know how
+          they can now access to your services or products with a click!”
         </mj-text>
-        <mj-button background-color="#edae51" color="white" font-size="16px" href="https://vendor.ahidi.co.ke/staff">
-          Add staff
-        </mj-button>
       </mj-column>
     </mj-section>
     <mj-section background-color="white" padding="0px 30px">
@@ -218,10 +224,16 @@
       >
         <mj-text color="#edae51" font-size="18px" font-weight="500"> Step 10 </mj-text>
         <mj-text color="black" font-size="14px" padding-top="0">
-          “this will showcase the services your business provides”
+          “our page will grow and as we grow we want all our onboarded businesses the chance to grow aswell! We will
+          create content and highlight your business to our social and let everybody know you are out there!”
         </mj-text>
-        <mj-button background-color="#edae51" color="white" font-size="16px" href="https://vendor.ahidi.co.ke/services">
-          Add services
+        <mj-button
+          background-color="#edae51"
+          color="white"
+          font-size="16px"
+          href="https://www.instagram.com/ahidi.afrika"
+        >
+          Follow ahidi.afrika for a business shoutout
         </mj-button>
       </mj-column>
     </mj-section>
@@ -256,8 +268,8 @@
 
         <mj-text font-size="18px" font-weight="600">
           <span style="font-weight: 400; font-size: 14px; text-align: center; line-height: 1.6">
-            <a href="tel:0161 974 5100" style="text-decoration: none; color: black">0161 974 5100</a>
-            <br />
+            <!-- <a href="tel:0161 974 5100" style="text-decoration: none; color: black">0161 974 5100</a>
+            <br /> -->
             <a href="https://vendor.ahidi.co.ke" style="text-decoration: none; color: black"> vendor.ahidi.co.ke </a>
           </span>
 
