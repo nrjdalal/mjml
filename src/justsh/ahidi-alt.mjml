@@ -1,0 +1,282 @@
+<mjml>
+  <mj-head>
+    <mj-title>ahidi</mj-title>
+    <mj-font
+      name="Montserrat"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap"
+    />
+    <mj-attributes>
+      <mj-button href="https://vendor.ahidi.co.ke" background-color="white" color="black" />
+      <mj-image href="https://vendor.ahidi.co.ke" alt="ahidi" />
+      <mj-section background-color="black" />
+      <mj-text align="center" color="black" font-family="Montserrat, Arial" line-height="1.4" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section padding-top="32px" padding-bottom="16px" background-color="white">
+      <mj-column>
+        <mj-image src="https://mailr.vercel.app/justsh/assets/logo.jpg" width="196px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="24px" padding-bottom="0" background-color="white">
+      <mj-column>
+        <mj-text font-size="18px"> WELCOME TO THE AHIDI FAMILY! </mj-text>
+        <mj-text font-size="18px" font-weight="600" padding-top="0" padding-bottom="48px">
+          <span style="color: #f7a500">
+            You have just taken the right steps and are now setting up the road for your Business to Success!
+          </span>
+
+          <br />
+        </mj-text>
+
+        <mj-image
+          src="https://mailr.vercel.app/justsh/assets/main.jpg"
+          padding-left="24px"
+          padding-right="24px"
+          border-radius="10px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding-top="12px" padding-bottom="32px">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="600" padding-bottom="32px">
+          <span style="color: #f7a500">Let us introduce ourselves.</span>
+
+          <br /><br />
+
+          <span style="font-weight: 400; font-size: 14px; text-align: center; line-height: 1.6">
+            Ahidi is the PEOPLE platform. What we mean, is that it has been created by people that have run businesses
+            and really understand challenges that each business owner faces daily.<br /><br />
+            For that reason, we have created all management tools in one platform to help you focus on growing your
+            business rather than waste your valuable time, energy and money in unnecessary paperwork and guesses!
+          </span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding="0px 30px">
+      <mj-column
+        border-bottom="2.5px solid #f7a500"
+        border-left="2.5px solid #f7a500"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-text color="#f7a500" font-size="18px" font-weight="500"> Step 1 </mj-text>
+        <mj-button background-color="#f7a500" color="white" font-size="16px" href="https://vendor.ahidi.co.ke">
+          Log In And Select Your Business
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding="0px 30px">
+      <mj-column
+        border-bottom="2.5px solid #f7a500"
+        border-right="2.5px solid #f7a500"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-text color="#f7a500" font-size="18px" font-weight="500"> Step 2 </mj-text>
+        <mj-text color="black" font-size="14px" padding-top="0">
+          This will showcase the services your business provides
+        </mj-text>
+        <mj-button background-color="#f7a500" color="white" font-size="16px" href="https://vendor.ahidi.co.ke/services">
+          Add Services
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding="0px 30px">
+      <mj-column
+        border-bottom="2.5px solid #f7a500"
+        border-left="2.5px solid #f7a500"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-text color="#f7a500" font-size="18px" font-weight="500"> Step 3 </mj-text>
+        <mj-text color="black" font-size="14px" padding-top="0">
+          This will enable to manage your staff as well as allowing your customers to select the preferred staff for the
+          service when they book online
+        </mj-text>
+        <mj-button background-color="#f7a500" color="white" font-size="16px" href="https://vendor.ahidi.co.ke/staff">
+          Add Staff
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="white" padding="0px 30px">
+      <mj-column
+        border-bottom="2.5px solid #f7a500"
+        border-right="2.5px solid #f7a500"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-text color="#f7a500" font-size="18px" font-weight="500"> Step 4 </mj-text>
+        <mj-text color="black" font-size="14px" padding-top="0">
+          Start creating your products so you can start selling them online. If you don’t sell products , that’s okay ,
+          you can still use this section to manage your in store use products and ensure you never run out of stock
+        </mj-text>
+        <mj-button background-color="#f7a500" color="white" font-size="16px" href="https://vendor.ahidi.co.ke/products">
+          Inventory > Add Products
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding="0px 30px">
+      <mj-column
+        border-bottom="2.5px solid #f7a500"
+        border-left="2.5px solid #f7a500"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-text color="#f7a500" font-size="18px" font-weight="500"> Step 5 </mj-text>
+        <mj-text color="black" font-size="14px" padding-top="0"> Specify shipping details for your customers </mj-text>
+        <mj-button background-color="#f7a500" color="white" font-size="16px" href="https://vendor.ahidi.co.ke/settings">
+          Settings > Add Shipping Details
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="white" padding="0px 30px">
+      <mj-column
+        border-bottom="2.5px solid #f7a500"
+        border-right="2.5px solid #f7a500"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-text color="#f7a500" font-size="18px" font-weight="500"> Step 6 </mj-text>
+        <mj-text color="black" font-size="14px" padding-top="0">
+          Get your products or services displayed online, highly recommended to upload professional photos to improve
+          sales!
+        </mj-text>
+        <mj-button background-color="#f7a500" color="white" font-size="16px" href="https://vendor.ahidi.co.ke/shop">
+          Add Ahidi Shop
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding="0px 30px">
+      <mj-column
+        border-bottom="2.5px solid #f7a500"
+        border-left="2.5px solid #f7a500"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-text color="#f7a500" font-size="18px" font-weight="500"> Step 7 </mj-text>
+        <mj-text color="black" font-size="14px" padding-top="0">
+          This is the Face of your business, will dictate if your customers will be interested or not. Upload high
+          quality photos and catchy words to attract new customers!
+        </mj-text>
+        <mj-button
+          background-color="#f7a500"
+          color="white"
+          font-size="16px"
+          href="https://vendor.ahidi.co.ke/website-builder"
+        >
+          Create Mini Website
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="white" padding="0px 30px">
+      <mj-column
+        border-bottom="2.5px solid #f7a500"
+        border-right="2.5px solid #f7a500"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-text color="#f7a500" font-size="18px" font-weight="500"> Step 8 </mj-text>
+        <mj-text color="black" font-size="14px" padding-top="0">
+          This step is extremely important. Integrate the payment gateway to be able to receive payments online or face
+          to face. Remember that your customers won’t be able to book a service or buy your products online without
+          this.
+        </mj-text>
+        <mj-button background-color="#f7a500" color="white" font-size="16px" href="https://vendor.ahidi.co.ke/payments">
+          Add Payment Gateway
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding="0px 30px">
+      <mj-column
+        border-bottom="2.5px solid #f7a500"
+        border-left="2.5px solid #f7a500"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-text color="#f7a500" font-size="18px" font-weight="500"> Step 9 </mj-text>
+        <mj-text color="black" font-size="14px" padding-top="0">
+          All the hard work is done and now all you have to focus on is reaching out to your existing and new clients.
+          Add your website link to your social media pages and also share stories and posts to let everybody know how
+          they can now access to your services or products with a click!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="white" padding="0px 30px">
+      <mj-column
+        border-bottom="2.5px solid #f7a500"
+        border-right="2.5px solid #f7a500"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-text color="#f7a500" font-size="18px" font-weight="500"> Step 10 </mj-text>
+        <mj-text color="black" font-size="14px" padding-top="0">
+          Our page will grow and as we grow we want all our onboarded businesses the chance to grow aswell! We will
+          create content and highlight your business to our social and let everybody know you are out there!
+        </mj-text>
+        <mj-button
+          background-color="#f7a500"
+          color="white"
+          font-size="16px"
+          href="https://www.instagram.com/ahidi.afrika"
+        >
+          Follow ahidi.afrika for a business shoutout
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding-top="48px">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="600" padding-bottom="16px">
+          <span style="font-weight: 400; font-size: 14px; text-align: center; line-height: 1.6">
+            On Behalf of Ahidi Team we want to thank you for your time and support and Please bear in mind that we are
+            always available should you require further assistance! Our email contact is below.
+          </span>
+
+          <br /><br />
+
+          <span style="color: #f7a500">Now it’s time to invest on your business!</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding-bottom="32px">
+      <mj-column>
+        <mj-text font-size="16px" font-weight="600" container-background-color="#f7a500" color="black">
+          <a href="https://vendor.ahidi.co.ke" style="color: white; text-decoration: none"> Ahidi Team </a>
+        </mj-text>
+
+        <mj-image
+          src="https://mailr.vercel.app/justsh/assets/logo.jpg"
+          width="128px"
+          padding-top="32px"
+          padding-bottom="0"
+        />
+
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/ahidi.afrika"> </mj-social-element>
+          <mj-social-element background-color="#DB2777" name="instagram" href="https://www.instagram.com/ahidi.afrika">
+          </mj-social-element>
+        </mj-social>
+
+        <mj-text font-size="18px" font-weight="600">
+          <span style="font-weight: 400; font-size: 14px; text-align: center; line-height: 1.6">
+            <!-- <a href="tel:0161 974 5100" style="text-decoration: none; color: black">0161 974 5100</a>
+            <br /> -->
+            <a href="https://vendor.ahidi.co.ke" style="text-decoration: none; color: black"> vendor.ahidi.co.ke </a>
+          </span>
+
+          <br />
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
