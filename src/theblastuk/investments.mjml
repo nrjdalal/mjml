@@ -15,7 +15,7 @@
   <mj-body>
     <mj-section padding-top="32px" padding-bottom="16px" background-color="white">
       <mj-column>
-        <mj-image src="https://mailr.vercel.app/theblastuk/assets/logo.jpg" width="320px" />
+        <mj-image src="https://mailr.vercel.app/theblastuk/assets/logo_alt.jpg" width="320px" />
       </mj-column>
     </mj-section>
 
@@ -76,7 +76,7 @@
     <mj-section background-color="white" padding-top="12px" padding-bottom="32px">
       <mj-column>
         <mj-image
-          src="https://mailr.vercel.app/theblastuk/assets/logo.jpg"
+          src="https://mailr.vercel.app/theblastuk/assets/logo_alt.jpg"
           width="320px"
           padding-top="24px"
           padding-bottom="0"
