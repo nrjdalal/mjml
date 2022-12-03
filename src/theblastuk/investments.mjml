@@ -1,13 +1,13 @@
 <mjml>
   <mj-head>
-    <mj-title>Dragon Finance</mj-title>
+    <mj-title>United Investments Group Ltd</mj-title>
     <mj-font
       name="Montserrat"
       href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap"
     />
     <mj-attributes>
       <mj-button href="https://www.dragonfinance.co.uk" background-color="white" color="black" />
-      <mj-image href="https://www.dragonfinance.co.uk" alt="Dragon Finance" />
+      <mj-image href="https://www.dragonfinance.co.uk" alt="United Investments Group Ltd" />
       <mj-section background-color="black" />
       <mj-text align="center" color="black" font-family="Montserrat, Arial" line-height="1.4" />
     </mj-attributes>
@@ -15,7 +15,7 @@
   <mj-body>
     <mj-section padding-top="32px" padding-bottom="16px" background-color="white">
       <mj-column>
-        <mj-image src="https://mailr.vercel.app/dragonmortgages/assets/logo.jpg" width="256px" />
+        <mj-image src="https://mailr.vercel.app/theblastuk/assets/logo.jpg" width="256px" />
       </mj-column>
     </mj-section>
 
@@ -36,7 +36,7 @@
         </mj-text>
 
         <mj-image
-          src="https://mailr.vercel.app/dragonmortgages/assets/main-alt.jpg"
+          src="https://mailr.vercel.app/theblastuk/assets/main-alt.jpg"
           padding-left="24px"
           padding-right="24px"
           border-radius="10px"
@@ -96,8 +96,8 @@
       >
         <mj-text color="#ef4444" font-size="18px" font-weight="500"> Why Choose Us? </mj-text>
         <mj-text color="black" padding-top="0">
-          At Dragon Finance, we believe that getting the financial products you need shouldn’t be a hassle, so we’re
-          here to make it quick, easy and stress-free.
+          At United Investments Group Ltd, we believe that getting the financial products you need shouldn’t be a
+          hassle, so we’re here to make it quick, easy and stress-free.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -145,7 +145,7 @@
         </mj-text>
 
         <mj-image
-          src="https://mailr.vercel.app/dragonmortgages/assets/logo.jpg"
+          src="https://mailr.vercel.app/theblastuk/assets/logo.jpg"
           width="256px"
           padding-top="0"
           padding-bottom="0"
