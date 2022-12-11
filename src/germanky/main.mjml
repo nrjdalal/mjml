@@ -1,0 +1,163 @@
+<mjml>
+  <mj-head>
+    <mj-title>GET HIRED IN FLORIDA</mj-title>
+    <mj-font
+      name="Montserrat"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap"
+    />
+    <mj-attributes>
+      <mj-button href="https://gethiredinflorida.us" background-color="white" color="black" />
+      <mj-image href="https://gethiredinflorida.us" alt="GET HIRED IN FLORIDA" />
+      <mj-section background-color="black" />
+      <mj-text align="center" color="black" font-family="Montserrat, Arial" line-height="1.4" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section padding-top="32px" padding-bottom="16px" background-color="white">
+      <mj-column>
+        <mj-image src="https://gethiredinflorida.us/wp-content/uploads/gethiredinflorida-logo2.png" width="196px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="24px" padding-bottom="0" background-color="white">
+      <mj-column>
+        <mj-text font-size="18px"> Hi There! </mj-text>
+        <mj-text font-size="18px" font-weight="600" padding-top="0">
+          <span style="color: #eab308">
+            Are you looking to hire the best local talent for your business in Florida?
+          </span>
+
+          <!-- <br /><br />
+
+          <span style="font-size: 14px; line-height: 1.2">
+            If you are, here’s a hiring headache you most likely want to avoid.
+          </span> -->
+
+          <br />
+        </mj-text>
+
+        <mj-image
+          src="https://mailr.vercel.app/richard_md/assets/priscilla-du-preez-XkKCui44iM0-unsplash.jpg"
+          padding-left="24px"
+          padding-right="24px"
+          border-radius="10px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding-top="12px" padding-bottom="32px">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="600" padding-bottom="32px">
+          <span style="color: #eab308"> If you are, here’s a hiring headache you most likely want to avoid. </span>
+
+          <br /><br />
+
+          <span style="font-weight: 400; font-size: 14px; text-align: center; line-height: 1.6">
+            As you know, there are many recruitment platforms that give you the ability to recruit online. 
+            <br />
+            But they fail to provide enough online visibility to your job listings outside the platform and in search
+            engines.
+          </span>
+        </mj-text>
+
+        <mj-text font-size="16px" font-weight="600" container-background-color="#eab308" color="black">
+          <a href="https://gethiredinflorida.us" style="color: black; text-decoration: none"> TRY NOW </a>
+        </mj-text>
+
+        <mj-text font-size="18px" font-weight="600" padding-top="36px">
+          <span style="font-weight: 400; font-size: 14px; text-align: center; line-height: 1.6">
+            And the hiring managers and local talent gets stuck navigating the increasingly complex tools that can take
+            quite some time to properly learn.
+            <br /><br />
+            This is exactly the challenge we’re trying to solve.
+          </span>
+
+          <br />
+        </mj-text>
+
+        <mj-image
+          src="https://mailr.vercel.app/richard_md/assets/akson-1K8pIbIrhkQ-unsplash.jpg"
+          padding-left="24px"
+          padding-right="24px"
+          border-radius="10px"
+          padding-top="32px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding="0px 30px">
+      <mj-column
+        border-bottom="2.5px solid #eab308"
+        border-left="2.5px solid #eab308"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-text color="#eab308" font-size="18px" font-weight="500"> Who is it for? </mj-text>
+        <mj-text color="black" padding-top="0">
+          GetHiredinFlorida is a recruitment platform that helps you find and hire the best local talent in an easy,
+          simple, and economical way.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding="0px 30px">
+      <mj-column
+        border-bottom="2.5px solid #eab308"
+        border-right="2.5px solid #eab308"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-text color="#eab308" font-size="18px" font-weight="500">
+          Here’s something else you’d like to know.
+        </mj-text>
+        <mj-text color="black" padding-top="0">
+          It is natively integrated with search engines like Google jobs that increase the visibility of your job
+          postings up to 650%.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding="0px 30px" padding-bottom="48px">
+      <mj-column
+        border-bottom="2.5px solid #eab308"
+        border-left="2.5px solid #eab308"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-text color="#eab308" font-size="18px" font-weight="500"> You get to attract demanding candidates. </mj-text>
+        <mj-text color="black" padding-top="0">
+          And facilitate them better by cutting through the noise of all the other recruiters trying to reach out.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="32px" padding-bottom="0" background-color="white">
+      <mj-column>
+        <mj-image src="https://gethiredinflorida.us/wp-content/uploads/gethiredinflorida-logo2.png" width="196px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding-bottom="32px">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="600">
+          <span style="font-weight: 400; font-size: 14px; text-align: center; line-height: 1.6">
+            If you want to explore further, kindly visit our website.
+          </span>
+
+          <br />
+        </mj-text>
+
+        <mj-text font-size="16px" font-weight="600" container-background-color="#eab308" color="black">
+          <a href="https://gethiredinflorida.us" style="color: black; text-decoration: none">
+            https://gethiredinflorida.us
+          </a>
+        </mj-text>
+
+        <mj-text padding-top="24px" font-size="14px" color="black">
+          And if you’d like to discuss your specific recruitment needs, you can email us at
+          <a href="mailto:info@gethiredinflorida.com" style="color: black"> info@gethiredinflorida.com</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
