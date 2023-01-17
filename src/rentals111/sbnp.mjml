@@ -21,7 +21,11 @@
 
     <mj-section padding-top="0" padding-bottom="0">
       <mj-column>
-        <mj-image src="https://mailr.vercel.app/richard_md/assets/main.png" padding-left="24px" padding-right="24px" />
+        <mj-image
+          src="https://mailr.vercel.app/rentals111/assets/IMG_0588.jpg"
+          padding-left="24px"
+          padding-right="24px"
+        />
       </mj-column>
     </mj-section>
 
