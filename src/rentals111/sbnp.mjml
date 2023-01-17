@@ -72,11 +72,21 @@
       >
         <mj-text color="#eab308" font-size="18px" font-weight="500"> Apparels and more </mj-text>
         <mj-text color="white" padding-top="0"> Get classic t-shirts, hoodies and more. </mj-text>
-        <mj-carousel padding="20px">
-          <mj-carousel-image src="https://cdn.shopify.com/s/files/1/0555/5221/3269/products/OGHoodie-SBNP_400x.jpg" />
-          <mj-carousel-image src="https://cdn.shopify.com/s/files/1/0555/5221/3269/products/TextDadHat-SBNP_400x.jpg" />
-          <mj-carousel-image src="https://cdn.shopify.com/s/files/1/0555/5221/3269/products/TextTee-SBNP_400x.jpg" />
-        </mj-carousel>
+        <mj-image
+          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+          padding-left="24px"
+          padding-right="24px"
+          width="300px"
+        />
+        <mj-button
+          background-color="#eab308"
+          color="black"
+          font-size="16px"
+          font-weight="500"
+          href="https://joinsbnp.org/collections/all"
+        >
+          Shop Now
+        </mj-button>
       </mj-column>
     </mj-section>
 
@@ -87,10 +97,20 @@
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-text color="#eab308" font-size="18px" font-weight="500"> What will it cost? </mj-text>
+        <mj-text color="#eab308" font-size="18px" font-weight="500"> Donate to Shoot Basketballs NOT People </mj-text>
         <mj-text color="white" padding-top="0">
-          Only <span style="font-size: 20px; font-weight: 500">RM42</span> / per month (subject to 6% SST). 
+          Thank you for supporting Shoot Basketballs NOT People and our mission to use basketballs as a vehicle to
+          change and save lives.
         </mj-text>
+        <mj-button
+          background-color="#eab308"
+          color="black"
+          font-size="16px"
+          font-weight="500"
+          href="https://www.paypal.com/donate/?hosted_button_id=EB65QFCR4KQBG"
+        >
+          Donate
+        </mj-button>
       </mj-column>
     </mj-section>
 
@@ -101,17 +121,45 @@
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-text color="#eab308" font-size="18px" font-weight="500"> Why Pre-Register? </mj-text>
+        <mj-text color="#eab308" font-size="18px" font-weight="500"> Stay Updated with SBNP </mj-text>
+        <mj-text color="white" padding-top="0"> Subscribe to our newsletter and more. </mj-text>
+        <mj-image
+          src="https://cdn.shopify.com/s/files/1/0555/5221/3269/articles/RC4jWFbnoFGUoXxuP7P6eA_400x.jpg?v=1673827896"
+          padding-left="24px"
+          padding-right="24px"
+          border-radius="10px"
+          width="350px"
+        />
         <mj-text color="white" padding-top="0">
-          Pre-register today and get <span style="font-size: 16px; font-weight: 500">20% discount</span> on first
-          12-months subscription. Limited to first 100,000 subscribers or until 31st July 2022, whichever comes first.  
+          The Benefits of Normatec Pants for Recovery and Why Young Players Should Definitely Consider These
         </mj-text>
+
+        <mj-image
+          src="https://cdn.shopify.com/s/files/1/0555/5221/3269/articles/Players_Should_Incorporate_Mediation_400x.jpg?v=1671831574"
+          padding-left="24px"
+          padding-right="24px"
+          border-radius="10px"
+          width="350px"
+        />
+        <mj-text color="white" padding-top="0">
+          Why Young Players Should Incorporate Mediation into Their Everyday Routine?
+        </mj-text>
+
+        <mj-button
+          background-color="#eab308"
+          color="black"
+          font-size="16px"
+          font-weight="500"
+          href="https://joinsbnp.org/blogs/news"
+        >
+          Read More
+        </mj-button>
       </mj-column>
     </mj-section>
 
     <mj-section padding-top="32px" padding-bottom="0">
       <mj-column>
-        <mj-image src="https://mailr.vercel.app/richard_md/assets/logo.jpg" width="128px" />
+        <mj-image src="https://mailr.vercel.app/rentals111/assets/logo.png" width="128px" />
       </mj-column>
     </mj-section>
 
@@ -123,12 +171,12 @@
             src="https://iconic.app/icons/iconic/png/white/world.png"
             href="https://joinsbnp.org"
           >
-            &nbsp;www.mysignal.com.my/signal-life
+            &nbsp;https://joinsbnp.org
           </mj-social-element>
         </mj-social>
 
         <mj-text font-size="16px" font-weight="600" container-background-color="#eab308" color="black">
-          <a href="https://joinsbnp.org" style="color: black; text-decoration: none"> PRE-REGISTER HERE </a>
+          <a href="https://joinsbnp.org" style="color: black; text-decoration: none"> VISIT NOW </a>
         </mj-text>
 
         <mj-text padding-top="24px" font-size="10px">
