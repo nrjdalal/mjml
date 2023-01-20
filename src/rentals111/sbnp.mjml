@@ -38,7 +38,11 @@
 
           <br /><br />
 
-          <span style="font-size: 14px; line-height: 1.2"> LESS EXCUSES, MORE ADJUSTMENTS </span>
+          <span style="font-size: 14px; line-height: 1.2">
+            We're slowing down gun violence by getting local youth involved in basketball.
+            <br />
+            LESS EXCUSES, MORE ADJUSTMENTS
+          </span>
 
           <br /><br />
         </mj-text>
@@ -47,19 +51,25 @@
           <a href="https://joinsbnp.org" style="color: black; text-decoration: none"> VISIT NOW </a>
         </mj-text>
 
-        <!-- <mj-text font-size="18px" font-weight="600" padding-top="36px">
-          <span style="color: #eab308">Get Exclusive Benefits -</span>
+        <mj-text font-size="18px" font-weight="600" padding-top="36px">
+          <span style="color: #eab308">Join our Player Development Program</span>
+        </mj-text>
 
-          <br /><br />
-
+        <mj-image
+          src="https://cdn.shopify.com/s/files/1/0555/5221/3269/articles/RC4jWFbnoFGUoXxuP7P6eA_400x.jpg?v=1673827896"
+          padding-left="24px"
+          padding-right="24px"
+          border-radius="10px"
+          width="350px"
+        />
+        <mj-text font-size="18px" font-weight="600" padding-top="36px">
           <span style="color: white; font-weight: 400; font-size: 14px; text-align: center; line-height: 1.6">
-            <li>10GB Data | Unlimited Calls | Free SMS</li>
-            <li>RM25,000 Personal Accident Takaful Benefit</li>
-            <li>RM50,000 Double Indemnity on Public Transportation</li>
-            <li>RM20,000 Family Takaful Benefit</li>
-            <li>RM50/day Accidental Hospital Income</li>
+            <li>Nationally recognized as one of the best in country</li>
+            <li>Innovative training techniques such as pilates, cryotherapy and more</li>
+            <li>Valuable coaching and funamental basketball training</li>
+            <li>Positive, effective grassroots way to end tragic gun violence</li>
           </span>
-        </mj-text> -->
+        </mj-text>
       </mj-column>
     </mj-section>
 
