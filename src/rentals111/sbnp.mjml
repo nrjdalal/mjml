@@ -72,6 +72,16 @@
             <li>Positive, effective grassroots way to end tragic gun violence</li>
           </span>
         </mj-text>
+
+        <mj-button
+          background-color="#eab308"
+          color="black"
+          font-size="16px"
+          font-weight="500"
+          href="https://joinsbnp.org/blogs/news"
+        >
+          View PDF to know more
+        </mj-button>
       </mj-column>
     </mj-section>
 
