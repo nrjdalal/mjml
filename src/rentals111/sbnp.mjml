@@ -56,12 +56,14 @@
         </mj-text>
 
         <mj-image
-          src="https://cdn.shopify.com/s/files/1/0555/5221/3269/articles/RC4jWFbnoFGUoXxuP7P6eA_400x.jpg?v=1673827896"
+          src="https://mailr.vercel.app/rentals111/assets/video.jpg"
+          href="https://www.youtube.com/watch?v=pctTtkIDWDg"
           padding-left="24px"
           padding-right="24px"
           border-radius="10px"
           width="350px"
         />
+
         <mj-text font-size="18px" font-weight="600" padding-top="36px">
           <span style="color: white; font-weight: 400; font-size: 14px; text-align: center; line-height: 1.6">
             <li>Nationally recognized as one of the best in country</li>
