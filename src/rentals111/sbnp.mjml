@@ -82,6 +82,12 @@
         >
           View PDF to know more
         </mj-button>
+
+        <mj-spacer height="24px" />
+
+        <mj-text font-size="16px" font-weight="600" container-background-color="#eab308" color="black">
+          <a href="https://joinsbnp.org" style="color: black; text-decoration: none"> JOIN THE PROGRAM </a>
+        </mj-text>
       </mj-column>
     </mj-section>
 
