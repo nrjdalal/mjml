@@ -144,29 +144,25 @@
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-text color="#22C55E" font-size="18px" font-weight="500"> Stay Updated with SBNP </mj-text>
-        <mj-text color="black" padding-top="0"> Subscribe to our newsletter and more. </mj-text>
-        <mj-image
-          src="https://cdn.shopify.com/s/files/1/0555/5221/3269/articles/RC4jWFbnoFGUoXxuP7P6eA_400x.jpg?v=1673827896"
-          padding-left="24px"
-          padding-right="24px"
-          border-radius="10px"
-          width="350px"
-        />
-        <mj-text color="black" padding-top="0">
-          The Benefits of Normatec Pants for Recovery and Why Young Players Should Definitely Consider These
-        </mj-text>
+        <mj-text color="#22C55E" font-size="18px" font-weight="500"> Clients we work for. </mj-text>
 
         <mj-image
-          src="https://cdn.shopify.com/s/files/1/0555/5221/3269/articles/Players_Should_Incorporate_Mediation_400x.jpg?v=1671831574"
+          src="https://traboufix.com/wp-content/uploads/2022/12/The-Black-Bear-Logo-01-1536x1536.png"
           padding-left="24px"
           padding-right="24px"
           border-radius="10px"
-          width="350px"
+          width="128px"
         />
-        <mj-text color="black" padding-top="0">
-          Why Young Players Should Incorporate Mediation into Their Everyday Routine?
-        </mj-text>
+        <mj-text color="black" padding-top="0"> Something bout blackbear or a review. </mj-text>
+
+        <mj-image
+          src="https://traboufix.com/wp-content/uploads/2022/12/Pickfy-Logo.png"
+          padding-left="24px"
+          padding-right="24px"
+          border-radius="10px"
+          width="128px"
+        />
+        <mj-text color="black" padding-top="0"> Something bout curiosity or a review. </mj-text>
 
         <mj-button
           background-color="#0e6050"
