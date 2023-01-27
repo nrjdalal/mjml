@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" viewBox="0 0 600 150">
+  <text transform="translate(167.83 109.44)" style="fill:#fff; font-family:Aborm-Regular, Aborm; font-size:96px;">
+    <tspan x="0" y="0">Traboufix</tspan>
+  </text>
+  <g>
+    <polyline points="3 74.69 75.46 2.5 147.76 74.69 130.37 93.13 98.13 61.43 52.76 61.55 20.88 93.13 3 74.69" style="fill:#fff; opacity:.7;"></polyline>
+    <polygon points="130.37 93.13 93.39 93.13 93.39 129.13 111.51 147.5 147.76 110.76 130.37 93.13" style="fill:#fff; opacity:.9;"></polygon>
+    <polyline points="3 111.25 20.88 93.13 57.62 93.13 57.62 130.11 39.25 147.5 3 111.25" style="fill:#fff; opacity:.9;"></polyline>
+  </g>
+</svg>
