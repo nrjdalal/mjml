@@ -84,7 +84,11 @@
         padding-top="15px"
       >
         <mj-text color="#22C55E" font-size="18px" font-weight="500"> Cleaning Services </mj-text>
-        <mj-text color="black" padding-top="0"> Get classic t-shirts, hoodies and more. </mj-text>
+        <mj-text color="black" padding-top="0">
+          The Traboufix team will ensure that your business is constantly in the finest possible shape for your staff
+          and customers. We take care of every detail in your spaces, from basic cleaning to carpet cleaning and window
+          cleaning, so you can grow and feel safe and secure.
+        </mj-text>
         <mj-image
           src="https://mailr.vercel.app/midz259/assets/apparel.gif"
           padding-left="24px"
@@ -98,7 +102,7 @@
           font-weight="500"
           href="https://traboufix.com/collections/all"
         >
-          Shop Now
+          Try Cleaning Services
         </mj-button>
       </mj-column>
     </mj-section>
@@ -110,10 +114,18 @@
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-text color="#22C55E" font-size="18px" font-weight="500"> Donate to TRABOUFIX </mj-text>
+        <mj-text color="#22C55E" font-size="18px" font-weight="500"> Renovation Services </mj-text>
         <mj-text color="black" padding-top="0">
-          Thank you for supporting TRABOUFIX and our mission to use basketballs as a vehicle to change and save lives.
+          Your house is in good hands with the Traboufix team; we can guide you through every stage of your renovation
+          plans. We can build a unique solution to your demands in carpentry, kitchens, baths, and structural
+          renovations.
         </mj-text>
+        <mj-image
+          src="https://mailr.vercel.app/midz259/assets/apparel.gif"
+          padding-left="24px"
+          padding-right="24px"
+          width="300px"
+        />
         <mj-button
           background-color="#0e6050"
           color="white"
@@ -121,7 +133,7 @@
           font-weight="500"
           href="https://www.paypal.com/donate/?hosted_button_id=EB65QFCR4KQBG"
         >
-          Donate
+          Try Renovation Services
         </mj-button>
       </mj-column>
     </mj-section>
