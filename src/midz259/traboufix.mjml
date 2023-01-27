@@ -47,12 +47,11 @@
         </mj-text>
 
         <mj-text font-size="18px" font-weight="600" padding-top="36px">
-          <span style="color: #22c55e">Traboufix offers your organization</span>
+          <span style="color: #22c55e">Traboufix offers your organization </span>
         </mj-text>
 
         <mj-image
-          src="https://mailr.vercel.app/midz259/assets/video.jpg"
-          href="https://www.youtube.com/watch?v=pctTtkIDWDg"
+          src="https://traboufix.com/wp-content/uploads/2022/12/cleaning-with-special-mop-in-the-modern-office-2022-11-23-06-19-48-utc-scaled.jpg"
           padding-left="24px"
           padding-right="24px"
           border-radius="10px"
@@ -71,7 +70,7 @@
         <mj-spacer height="24px" />
 
         <mj-text font-size="16px" font-weight="600" container-background-color="#0e6050" color="black">
-          <a href="https://traboufix.com" style="color: white; text-decoration: none"> JOIN THE PROGRAM </a>
+          <a href="https://traboufix.com" style="color: white; text-decoration: none"> CONTACT US </a>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -90,7 +89,7 @@
           cleaning, so you can grow and feel safe and secure.
         </mj-text>
         <mj-image
-          src="https://mailr.vercel.app/midz259/assets/apparel.gif"
+          src="https://mailr.vercel.app/midz259/assets/cleaning.gif"
           padding-left="24px"
           padding-right="24px"
           width="300px"
