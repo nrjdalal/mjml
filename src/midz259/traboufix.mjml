@@ -82,19 +82,109 @@
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-text color="#22C55E" font-size="18px" font-weight="500"> Cleaning Services </mj-text>
-        <mj-text color="black" padding-top="0">
+        <mj-text color="#22C55E" font-size="18px" font-weight="500"> CLEANING SERVICES </mj-text>
+        <mj-text color="black" font-weight="500" padding-top="0">
           The Traboufix team will ensure that your business is constantly in the finest possible shape for your staff
           and customers. We take care of every detail in your spaces, from basic cleaning to carpet cleaning and window
           cleaning, so you can grow and feel safe and secure.
         </mj-text>
+
+        <!-- Points Start 1 -->
         <mj-image
-          src="https://mailr.vercel.app/midz259/assets/cleaning.gif"
+          src="https://www.sernafm.com/wp-content/uploads/2021/10/AdobeStock_226523677-1.jpg"
           padding-left="24px"
           padding-right="24px"
           width="300px"
         />
-        <mj-button
+        <mj-text color="#22C55E" font-size="16px" font-weight="500"> General Cleaning </mj-text>
+        <mj-text color="black" padding-top="0">
+          We’ve helped businesses from a variety of sectors, ranging from schools to offices and entertainment venues,
+          to keep their spaces professionally cleaned throughout the year. We tailor our service specifically to meet
+          each of our client’s individual needs. By implementing daily, weekly and monthly cleaning schedules we ensure
+          that our exceptional service is maintained.
+        </mj-text>
+        <!-- Points End 1 -->
+
+        <!-- Points Start 2 -->
+        <mj-image
+          src="https://www.sernafm.com/wp-content/uploads/2021/10/AdobeStock_403803640-1.jpg"
+          padding-left="24px"
+          padding-right="24px"
+          width="300px"
+        />
+        <mj-text color="#22C55E" font-size="16px" font-weight="500"> Deep Cleaning </mj-text>
+        <mj-text color="black" padding-top="0">
+          During a deep clean, a fully comprehensive clean is carried out of the entire area which often takes more time
+          and is carried out less frequently. In commercial buildings such as offices and schools, a deep clean is a
+          service that goes well beyond the standard daily cleaning of the visual areas that are most often used by
+          staff and customers.
+        </mj-text>
+        <!-- Points End 2 -->
+
+        <!-- Points Start 3 -->
+        <mj-image
+          src="https://www.sernafm.com/wp-content/uploads/2021/10/AdobeStock_176419110-1.jpg"
+          padding-left="24px"
+          padding-right="24px"
+          width="300px"
+        />
+        <mj-text color="#22C55E" font-size="16px" font-weight="500"> Carpet Cleaning </mj-text>
+        <mj-text color="black" padding-top="0">
+          We help business to keep their carpets free from soil and grit which often accumulate on carpets and enable
+          harmful bacteria to work undetected. A regular carpet clean from Traboufix, using our eco-friendly products
+          and powerful machines, will ensure your carpet lasts longer and stays in great condition.
+        </mj-text>
+        <!-- Points End 3 -->
+
+        <!-- Points Start 4 -->
+        <mj-image
+          src="https://www.sernafm.com/wp-content/uploads/2021/11/maintenance.jpg"
+          padding-left="24px"
+          padding-right="24px"
+          width="300px"
+        />
+        <mj-text color="#22C55E" font-size="16px" font-weight="500"> Hard Floor Maintainance </mj-text>
+        <mj-text color="black" padding-top="0">
+          Serna can care for your stone, wooden and vinyl floors. Our treatments include scrubbing and buffing floors to
+          a shiny finish, stripping and re-polishing wooden floors, and applying a protective seal to guard against
+          damage. These treatments have enhanced the appearance of many establishments which leaves a great impression
+          on customers.
+        </mj-text>
+        <!-- Points End 4 -->
+
+        <!-- Points Start 5 -->
+        <mj-image
+          src="https://www.sernafm.com/wp-content/uploads/2021/10/AdobeStock_332755088-1.jpg"
+          padding-left="24px"
+          padding-right="24px"
+          width="300px"
+        />
+        <mj-text color="#22C55E" font-size="16px" font-weight="500"> Electronic Disinfection </mj-text>
+        <mj-text color="black" padding-top="0">
+          We all know that regular use of computers and telephones in offices results in a build-up of bacteria and dirt
+          on the receiver and in the keyboards. We offer extensive cleaning of all your computers and telephones, so
+          that you can protect the health of staff when working in the office.
+        </mj-text>
+        <!-- Points End 5 -->
+
+        <!-- Points Start 6 -->
+        <mj-image
+          src="https://www.sernafm.com/wp-content/uploads/2021/10/AdobeStock_162907835-1.jpg"
+          padding-left="24px"
+          padding-right="24px"
+          width="300px"
+        />
+        <mj-text color="#22C55E" font-size="16px" font-weight="500"> Builders Clean </mj-text>
+        <mj-text color="black" padding-top="0">
+          We can support your building project during construction and ensure that the newly built or refurbished
+          premises look fresh and clean. Drawing on years of experience, our heavy duty cleaning team will remove
+          construction debris, cleaning end-to-end and top-to-bottom leaving the property sparkling clean and refreshed.
+        </mj-text>
+        <!-- Points End 6 -->
+      </mj-column>
+    </mj-section>
+
+    <!-- <mj-button
           background-color="#0e6050"
           color="white"
           font-size="16px"
@@ -102,9 +192,7 @@
           href="https://traboufix.com"
         >
           Try Cleaning Services
-        </mj-button>
-      </mj-column>
-    </mj-section>
+        </mj-button> -->
 
     <mj-section background-color="white" padding="0 30px">
       <mj-column
@@ -120,12 +208,12 @@
           renovations.
         </mj-text>
         <mj-image
-          src="https://traboufix.com/wp-content/uploads/2022/12/home-renovation-2021-08-31-12-58-12-utc-scaled.jpg"
+          src="https://mailr.vercel.app/midz259/assets/cleaning.gif"
           padding-left="24px"
           padding-right="24px"
           width="300px"
         />
-        <mj-button
+        <!-- <mj-button
           background-color="#0e6050"
           color="white"
           font-size="16px"
@@ -133,11 +221,11 @@
           href="https://traboufix.com"
         >
           Try Renovation Services
-        </mj-button>
+        </mj-button> -->
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="white" padding="0 30px">
+    <!-- <mj-section background-color="white" padding="0 30px">
       <mj-column
         border-bottom="2.5px solid #22C55E"
         border-left="2.5px solid #22C55E"
@@ -145,7 +233,6 @@
         padding-top="15px"
       >
         <mj-text color="#22C55E" font-size="18px" font-weight="500"> Clients we work for. </mj-text>
-
         <mj-image
           src="https://traboufix.com/wp-content/uploads/2022/12/The-Black-Bear-Logo-01-1536x1536.png"
           padding-left="24px"
@@ -174,7 +261,7 @@
           Read More
         </mj-button>
       </mj-column>
-    </mj-section>
+    </mj-section> -->
 
     <mj-section padding-top="32px" padding-bottom="0">
       <mj-column>
