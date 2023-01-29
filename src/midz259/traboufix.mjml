@@ -201,8 +201,8 @@
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-text color="#22C55E" font-size="18px" font-weight="500"> Renovation Services </mj-text>
-        <mj-text color="black" padding-top="0">
+        <mj-text color="#22C55E" font-size="18px" font-weight="500"> RENOVATION SERVICES </mj-text>
+        <mj-text color="black" font-weight="500" padding-top="0">
           Your house is in good hands with the Traboufix team; we can guide you through every stage of your renovation
           plans. We can build a unique solution to your demands in carpentry, kitchens, baths, and structural
           renovations.
