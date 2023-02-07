@@ -129,6 +129,8 @@
         <mj-text color="white" padding-top="0">
           Thank you for supporting Shoot Basketballs NOT People and our mission to use basketballs as a vehicle to
           change and save lives.
+          <br /><br />
+          <a href="https://youtu.be/Gq3mhygfEj0" style="color: white">Click to watch video to know more!</a>
         </mj-text>
         <mj-button
           background-color="#eab308"
