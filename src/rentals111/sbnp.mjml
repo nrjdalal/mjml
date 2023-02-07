@@ -187,6 +187,32 @@
       </mj-column>
     </mj-section>
 
+    <mj-section background-color="black" padding="0 30px">
+      <mj-column
+        border-bottom="2.5px solid #eab308"
+        border-right="2.5px solid #eab308"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-text color="#eab308" font-size="18px" font-weight="500"> Try our e-books </mj-text>
+        <mj-text color="white" padding-top="0">
+          Thank you for supporting Shoot Basketballs NOT People and our mission to use basketballs as a vehicle to
+          change and save lives.
+          <br /><br />
+          <a href="https://youtu.be/Gq3mhygfEj0" style="color: white">Click to watch video to know more!</a>
+        </mj-text>
+        <mj-button
+          background-color="#eab308"
+          color="black"
+          font-size="16px"
+          font-weight="500"
+          href="https://www.paypal.com/donate/?hosted_button_id=EB65QFCR4KQBG"
+        >
+          Donate
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
     <mj-section padding-top="32px" padding-bottom="0">
       <mj-column>
         <mj-image src="https://mailr.vercel.app/rentals111/assets/logo.png" width="128px" />
