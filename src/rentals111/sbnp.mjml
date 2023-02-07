@@ -195,20 +195,25 @@
         padding-top="15px"
       >
         <mj-text color="#eab308" font-size="18px" font-weight="500"> Try our e-books </mj-text>
-        <mj-text color="white" padding-top="0">
-          Thank you for supporting Shoot Basketballs NOT People and our mission to use basketballs as a vehicle to
-          change and save lives.
-          <br /><br />
-          <a href="https://youtu.be/Gq3mhygfEj0" style="color: white">Click to watch video to know more!</a>
-        </mj-text>
+
         <mj-button
           background-color="#eab308"
           color="black"
           font-size="16px"
           font-weight="500"
-          href="https://www.paypal.com/donate/?hosted_button_id=EB65QFCR4KQBG"
+          href="https://mailr.vercel.app/rentals111/assets/conditioning.pdf"
         >
-          Donate
+          Fundamentals of Conditioning
+        </mj-button>
+
+        <mj-button
+          background-color="#eab308"
+          color="black"
+          font-size="16px"
+          font-weight="500"
+          href="https://mailr.vercel.app/rentals111/assets/shooting.pdf"
+        >
+          Fundamentals of Shooting
         </mj-button>
       </mj-column>
     </mj-section>
