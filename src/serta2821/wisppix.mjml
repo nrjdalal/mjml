@@ -70,10 +70,10 @@
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-text color="#38bdf8" font-size="18px" font-weight="500"> Apparels and more </mj-text>
+        <mj-text color="#38bdf8" font-size="18px" font-weight="500"> Apparels And More </mj-text>
         <mj-text color="white" padding-top="0"> Get classic t-shirts, hoodies and more. </mj-text>
         <mj-image
-          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+          src="https://mailr.vercel.app/serta2821/assets/1.gif"
           padding-left="24px"
           padding-right="24px"
           width="300px"
