@@ -16,7 +16,7 @@
   <mj-body>
     <mj-section padding-top="32px" padding-bottom="0">
       <mj-column>
-        <mj-image src="https://mailr.vercel.app/serta2821/assets/logo.jpg" width="128px" />
+        <mj-image src="https://mailr.vercel.app/serta2821/assets/logo.jpg" width="192px" border-radius="10px" />
       </mj-column>
     </mj-section>
 
@@ -32,73 +32,53 @@
 
     <mj-section background-color="black" padding-bottom="32px">
       <mj-column>
-        <mj-text font-size="18px"> WELCOME TO SBNP </mj-text>
+        <mj-text font-size="18px"> WELCOME TO WISPPIX </mj-text>
         <mj-text font-size="18px" font-weight="600" padding-top="0">
-          <span style="color: #eab308"> To use basketball as a vehicle to change and save lives </span>
+          <span style="color: #38bdf8"> Dress like you are already famous! </span>
 
           <br /><br />
 
-          <span style="font-size: 14px; line-height: 1.2">
+          <!-- <span style="font-size: 14px; line-height: 1.2">
             We're slowing down gun violence by getting local youth involved in basketball.
             <br />
             LESS EXCUSES, MORE ADJUSTMENTS
           </span>
 
-          <br /><br />
+          <br /><br /> -->
         </mj-text>
 
-        <mj-text font-size="16px" font-weight="600" container-background-color="#eab308" color="black">
-          <a href="https://www.wisppix.net" style="color: black; text-decoration: none"> VISIT NOW </a>
+        <mj-text font-size="16px" font-weight="600" container-background-color="#38bdf8" color="black">
+          <a href="https://www.wisppix.net" style="color: black; text-decoration: none"> SHOP NOW </a>
         </mj-text>
 
         <mj-text font-size="18px" font-weight="600" padding-top="36px">
-          <span style="color: #eab308">Join our Player Development Program</span>
+          <span style="color: #38bdf8">Dont believe us? Heres what our customers said.</span>
         </mj-text>
 
-        <mj-image
-          src="https://mailr.vercel.app/rentals111/assets/video.jpg"
-          href="https://youtu.be/gdndQWYhCRY"
-          padding-left="24px"
-          padding-right="24px"
-          border-radius="10px"
-          width="350px"
-        />
-
-        <mj-text font-size="18px" font-weight="600" padding-top="36px">
+        <mj-text font-size="18px" font-weight="600">
           <span style="color: white; font-weight: 400; font-size: 14px; text-align: center; line-height: 1.6">
-            <li>Nationally recognized as one of the best in country</li>
-            <li>Innovative training techniques such as pilates, cryotherapy and more</li>
-            <li>Valuable coaching and funamental basketball training</li>
-            <li>Positive, effective grassroots way to end tragic gun violence</li>
+            <li>"The material is surprisingly soft for being a local business."</li>
+            <li>"I love the clothes, and it didnt take months to arrive like other stores!"</li>
+            <li>"I came for the photos, im returning because of the quality"</li>
           </span>
         </mj-text>
 
-        <mj-button
-          background-color="#eab308"
-          color="black"
-          font-size="16px"
-          font-weight="500"
-          href="https://mailr.vercel.app/rentals111/assets/program.pdf"
-        >
-          View PDF to know more
-        </mj-button>
-
         <mj-spacer height="24px" />
 
-        <mj-text font-size="16px" font-weight="600" container-background-color="#eab308" color="black">
-          <a href="https://www.wisppix.net" style="color: black; text-decoration: none"> JOIN THE PROGRAM </a>
+        <mj-text font-size="16px" font-weight="600" container-background-color="#38bdf8" color="black">
+          <a href="https://www.wisppix.net" style="color: black; text-decoration: none"> READ MORE REVIEWS </a>
         </mj-text>
       </mj-column>
     </mj-section>
 
     <mj-section background-color="black" padding="0 30px">
       <mj-column
-        border-bottom="2.5px solid #eab308"
-        border-left="2.5px solid #eab308"
+        border-bottom="2.5px solid #38bdf8"
+        border-left="2.5px solid #38bdf8"
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-text color="#eab308" font-size="18px" font-weight="500"> Apparels and more </mj-text>
+        <mj-text color="#38bdf8" font-size="18px" font-weight="500"> Apparels and more </mj-text>
         <mj-text color="white" padding-top="0"> Get classic t-shirts, hoodies and more. </mj-text>
         <mj-image
           src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
@@ -107,7 +87,7 @@
           width="300px"
         />
         <mj-button
-          background-color="#eab308"
+          background-color="#38bdf8"
           color="black"
           font-size="16px"
           font-weight="500"
@@ -120,106 +100,52 @@
 
     <mj-section background-color="black" padding="0 30px">
       <mj-column
-        border-bottom="2.5px solid #eab308"
-        border-right="2.5px solid #eab308"
+        border-bottom="2.5px solid #38bdf8"
+        border-right="2.5px solid #38bdf8"
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-text color="#eab308" font-size="18px" font-weight="500"> Donate to WISPPIX </mj-text>
+        <mj-text color="#38bdf8" font-size="18px" font-weight="500"> Hand Taken Photographs </mj-text>
         <mj-text color="white" padding-top="0">
-          Thank you for supporting WISPPIX and our mission to use basketballs as a vehicle to change and save lives.
-          <br /><br />
-          <a href="https://youtu.be/Gq3mhygfEj0" style="color: white">Click to watch video to know more!</a>
+          All of our photos were taken, edited and attatched to the clothing with care. we do not use corprate photos,
+          stock images, or any other cheap knock-offs.
         </mj-text>
-        <mj-button
-          background-color="#eab308"
-          color="black"
-          font-size="16px"
-          font-weight="500"
-          href="https://www.paypal.com/donate/?hosted_button_id=EB65QFCR4KQBG"
-        >
-          Donate
-        </mj-button>
       </mj-column>
     </mj-section>
 
     <mj-section background-color="black" padding="0 30px">
       <mj-column
-        border-bottom="2.5px solid #eab308"
-        border-left="2.5px solid #eab308"
+        border-bottom="2.5px solid #38bdf8"
+        border-left="2.5px solid #38bdf8"
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-text color="#eab308" font-size="18px" font-weight="500"> Stay Updated with SBNP </mj-text>
-        <mj-text color="white" padding-top="0"> Subscribe to our newsletter and more. </mj-text>
-        <mj-image
-          src="https://cdn.shopify.com/s/files/1/0555/5221/3269/articles/RC4jWFbnoFGUoXxuP7P6eA_400x.jpg?v=1673827896"
-          padding-left="24px"
-          padding-right="24px"
-          border-radius="10px"
-          width="350px"
-        />
+        <mj-text color="#38bdf8" font-size="18px" font-weight="500"> Comfortable </mj-text>
         <mj-text color="white" padding-top="0">
-          The Benefits of Normatec Pants for Recovery and Why Young Players Should Definitely Consider These
+          Our sweatshirts are comfortable, clean, and well made. we send the orders by hand, and do not pre-stock. all
+          of the orders are crafted with care.
         </mj-text>
-
-        <mj-image
-          src="https://cdn.shopify.com/s/files/1/0555/5221/3269/articles/Players_Should_Incorporate_Mediation_400x.jpg?v=1671831574"
-          padding-left="24px"
-          padding-right="24px"
-          border-radius="10px"
-          width="350px"
-        />
-        <mj-text color="white" padding-top="0">
-          Why Young Players Should Incorporate Mediation into Their Everyday Routine?
-        </mj-text>
-
-        <mj-button
-          background-color="#eab308"
-          color="black"
-          font-size="16px"
-          font-weight="500"
-          href="https://www.wisppix.net/blogs/news"
-        >
-          Read More
-        </mj-button>
       </mj-column>
     </mj-section>
 
     <mj-section background-color="black" padding="0 30px">
       <mj-column
-        border-bottom="2.5px solid #eab308"
-        border-right="2.5px solid #eab308"
+        border-bottom="2.5px solid #38bdf8"
+        border-right="2.5px solid #38bdf8"
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-text color="#eab308" font-size="18px" font-weight="500"> Try our e-books </mj-text>
-
-        <mj-button
-          background-color="#eab308"
-          color="black"
-          font-size="16px"
-          font-weight="500"
-          href="https://mailr.vercel.app/rentals111/assets/conditioning.pdf"
-        >
-          Fundamentals of Conditioning
-        </mj-button>
-
-        <mj-button
-          background-color="#eab308"
-          color="black"
-          font-size="16px"
-          font-weight="500"
-          href="https://mailr.vercel.app/rentals111/assets/shooting.pdf"
-        >
-          Fundamentals of Shooting
-        </mj-button>
+        <mj-text color="#38bdf8" font-size="18px" font-weight="500"> Unique and High Value </mj-text>
+        <mj-text color="white" padding-top="0">
+          Due to the photos being hand taken, our clothing has a completely unique feel, and as a small business, you
+          are sure to be the most stunning member of every crowd.
+        </mj-text>
       </mj-column>
     </mj-section>
 
     <mj-section padding-top="32px" padding-bottom="0">
       <mj-column>
-        <mj-image src="https://mailr.vercel.app/rentals111/assets/logo.png" width="128px" />
+        <mj-image src="https://mailr.vercel.app/serta2821/assets/logo.jpg" width="192px" border-radius="10px" />
       </mj-column>
     </mj-section>
 
@@ -235,7 +161,7 @@
           </mj-social-element>
         </mj-social>
 
-        <mj-text font-size="16px" font-weight="600" container-background-color="#eab308" color="black">
+        <mj-text font-size="16px" font-weight="600" container-background-color="#38bdf8" color="black">
           <a href="https://www.wisppix.net" style="color: black; text-decoration: none"> VISIT NOW </a>
         </mj-text>
 
