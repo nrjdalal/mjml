@@ -20,11 +20,11 @@ const timer = (ms) => new Promise((res) => setTimeout(res, ms))
 // ~ 2. nodemailer configuration
 const sender = async (content, to) => {
   let transporter = nodemailer.createTransport({
-    host: process.env.HOST || 'mail.veroxyle.com',
+    host: process.env.HOST || 'smtp.gmail.com',
     port: process.env.PORT || 465,
     secure: process.env.SECURE || true,
     auth: {
-      user: process.env.USERNAME || 'do-not-reply@veroxyle.com',
+      user: process.env.USERNAME || 'nrjdalal@veroxyle.com',
       pass: process.env.USERPASS,
     },
   })
