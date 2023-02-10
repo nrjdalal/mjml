@@ -1,14 +1,14 @@
 <mjml>
   <mj-head>
-    <mj-title>SBNP</mj-title>
+    <mj-title>WISPPIX</mj-title>
     <mj-font
       name="Montserrat"
       href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap"
     />
     <mj-attributes>
-      <mj-button href="https://joinsbnp.org" background-color="white" color="black" />
-      <mj-image href="https://joinsbnp.org" alt="Shoot Basketballs NOT People" />
-      <mj-carousel-image href="https://joinsbnp.org" alt="Shoot Basketballs NOT People" />
+      <mj-button href="https://www.wisppix.net" background-color="white" color="black" />
+      <mj-image href="https://www.wisppix.net" alt="WISPPIX" />
+      <mj-carousel-image href="https://www.wisppix.net" alt="WISPPIX" />
       <mj-section background-color="black" />
       <mj-text align="center" color="white" font-family="Montserrat, Arial" line-height="1.4" />
     </mj-attributes>
@@ -16,7 +16,7 @@
   <mj-body>
     <mj-section padding-top="32px" padding-bottom="0">
       <mj-column>
-        <mj-image src="https://mailr.vercel.app/rentals111/assets/logo.png" width="128px" />
+        <mj-image src="https://mailr.vercel.app/serta2821/assets/logo.jpg" width="128px" />
       </mj-column>
     </mj-section>
 
@@ -48,7 +48,7 @@
         </mj-text>
 
         <mj-text font-size="16px" font-weight="600" container-background-color="#eab308" color="black">
-          <a href="https://joinsbnp.org" style="color: black; text-decoration: none"> VISIT NOW </a>
+          <a href="https://www.wisppix.net" style="color: black; text-decoration: none"> VISIT NOW </a>
         </mj-text>
 
         <mj-text font-size="18px" font-weight="600" padding-top="36px">
@@ -86,7 +86,7 @@
         <mj-spacer height="24px" />
 
         <mj-text font-size="16px" font-weight="600" container-background-color="#eab308" color="black">
-          <a href="https://joinsbnp.org" style="color: black; text-decoration: none"> JOIN THE PROGRAM </a>
+          <a href="https://www.wisppix.net" style="color: black; text-decoration: none"> JOIN THE PROGRAM </a>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -111,7 +111,7 @@
           color="black"
           font-size="16px"
           font-weight="500"
-          href="https://joinsbnp.org/collections/all"
+          href="https://www.wisppix.net/collections/all"
         >
           Shop Now
         </mj-button>
@@ -125,10 +125,9 @@
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-text color="#eab308" font-size="18px" font-weight="500"> Donate to Shoot Basketballs NOT People </mj-text>
+        <mj-text color="#eab308" font-size="18px" font-weight="500"> Donate to WISPPIX </mj-text>
         <mj-text color="white" padding-top="0">
-          Thank you for supporting Shoot Basketballs NOT People and our mission to use basketballs as a vehicle to
-          change and save lives.
+          Thank you for supporting WISPPIX and our mission to use basketballs as a vehicle to change and save lives.
           <br /><br />
           <a href="https://youtu.be/Gq3mhygfEj0" style="color: white">Click to watch video to know more!</a>
         </mj-text>
@@ -180,7 +179,7 @@
           color="black"
           font-size="16px"
           font-weight="500"
-          href="https://joinsbnp.org/blogs/news"
+          href="https://www.wisppix.net/blogs/news"
         >
           Read More
         </mj-button>
@@ -230,19 +229,19 @@
           <mj-social-element
             color="white"
             src="https://iconic.app/icons/iconic/png/white/world.png"
-            href="https://joinsbnp.org"
+            href="https://www.wisppix.net"
           >
-            &nbsp;https://joinsbnp.org
+            &nbsp;https://www.wisppix.net
           </mj-social-element>
         </mj-social>
 
         <mj-text font-size="16px" font-weight="600" container-background-color="#eab308" color="black">
-          <a href="https://joinsbnp.org" style="color: black; text-decoration: none"> VISIT NOW </a>
+          <a href="https://www.wisppix.net" style="color: black; text-decoration: none"> VISIT NOW </a>
         </mj-text>
 
         <mj-text padding-top="24px" font-size="10px">
-          You may <a href="https://joinsbnp.org" style="color: white">unsubscribe</a> or
-          <a href="https://joinsbnp.org" style="color: white"> change your contact details</a> at any time.
+          You may <a href="https://www.wisppix.net" style="color: white">unsubscribe</a> or
+          <a href="https://www.wisppix.net" style="color: white"> change your contact details</a> at any time.
         </mj-text>
       </mj-column>
     </mj-section>
