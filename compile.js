@@ -7,5 +7,5 @@ for (let index = 0; index < files.length; index++) {
   const src = files[index]
   const dist = src.slice(0, src.lastIndexOf('/') + 1).replace('./src/', './public/')
 
-  exec(`mkdir -p '${dist}' && npx mjml '${src}' -o '${dist}'`)
+  exec(`mkdir -p '${dist}' && pnpx mjml '${src}' -o '${dist}'`)
 }
