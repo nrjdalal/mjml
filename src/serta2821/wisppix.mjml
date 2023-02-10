@@ -37,14 +37,6 @@
           <span style="color: #38bdf8"> Dress like you are already famous! </span>
 
           <br /><br />
-
-          <!-- <span style="font-size: 14px; line-height: 1.2">
-            We're slowing down gun violence by getting local youth involved in basketball.
-            <br />
-            LESS EXCUSES, MORE ADJUSTMENTS
-          </span>
-
-          <br /><br /> -->
         </mj-text>
 
         <mj-text font-size="16px" font-weight="600" container-background-color="#38bdf8" color="black">
@@ -93,7 +85,7 @@
           font-weight="500"
           href="https://www.wisppix.net/collections/all"
         >
-          Shop Now
+          Get Latest in Fashion
         </mj-button>
       </mj-column>
     </mj-section>
