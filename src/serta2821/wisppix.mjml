@@ -94,7 +94,14 @@
         padding-top="15px"
       >
         <mj-text color="#38bdf8" font-size="18px" font-weight="500"> Hand Taken Photographs </mj-text>
-        <mj-text color="white" padding-top="0">
+        <mj-image
+          src="https://cdn.shopify.com/s/files/1/0707/5033/9387/products/feeb7d834d03c6eab5463acfbf76b469_2fd043e1-5a64-4fbb-b078-3402ba16d93b.jpg?v=1673975786&width=500"
+          padding-left="24px"
+          padding-right="24px"
+          width="300px"
+        />
+
+        <mj-text color="white" padding-top="12px">
           All of our photos were taken, edited and attatched to the clothing with care. we do not use corprate photos,
           stock images, or any other cheap knock-offs.
         </mj-text>
