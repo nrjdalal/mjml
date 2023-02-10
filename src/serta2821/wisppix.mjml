@@ -6,9 +6,9 @@
       href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap"
     />
     <mj-attributes>
-      <mj-button href="https://www.wisppix.net" background-color="white" color="black" />
-      <mj-image href="https://www.wisppix.net" alt="WISPPIX" />
-      <mj-carousel-image href="https://www.wisppix.net" alt="WISPPIX" />
+      <mj-button href="https://www.wisppix.net?bg_ref=VTIsrwU0Km" background-color="white" color="black" />
+      <mj-image href="https://www.wisppix.net?bg_ref=VTIsrwU0Km" alt="WISPPIX" />
+      <mj-carousel-image href="https://www.wisppix.net?bg_ref=VTIsrwU0Km" alt="WISPPIX" />
       <mj-section background-color="black" />
       <mj-text align="center" color="white" font-family="Montserrat, Arial" line-height="1.4" />
     </mj-attributes>
@@ -36,7 +36,7 @@
         </mj-text>
 
         <mj-text font-size="16px" font-weight="600" container-background-color="#38bdf8" color="black">
-          <a href="https://www.wisppix.net" style="color: black; text-decoration: none"> SHOP NOW </a>
+          <a href="https://www.wisppix.net?bg_ref=VTIsrwU0Km" style="color: black; text-decoration: none"> SHOP NOW </a>
         </mj-text>
 
         <mj-text font-size="18px" font-weight="600" padding-top="36px">
@@ -54,7 +54,9 @@
         <mj-spacer height="24px" />
 
         <mj-text font-size="16px" font-weight="600" container-background-color="#38bdf8" color="black">
-          <a href="https://www.wisppix.net" style="color: black; text-decoration: none"> READ MORE REVIEWS </a>
+          <a href="https://www.wisppix.net?bg_ref=VTIsrwU0Km" style="color: black; text-decoration: none">
+            READ MORE REVIEWS
+          </a>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -79,7 +81,7 @@
           color="black"
           font-size="16px"
           font-weight="500"
-          href="https://www.wisppix.net/collections/all"
+          href="https://www.wisppix.net?bg_ref=VTIsrwU0Km/collections/all"
         >
           Get Latest in Fashion
         </mj-button>
@@ -157,19 +159,22 @@
           <mj-social-element
             color="white"
             src="https://iconic.app/icons/iconic/png/white/world.png"
-            href="https://www.wisppix.net"
+            href="https://www.wisppix.net?bg_ref=VTIsrwU0Km"
           >
             &nbsp;https://www.wisppix.net
           </mj-social-element>
         </mj-social>
 
         <mj-text font-size="16px" font-weight="600" container-background-color="#38bdf8" color="black">
-          <a href="https://www.wisppix.net" style="color: black; text-decoration: none"> VISIT NOW </a>
+          <a href="https://www.wisppix.net?bg_ref=VTIsrwU0Km" style="color: black; text-decoration: none">
+            VISIT NOW
+          </a>
         </mj-text>
 
         <mj-text padding-top="24px" font-size="10px">
-          You may <a href="https://www.wisppix.net" style="color: white">unsubscribe</a> or
-          <a href="https://www.wisppix.net" style="color: white"> change your contact details</a> at any time.
+          You may <a href="https://www.wisppix.net?bg_ref=VTIsrwU0Km" style="color: white">unsubscribe</a> or
+          <a href="https://www.wisppix.net?bg_ref=VTIsrwU0Km" style="color: white"> change your contact details</a> at
+          any time.
         </mj-text>
       </mj-column>
     </mj-section>
