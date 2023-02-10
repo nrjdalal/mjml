@@ -116,7 +116,14 @@
         padding-top="15px"
       >
         <mj-text color="#38bdf8" font-size="18px" font-weight="500"> Comfortable </mj-text>
-        <mj-text color="white" padding-top="0">
+        <mj-image
+          src="https://cdn.shopify.com/s/files/1/0707/5033/9387/products/0af4984248629b79fb89ac0307480e8c.jpg?v=1673981673&width=2048"
+          padding-left="24px"
+          padding-right="24px"
+          width="300px"
+        />
+
+        <mj-text color="white" padding-top="12px">
           Our sweatshirts are comfortable, clean, and well made. we send the orders by hand, and do not pre-stock. all
           of the orders are crafted with care.
         </mj-text>
