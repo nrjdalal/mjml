@@ -22,11 +22,7 @@
 
     <mj-section padding-top="16px" padding-bottom="0">
       <mj-column>
-        <mj-image
-          src="https://cdn.shopify.com/s/files/1/0707/5033/9387/products/feeb7d834d03c6eab5463acfbf76b469_2fd043e1-5a64-4fbb-b078-3402ba16d93b.jpg?v=1673975786&width=500"
-          padding-left="24px"
-          padding-right="24px"
-        />
+        <mj-image src="https://mailr.vercel.app/serta2821/assets/1.gif" padding-left="24px" padding-right="24px" />
       </mj-column>
     </mj-section>
 
@@ -73,7 +69,7 @@
         <mj-text color="#38bdf8" font-size="18px" font-weight="500"> Apparels And More </mj-text>
         <mj-text color="white" padding-top="0"> Get classic t-shirts, hoodies and more. </mj-text>
         <mj-image
-          src="https://mailr.vercel.app/serta2821/assets/1.gif"
+          src="https://cdn.shopify.com/s/files/1/0707/5033/9387/products/a26c2fef4f29388360b577e58885904a_4ec7938d-fbc6-4331-8c93-afcfa21c8f5e.jpg?v=1674589737&width=500"
           padding-left="24px"
           padding-right="24px"
           width="300px"
