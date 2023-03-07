@@ -15,7 +15,7 @@
   <mj-body>
     <mj-section padding-top="32px" padding-bottom="0">
       <mj-column>
-        <mj-image src="https://mailr.vercel.app/davidc83/assets/logo.png" width="300px" />
+        <mj-image src="https://mailr.vercel.app/davidc83/assets/brand.png" width="300px" />
       </mj-column>
     </mj-section>
 
@@ -108,7 +108,7 @@
 
     <mj-section padding-top="32px" padding-bottom="0">
       <mj-column>
-        <mj-image src="https://mailr.vercel.app/davidc83/assets/logo.png" width="256px" />
+        <mj-image src="https://mailr.vercel.app/davidc83/assets/brand.png" width="256px" />
       </mj-column>
     </mj-section>
 
