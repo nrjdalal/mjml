@@ -6,16 +6,28 @@
       href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap"
     />
     <mj-attributes>
-      <mj-button href="https://www.rainelondon.com.au" background-color="white" color="black" />
+      <mj-button
+        href="https://www.rainelondon.com.au"
+        background-color="white"
+        color="black"
+      />
       <mj-image href="https://www.rainelondon.com.au" alt="rainelondon" />
       <mj-section background-color="black" />
-      <mj-text align="center" color="white" font-family="Montserrat, Arial" line-height="1.4" />
+      <mj-text
+        align="center"
+        color="white"
+        font-family="Montserrat, Arial"
+        line-height="1.4"
+      />
     </mj-attributes>
   </mj-head>
   <mj-body>
     <mj-section padding-top="32px" padding-bottom="0">
       <mj-column>
-        <mj-image src="https://mailr.vercel.app/davidc83/assets/brand.png" width="300px" />
+        <mj-image
+          src="https://mailr.vercel.app/davidc83/assets/brand.png"
+          width="300px"
+        />
       </mj-column>
     </mj-section>
 
@@ -38,16 +50,28 @@
           <br /><br />
 
           <span style="font-size: 14px; line-height: 1">
-            Professional outsourced Vendor Replenishment Planning Services for Suppliers into Coles Supermarkets.
+            Professional outsourced Vendor Replenishment Planning Services for
+            Suppliers into Coles Supermarkets.
             <br />
-            Contact us today for a chat about how we can help your business thrive.
+            Contact us today for a chat about how we can help your business
+            thrive.
           </span>
 
           <br /><br />
         </mj-text>
 
-        <mj-text font-size="16px" font-weight="600" container-background-color="#eab308" color="black">
-          <a href="https://www.rainelondon.com.au" style="color: black; text-decoration: none"> CONTACT US </a>
+        <mj-text
+          font-size="16px"
+          font-weight="600"
+          container-background-color="#eab308"
+          color="black"
+        >
+          <a
+            href="https://www.rainelondon.com.au"
+            style="color: black; text-decoration: none"
+          >
+            CONTACT US
+          </a>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -59,8 +83,15 @@
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-text color="#eab308" font-size="18px" font-weight="500">Full Time service offerings </mj-text>
-        <mj-text color="white" padding-top="0">Full Time service offerings (write content for here) </mj-text>
+        <mj-text color="#eab308" font-size="18px" font-weight="500"
+          >Full Time service offerings
+        </mj-text>
+        <mj-text color="white" padding-top="0"
+          >No portfolio is too big or too small to benefit from our VRP
+          services. We currently look after suppliers with SKUs ranging from 4
+          to 120! Contact us to discuss ways we can tailor an affordable option
+          for you.</mj-text
+        >
       </mj-column>
     </mj-section>
 
@@ -71,8 +102,15 @@
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-text color="#eab308" font-size="18px" font-weight="500">VRP Leave Coverage </mj-text>
-        <mj-text color="white" padding-top="0">VRP Leave Coverage (write content for here)</mj-text>
+        <mj-text color="#eab308" font-size="18px" font-weight="500"
+          >VRP Leave Coverage
+        </mj-text>
+        <mj-text color="white" padding-top="0"
+          >Is your current VRP needing some annual or sick leave? Are you
+          potentially looking for a VRP replacement and need some cover in the
+          meantime? Then contact us and we can help keep the wheels moving
+          during these times, as we all know, FMCG never sleeps!</mj-text
+        >
       </mj-column>
     </mj-section>
     <mj-section background-color="black" padding="0 30px">
@@ -82,8 +120,17 @@
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-text color="#eab308" font-size="18px" font-weight="500">Training </mj-text>
-        <mj-text color="white" padding-top="0">Training (write content for here)</mj-text>
+        <mj-text color="#eab308" font-size="18px" font-weight="500"
+          >Training
+        </mj-text>
+        <mj-text color="white" padding-top="0"
+          >Have you just hired your own VRP and need to ensure they’re up to
+          speed from day one? Contact us to discuss our Training options so you
+          too can benefit from our team of vastly experienced VRPs whilst
+          learning the ins and outs of the role. We have trained over 20 VRPs
+          with some whom have even gone on to become Coles Supply
+          Planners.</mj-text
+        >
       </mj-column>
     </mj-section>
 
@@ -94,14 +141,26 @@
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-text color="#eab308" font-size="18px" font-weight="500">Best-in-Class Reporting Suite </mj-text>
-        <mj-text color="white" padding-top="0">Best-in-Class Reporting Suite (write content for here)</mj-text>
+        <mj-text color="#eab308" font-size="18px" font-weight="500"
+          >Best-in-Class Reporting Suite
+        </mj-text>
+        <mj-text color="white" padding-top="0"
+          >We have developed a best-in-class reporting suite for our clients
+          that ensure your team have every base covered from DIFOT results to DC
+          and Store Stock on Hand as well as Store Availability, Scan data and
+          much more. We continually strive to improve our reporting and as such,
+          we have some excited things planned in the pipeline that will be of
+          huge convenience and benefit to your business.</mj-text
+        >
       </mj-column>
     </mj-section>
 
     <mj-section padding-top="32px" padding-bottom="0">
       <mj-column>
-        <mj-image src="https://mailr.vercel.app/davidc83/assets/brand.png" width="256px" />
+        <mj-image
+          src="https://mailr.vercel.app/davidc83/assets/brand.png"
+          width="256px"
+        />
       </mj-column>
     </mj-section>
 
@@ -133,13 +192,30 @@
           </mj-social-element>
         </mj-social>
 
-        <mj-text font-size="16px" font-weight="600" container-background-color="#eab308" color="black">
-          <a href="https://www.rainelondon.com.au" style="color: black; text-decoration: none"> CONTACT US </a>
+        <mj-text
+          font-size="16px"
+          font-weight="600"
+          container-background-color="#eab308"
+          color="black"
+        >
+          <a
+            href="https://www.rainelondon.com.au"
+            style="color: black; text-decoration: none"
+          >
+            CONTACT US
+          </a>
         </mj-text>
 
         <mj-text padding-top="24px" font-size="10px">
-          You may <a href="https://www.rainelondon.com.au" style="color: white">unsubscribe</a> or
-          <a href="https://www.rainelondon.com.au" style="color: white"> change your contact details</a> at any time.
+          You may
+          <a href="https://www.rainelondon.com.au" style="color: white"
+            >unsubscribe</a
+          >
+          or
+          <a href="https://www.rainelondon.com.au" style="color: white">
+            change your contact details</a
+          >
+          at any time.
         </mj-text>
       </mj-column>
     </mj-section>
