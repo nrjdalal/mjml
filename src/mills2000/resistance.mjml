@@ -1,0 +1,199 @@
+<mjml>
+  <mj-head>
+    <mj-title
+      >Create The Body of Your Dreams From Home with Our Versatile and Portable
+      Resistance Bands</mj-title
+    >
+    <mj-font
+      name="Montserrat"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap"
+    />
+    <mj-attributes>
+      <mj-button
+        href="https://www.HomeFitHQ.com/resistance-band"
+        background-color="white"
+        color="black"
+      />
+      <mj-image
+        href="https://www.HomeFitHQ.com/resistance-band"
+        alt="HomeFitHQ"
+      />
+      <mj-section background-color="black" />
+      <mj-text
+        align="center"
+        color="white"
+        font-family="Montserrat, Arial"
+        line-height="1.4"
+      />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <!-- <mj-section padding-top="32px" padding-bottom="0">
+      <mj-column>
+        <mj-image
+          src="https://mailr.vercel.app/davidc83/assets/brand.png"
+          width="300px"
+        />
+      </mj-column>
+    </mj-section> -->
+
+    <mj-section padding-top="30px" padding-bottom="0">
+      <mj-column>
+        <mj-image
+          src="https://plus.unsplash.com/premium_photo-1666736569032-8480d5009e70?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80"
+          padding-left="30px"
+          padding-right="30px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- <mj-section background-color="black" padding-bottom="32px">
+      <mj-column>
+        <mj-text font-size="18px"> HomeFitHQ </mj-text>
+        <mj-text font-size="24px" font-weight="600" padding-top="0">
+          <span style="color: #eab308"> VRP Solutions </span>
+
+          <br /><br />
+
+          <span style="font-size: 14px; line-height: 1">
+            Professional outsourced Vendor Replenishment Planning Services for
+            Suppliers into Coles Supermarkets.
+            <br />
+            Contact us today for a chat about how we can help your business
+            thrive.
+          </span>
+
+          <br /><br />
+        </mj-text>
+
+        <mj-text
+          font-size="16px"
+          font-weight="600"
+          container-background-color="#eab308"
+          color="black"
+        >
+          <a
+            href="https://www.HomeFitHQ.com/resistance-band"
+            style="color: black; text-decoration: none"
+          >
+            CONTACT US
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section> -->
+
+    <mj-section background-color="black" padding="0 30px">
+      <mj-column
+        border-bottom="2.5px solid #eab308"
+        border-left="2.5px solid #eab308"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-text color="#eab308" font-size="18px" font-weight="500"
+          >Dear Jake
+        </mj-text>
+        <mj-text color="white" padding-top="0"
+          >Did you know it’s possible to sculpt your ideal physique from the
+          comfort of your own home? Not just your own home, but from anywhere.
+          HomeFit HQ's latest resistance bands provide you with both flexibility
+          and portability in your workouts, giving you the freedom to exercise
+          on the go.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="black" padding="0 30px">
+      <mj-column
+        border-bottom="2.5px solid #eab308"
+        border-right="2.5px solid #eab308"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-text color="#eab308" font-size="18px" font-weight="500"
+          >Say goodbye to boring drives to the gym and expensive membership fees
+          that drain your bank account.
+        </mj-text>
+        <mj-text color="white" padding-top="0"
+          >The durability of our resistance bands, crafted from premium-quality
+          latex, will leave you in awe. Not only that, but you’ll pretty much
+          know how to use them straight out of the box since we’ve made them
+          super user-friendly. Our resistance bands are sold in a convenient
+          5-pack, with each band offering a different level of difficulty to
+          enhance your workouts.</mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="black" padding="0 30px">
+      <mj-column
+        border-bottom="2.5px solid #eab308"
+        border-left="2.5px solid #eab308"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-text color="#eab308" font-size="18px" font-weight="500"
+          >Why wait?
+        </mj-text>
+        <mj-text color="white" padding-top="0"
+          >Start your fitness journey today with HomeFit HQ's resistance bands.
+          Use the code "HFHQ" for a 15% discount on your next order. Go to
+          www.HomeFitHQ.com/resistance-band now and take advantage of this
+          incredible offer.</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <!-- <mj-section padding-top="32px" padding-bottom="0">
+      <mj-column>
+        <mj-image
+          src="https://mailr.vercel.app/davidc83/assets/brand.png"
+          width="256px"
+        />
+      </mj-column>
+    </mj-section> -->
+
+    <mj-section background-color="black" padding-bottom="32px">
+      <mj-column>
+        <mj-social padding-top="0">
+          <mj-social-element
+            color="white"
+            src="https://iconic.app/icons/iconic/png/white/world.png"
+            href="https://www.HomeFitHQ.com/resistance-band"
+          >
+            &nbsp;https://www.HomeFitHQ.com/resistance-band
+          </mj-social-element>
+        </mj-social>
+
+        <mj-text
+          font-size="16px"
+          font-weight="600"
+          container-background-color="#eab308"
+          color="black"
+        >
+          <a
+            href="https://www.HomeFitHQ.com/resistance-band"
+            style="color: black; text-decoration: none"
+          >
+            AVAIL 15% OFF WITH CODE "HFHQ"
+          </a>
+        </mj-text>
+
+        <mj-text padding-top="24px" font-size="10px">
+          You may
+          <a
+            href="https://www.HomeFitHQ.com/resistance-band"
+            style="color: white"
+            >unsubscribe</a
+          >
+          or
+          <a
+            href="https://www.HomeFitHQ.com/resistance-band"
+            style="color: white"
+          >
+            change your contact details</a
+          >
+          at any time.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
