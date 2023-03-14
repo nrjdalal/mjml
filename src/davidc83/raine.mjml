@@ -34,7 +34,8 @@
     <mj-section padding-top="0" padding-bottom="0">
       <mj-column>
         <mj-image
-          src="https://mailr.vercel.app/rentals111/assets/IMG_0588.jpg"
+          href="mailto:david@rainelondon.com.au"
+          src="https://mailr.vercel.app/davidc83/assets/supermarket.webp"
           padding-left="24px"
           padding-right="24px"
         />
