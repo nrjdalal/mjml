@@ -1,22 +1,22 @@
 <mjml>
   <mj-head>
-    <mj-title>guardiannm</mj-title>
+    <mj-title>Guardian National Mortgage</mj-title>
     <mj-font
       name="Montserrat"
       href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap"
     />
     <mj-attributes>
       <mj-button
-        href="https://joinguardiannm.org"
+        href="https://www.guardiannm.com.au/"
         background-color="black"
         color="white"
       />
       <mj-image
-        href="https://joinguardiannm.org"
+        href="https://www.guardiannm.com.au/"
         alt="Shoot Basketballs NOT People"
       />
       <mj-carousel-image
-        href="https://joinguardiannm.org"
+        href="https://www.guardiannm.com.au/"
         alt="Shoot Basketballs NOT People"
       />
       <mj-section background-color="white" />
@@ -39,314 +39,158 @@
     </mj-section>
 
     <mj-hero
-      mode="fixed-height"
-      height="469px"
+      mode="fluid-height"
       background-width="600px"
-      background-height="469px"
-      background-url="https://img.freepik.com/free-photo/young-happy-couple-having-meeting-with-real-estate-agent-office-focus-is-woman_637285-853.jpg?w=2000&t=st=1679680376~exp=1679680976~hmac=92ef31a7149524bea724727d4f3a24ec72e407e7dae919b7e82eb692926ad265"
-      background-color="#2a3448"
-      padding="100px 0px"
+      background-height="400px"
+      background-url="https://mailr.vercel.app/singlacharul/assets/hero.jpg"
+      background-color="#000000"
+      padding="175px 30px 100px 30px"
     >
       <mj-text
-        padding="20px"
+        align="left"
         color="#ffffff"
-        font-family="Helvetica"
-        align="center"
-        font-size="45px"
-        line-height="45px"
-        font-weight="900"
+        font-size="24px"
+        font-weight="300"
+        padding-bottom="0"
       >
-        GO TO SPACE
+        HOW WAS YOUR
       </mj-text>
-      <mj-button href="https://mjml.io/" align="center">
-        ORDER YOUR TICKET NOW
+
+      <mj-text
+        align="left"
+        color="#ffffff"
+        align="center"
+        font-size="30px"
+        font-weight="500"
+      >
+        EXPERIENCE?
+      </mj-text>
+
+      <mj-button
+        align="left"
+        href="https://mjml.io/"
+        background-color="#f47624"
+        font-size="16px"
+      >
+        LEAVE A REVIEW
       </mj-button>
     </mj-hero>
 
     <mj-section background-color="white" padding-bottom="32px">
       <mj-column>
-        <mj-text font-size="18px"> WELCOME TO guardiannm </mj-text>
-        <mj-text font-size="18px" font-weight="600" padding-top="0">
-          <span style="color: #eab308">
-            To use basketball as a vehicle to change and save lives
-          </span>
-
-          <br /><br />
-
-          <span style="font-size: 14px; line-height: 1.2">
-            We're slowing down gun violence by getting local youth involved in
-            basketball.
-            <br />
-            LESS EXCUSES, MORE ADJUSTMENTS
-          </span>
-
-          <br /><br />
-        </mj-text>
-
+        <mj-text align="left" font-size="18px"> Hello [First Name], </mj-text>
         <mj-text
-          font-size="16px"
+          align="left"
+          font-size="18px"
           font-weight="600"
-          container-background-color="#eab308"
-          color="white"
+          padding-top="0"
         >
-          <a
-            href="https://joinguardiannm.org"
-            style="color: white; text-decoration: none"
-          >
-            VISIT NOW
-          </a>
-        </mj-text>
-
-        <mj-text font-size="18px" font-weight="600" padding-top="36px">
-          <span style="color: #eab308"
-            >Join our Player Development Program</span
-          >
-        </mj-text>
-
-        <mj-image
-          src="https://mailr.vercel.app/rentals111/assets/video.jpg"
-          href="https://youtu.be/gdndQWYhCRY"
-          padding-left="24px"
-          padding-right="24px"
-          border-radius="10px"
-          width="350px"
-        />
-
-        <mj-text font-size="18px" font-weight="600" padding-top="36px">
-          <span
-            style="
-              color: black;
-              font-weight: 400;
-              font-size: 14px;
-              text-align: center;
-              line-height: 1.6;
-            "
-          >
-            <li>Nationally recognized as one of the best in country</li>
-            <li>
-              Innovative training techniques such as pilates, cryotherapy and
-              more
-            </li>
-            <li>Valuable coaching and funamental basketball training</li>
-            <li>
-              Positive, effective grassroots way to end tragic gun violence
-            </li>
+          <br />
+          <span style="color: #f47624">
+            It was a pleasure doing business with you. Thank you for choosing
+            and trusting us as your mortgage broker.
           </span>
-        </mj-text>
 
-        <mj-button
-          background-color="#eab308"
-          color="white"
-          font-size="16px"
-          font-weight="500"
-          href="https://mailr.vercel.app/rentals111/assets/program.pdf"
-        >
-          View PDF to know more
-        </mj-button>
-
-        <mj-spacer height="24px" />
-
-        <mj-text
-          font-size="16px"
-          font-weight="600"
-          container-background-color="#eab308"
-          color="white"
-        >
-          <a
-            href="https://joinguardiannm.org"
-            style="color: white; text-decoration: none"
-          >
-            JOIN THE PROGRAM
-          </a>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <mj-section background-color="white" padding="0 30px">
-      <mj-column
-        border-bottom="2.5px solid #eab308"
-        border-left="2.5px solid #eab308"
-        padding-bottom="15px"
-        padding-top="15px"
-      >
-        <mj-text color="#eab308" font-size="18px" font-weight="500">
-          Apparels and more
-        </mj-text>
-        <mj-text color="black" padding-top="0">
-          Get classic t-shirts, hoodies and more.
-        </mj-text>
-        <mj-image
-          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
-          padding-left="24px"
-          padding-right="24px"
-          width="300px"
-        />
-        <mj-button
-          background-color="#eab308"
-          color="white"
-          font-size="16px"
-          font-weight="500"
-          href="https://joinguardiannm.org/collections/all"
-        >
-          Shop Now
-        </mj-button>
-      </mj-column>
-    </mj-section>
-
-    <mj-section background-color="white" padding="0 30px">
-      <mj-column
-        border-bottom="2.5px solid #eab308"
-        border-right="2.5px solid #eab308"
-        padding-bottom="15px"
-        padding-top="15px"
-      >
-        <mj-text color="#eab308" font-size="18px" font-weight="500">
-          Donate to Shoot Basketballs NOT People
-        </mj-text>
-        <mj-text color="black" padding-top="0">
-          Thank you for supporting Shoot Basketballs NOT People and our mission
-          to use basketballs as a vehicle to change and save lives.
           <br /><br />
-          <a href="https://youtu.be/Gq3mhygfEj0" style="color: black"
-            >Click to watch video to know more!</a
-          >
+
+          <span style="font-size: 16px; line-height: 1.2">
+            As you may know, many people like you rely on online reviews to make
+            sure they get the best service possible. With that said, we would
+            love it if you could leave us a testimonial on our Google page.
+          </span>
+
+          <br />
         </mj-text>
-        <mj-button
-          background-color="#eab308"
-          color="white"
-          font-size="16px"
-          font-weight="500"
-          href="https://www.paypal.com/donate/?hosted_button_id=EB65QFCR4KQBG"
-        >
-          Donate
-        </mj-button>
       </mj-column>
     </mj-section>
 
     <mj-section background-color="white" padding="0 30px">
       <mj-column
-        border-bottom="2.5px solid #eab308"
-        border-left="2.5px solid #eab308"
+        border-bottom="2.5px solid #f47624"
+        border-left="2.5px solid #f47624"
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-text color="#eab308" font-size="18px" font-weight="500">
-          Stay Updated with guardiannm
-        </mj-text>
-        <mj-text color="black" padding-top="0">
-          Subscribe to our newsletter and more.
-        </mj-text>
-        <mj-image
-          src="https://cdn.shopify.com/s/files/1/0555/5221/3269/articles/RC4jWFbnoFGUoXxuP7P6eA_400x.jpg?v=1673827896"
-          padding-left="24px"
-          padding-right="24px"
-          border-radius="10px"
-          width="350px"
-        />
-        <mj-text color="black" padding-top="0">
-          The Benefits of Normatec Pants for Recovery and Why Young Players
-          Should Definitely Consider These
-        </mj-text>
-
-        <mj-image
-          src="https://cdn.shopify.com/s/files/1/0555/5221/3269/articles/Players_Should_Incorporate_Mediation_400x.jpg?v=1671831574"
-          padding-left="24px"
-          padding-right="24px"
-          border-radius="10px"
-          width="350px"
-        />
-        <mj-text color="black" padding-top="0">
-          Why Young Players Should Incorporate Mediation into Their Everyday
-          Routine?
-        </mj-text>
-
-        <mj-button
-          background-color="#eab308"
-          color="white"
-          font-size="16px"
+        <mj-text
+          align="left"
+          color="#f47624"
+          font-size="18px"
           font-weight="500"
-          href="https://joinguardiannm.org/blogs/news"
         >
-          Read More
-        </mj-button>
-      </mj-column>
-    </mj-section>
-
-    <mj-section background-color="white" padding="0 30px">
-      <mj-column
-        border-bottom="2.5px solid #eab308"
-        border-right="2.5px solid #eab308"
-        padding-bottom="15px"
-        padding-top="15px"
-      >
-        <mj-text color="#eab308" font-size="18px" font-weight="500">
-          Try our e-books
+          You can click this link to leave your feedback and assist other people
+          like you get the help they need in negotiating loan rates with the
+          lenders and make their application process as smooth as yours.
         </mj-text>
 
         <mj-button
-          background-color="#eab308"
+          background-color="#f47624"
           color="white"
           font-size="16px"
           font-weight="500"
           href="https://mailr.vercel.app/rentals111/assets/conditioning.pdf"
         >
-          Fundamentals of Conditioning
-        </mj-button>
-
-        <mj-button
-          background-color="#eab308"
-          color="white"
-          font-size="16px"
-          font-weight="500"
-          href="https://mailr.vercel.app/rentals111/assets/shooting.pdf"
-        >
-          Fundamentals of Shooting
+          LEAVE A REVIEW
         </mj-button>
       </mj-column>
     </mj-section>
 
     <mj-section padding-top="32px" padding-bottom="0">
       <mj-column>
+        <mj-text
+          align="left"
+          font-size="18px"
+          font-weight="600"
+          padding-top="0"
+        >
+          <span style="font-size: 16px; line-height: 1.2">
+            Thank you for taking time out of your day.
+            <br />
+            We greatly appreciate it!
+            <br />
+            <br />
+          </span>
+        </mj-text>
+
         <mj-image
-          src="https://mailr.vercel.app/rentals111/assets/logo.png"
-          width="128px"
+          src="https://mailr.vercel.app/singlacharul/assets/logo.png"
+          width="300px"
         />
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="white" padding-bottom="32px">
+    <mj-section background-color="white" padding-bottom="32px" padding-top="0">
       <mj-column>
-        <mj-social padding-top="0">
+        <!-- <mj-social padding-top="0">
           <mj-social-element
             color="black"
             src="https://iconic.app/icons/iconic/png/black/world.png"
-            href="https://joinguardiannm.org"
+            href="https://www.guardiannm.com.au/"
           >
-            &nbsp;https://joinguardiannm.org
+            &nbsp;https://www.guardiannm.com.au/
           </mj-social-element>
-        </mj-social>
+        </mj-social> -->
 
-        <mj-text
+        <!-- <mj-text
           font-size="16px"
           font-weight="600"
-          container-background-color="#eab308"
+          container-background-color="#f47624"
           color="white"
         >
           <a
-            href="https://joinguardiannm.org"
+            href="https://www.guardiannm.com.au/"
             style="color: white; text-decoration: none"
           >
             VISIT NOW
           </a>
-        </mj-text>
+        </mj-text> -->
 
-        <mj-text padding-top="24px" font-size="10px">
+        <mj-text font-size="10px">
           You may
-          <a href="https://joinguardiannm.org" style="color: black"
+          <a href="https://www.guardiannm.com.au/" style="color: black"
             >unsubscribe</a
           >
           or
-          <a href="https://joinguardiannm.org" style="color: black">
+          <a href="https://www.guardiannm.com.au/" style="color: black">
             change your contact details</a
           >
           at any time.
