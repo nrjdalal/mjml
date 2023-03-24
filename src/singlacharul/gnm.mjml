@@ -68,9 +68,11 @@
 
       <mj-button
         align="left"
-        href="https://mjml.io/"
         background-color="#f47624"
+        color="white"
         font-size="16px"
+        font-weight="500"
+        href="https://mailr.vercel.app/rentals111/assets/conditioning.pdf"
       >
         LEAVE A REVIEW
       </mj-button>
