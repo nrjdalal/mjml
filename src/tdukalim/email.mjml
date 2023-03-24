@@ -1,0 +1,333 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      Passion for Fashion and Beauty? We've got some great prizes draws for you!
+    </mj-title>
+    <mj-font
+      name="Montserrat"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap"
+    />
+    <mj-attributes>
+      <mj-button
+        href="https://example.com"
+        background-color="white"
+        color="black"
+      />
+      <mj-image href="https://example.com" alt="EmailOffer.info" />
+      <mj-carousel-image href="https://example.com" alt="EmailOffer.info" />
+      <mj-section background-color="black" />
+      <mj-text
+        align="center"
+        color="white"
+        font-family="Montserrat, Arial"
+        line-height="1.4"
+      />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <!-- <mj-section padding-top="32px" padding-bottom="0">
+      <mj-column>
+        <mj-image
+          src="https://mailr.vercel.app/rentals111/assets/logo.png"
+          width="128px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="16px" padding-bottom="0">
+      <mj-column>
+        <mj-image
+          src="https://mailr.vercel.app/rentals111/assets/IMG_0588.jpg"
+          padding-left="24px"
+          padding-right="24px"
+        />
+      </mj-column>
+    </mj-section> -->
+
+    <mj-section background-color="black" padding-bottom="32px">
+      <mj-column>
+        <mj-text font-size="18px"> EmailOffer.info </mj-text>
+        <mj-text font-size="18px" font-weight="600" padding-top="0">
+          <span style="color: #eab308">
+            Passion for Fashion and Beauty, we've got some great prizes draws
+            for you!
+          </span>
+
+          <!-- <br /><br />
+
+          <span style="font-size: 14px; line-height: 1.2">
+            We're slowing down gun violence by getting local youth involved in
+            basketball.
+            <br />
+            LESS EXCUSES, MORE ADJUSTMENTS
+          </span>
+
+          <br /><br /> -->
+        </mj-text>
+
+        <!-- <mj-text
+          font-size="16px"
+          font-weight="600"
+          container-background-color="#eab308"
+          color="black"
+        >
+          <a
+            href="https://example.com"
+            style="color: black; text-decoration: none"
+          >
+            VISIT NOW
+          </a>
+        </mj-text>
+
+        <mj-text font-size="18px" font-weight="600" padding-top="36px">
+          <span style="color: #eab308"
+            >Join our Player Development Program</span
+          >
+        </mj-text>
+
+        <mj-image
+          src="https://mailr.vercel.app/rentals111/assets/video.jpg"
+          href="https://youtu.be/gdndQWYhCRY"
+          padding-left="24px"
+          padding-right="24px"
+          border-radius="10px"
+          width="350px"
+        />
+
+        <mj-text font-size="18px" font-weight="600" padding-top="36px">
+          <span
+            style="
+              color: white;
+              font-weight: 400;
+              font-size: 14px;
+              text-align: center;
+              line-height: 1.6;
+            "
+          >
+            <li>Nationally recognized as one of the best in country</li>
+            <li>
+              Innovative training techniques such as pilates, cryotherapy and
+              more
+            </li>
+            <li>Valuable coaching and funamental basketball training</li>
+            <li>
+              Positive, effective grassroots way to end tragic gun violence
+            </li>
+          </span>
+        </mj-text>
+
+        <mj-button
+          background-color="#eab308"
+          color="black"
+          font-size="16px"
+          font-weight="500"
+          href="https://mailr.vercel.app/rentals111/assets/program.pdf"
+        >
+          View PDF to know more
+        </mj-button>
+
+        <mj-spacer height="24px" />
+
+        <mj-text
+          font-size="16px"
+          font-weight="600"
+          container-background-color="#eab308"
+          color="black"
+        >
+          <a
+            href="https://example.com"
+            style="color: black; text-decoration: none"
+          >
+            JOIN THE PROGRAM
+          </a>
+        </mj-text> -->
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="black" padding="0 30px">
+      <mj-column
+        border-bottom="2.5px solid #eab308"
+        border-left="2.5px solid #eab308"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-image
+          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+          padding-left="24px"
+          padding-right="24px"
+          width="300px"
+        />
+        <mj-text color="#eab308" font-size="18px" font-weight="500">
+          Closing Date: 23rd August 2023
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="black" padding="0 30px">
+      <mj-column
+        border-bottom="2.5px solid #eab308"
+        border-right="2.5px solid #eab308"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-image
+          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+          padding-left="24px"
+          padding-right="24px"
+          width="300px"
+        />
+        <mj-text color="#eab308" font-size="18px" font-weight="500">
+          Closing Date: 23rd August 2023
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="black" padding="0 30px">
+      <mj-column
+        border-bottom="2.5px solid #eab308"
+        border-left="2.5px solid #eab308"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-image
+          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+          padding-left="24px"
+          padding-right="24px"
+          width="300px"
+        />
+        <mj-text color="#eab308" font-size="18px" font-weight="500">
+          Closing Date: 23rd August 2023
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="black" padding="0 30px">
+      <mj-column
+        border-bottom="2.5px solid #eab308"
+        border-right="2.5px solid #eab308"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-image
+          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+          padding-left="24px"
+          padding-right="24px"
+          width="300px"
+        />
+        <mj-text color="#eab308" font-size="18px" font-weight="500">
+          Closing Date: 23rd August 2023
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="black" padding="0 30px">
+      <mj-column
+        border-bottom="2.5px solid #eab308"
+        border-left="2.5px solid #eab308"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-image
+          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+          padding-left="24px"
+          padding-right="24px"
+          width="300px"
+        />
+        <mj-text color="#eab308" font-size="18px" font-weight="500">
+          Closing Date: 23rd August 2023
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="black" padding="0 30px">
+      <mj-column
+        border-bottom="2.5px solid #eab308"
+        border-right="2.5px solid #eab308"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-image
+          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+          padding-left="24px"
+          padding-right="24px"
+          width="300px"
+        />
+        <mj-text color="#eab308" font-size="18px" font-weight="500">
+          Closing Date: 23rd August 2023
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="black" padding="0 30px">
+      <mj-column
+        border-bottom="2.5px solid #eab308"
+        border-left="2.5px solid #eab308"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-image
+          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+          padding-left="24px"
+          padding-right="24px"
+          width="300px"
+        />
+        <mj-text color="#eab308" font-size="18px" font-weight="500">
+          Closing Date: 23rd August 2023
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="black" padding="0 30px">
+      <mj-column
+        border-bottom="2.5px solid #eab308"
+        border-right="2.5px solid #eab308"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-image
+          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+          padding-left="24px"
+          padding-right="24px"
+          width="300px"
+        />
+        <mj-text color="#eab308" font-size="18px" font-weight="500">
+          Closing Date: 23rd August 2023
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="black" padding="0 30px">
+      <mj-column
+        border-bottom="2.5px solid #eab308"
+        border-left="2.5px solid #eab308"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-image
+          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+          padding-left="24px"
+          padding-right="24px"
+          width="300px"
+        />
+        <mj-text color="#eab308" font-size="18px" font-weight="500">
+          Closing Date: 23rd August 2023
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="32px" padding-bottom="0">
+      <mj-column>
+        <mj-text font-size="18px"> EmailOffer.info </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="black" padding-bottom="32px">
+      <mj-column>
+        <mj-text font-size="12px">
+          This email was sent to admin@example.com. If you no longer wish to
+          receive emails from us, simply
+          <a href="https://example.com" style="color: white">unsubscribe</a>
+          here.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
