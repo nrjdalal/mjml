@@ -33,16 +33,16 @@
       <mj-group>
         <mj-column>
           <mj-image
-            src="https://mailr.vercel.app/singlacharul/assets/logo.png"
+            src="https://mailr.vercel.app/singlacharul/assets/logo-min.png"
             width="250px"
           />
         </mj-column>
-        <mj-column padding-top="30px">
+        <mj-column padding-top="8px">
           <mj-social
             align="right"
             padding-top="0"
-            icon-height="24px"
-            icon-size="24px"
+            icon-height="20px"
+            icon-size="20px"
           >
             <!-- <mj-social-element
             color="black"
@@ -52,7 +52,7 @@
             &nbsp;1300LOANSTAR
           </mj-social-element> -->
             <mj-social-element
-              background-color="#DB2777"
+              background-color="#f47624"
               src="https://iconic.app/icons/iconic/png/white/phone.png"
               name="phone"
               href="tel:1300 LOAN STAR"
@@ -64,7 +64,7 @@
             >
             </mj-social-element>
             <mj-social-element
-              background-color="#DB2777"
+              background-color="#f47624"
               src="https://iconic.app/icons/iconic/png/white/mail.png"
               name="email"
               href="mailto:info@guardiannm.com.au"
@@ -298,7 +298,7 @@
             &nbsp;1300LOANSTAR
           </mj-social-element> -->
           <mj-social-element
-            background-color="#DB2777"
+            background-color="#f47624"
             src="https://iconic.app/icons/iconic/png/white/phone.png"
             name="phone"
             href="tel:1300 LOAN STAR"
@@ -310,7 +310,7 @@
           >
           </mj-social-element>
           <mj-social-element
-            background-color="#DB2777"
+            background-color="#f47624"
             src="https://iconic.app/icons/iconic/png/white/mail.png"
             name="email"
             href="mailto:info@guardiannm.com.au"
