@@ -34,7 +34,7 @@
         <mj-column>
           <mj-image
             src="https://mailr.vercel.app/singlacharul/assets/logo-min.png"
-            width="250px"
+            width="256px"
           />
         </mj-column>
         <mj-column padding-top="8px">
@@ -209,8 +209,8 @@
         </mj-text>
 
         <mj-image
-          src="https://mailr.vercel.app/singlacharul/assets/logo.png"
-          width="300px"
+          src="https://mailr.vercel.app/singlacharul/assets/logo-min.png"
+          width="256px"
         />
       </mj-column>
     </mj-section>
