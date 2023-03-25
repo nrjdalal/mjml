@@ -30,12 +30,49 @@
   </mj-head>
   <mj-body>
     <mj-section padding-top="32px" padding-bottom="12px">
-      <mj-column>
-        <mj-image
-          src="https://mailr.vercel.app/singlacharul/assets/logo.png"
-          width="300px"
-        />
-      </mj-column>
+      <mj-group>
+        <mj-column>
+          <mj-image
+            src="https://mailr.vercel.app/singlacharul/assets/logo.png"
+            width="250px"
+          />
+        </mj-column>
+        <mj-column padding-top="30px">
+          <mj-social
+            align="right"
+            padding-top="0"
+            icon-height="24px"
+            icon-size="24px"
+          >
+            <!-- <mj-social-element
+            color="black"
+            src="https://iconic.app/icons/iconic/png/black/phone.png"
+            href="https://www.guardiannm.com.au/"
+          >
+            &nbsp;1300LOANSTAR
+          </mj-social-element> -->
+            <mj-social-element
+              background-color="#DB2777"
+              src="https://iconic.app/icons/iconic/png/white/phone.png"
+              name="phone"
+              href="tel:1300 LOAN STAR"
+            >
+            </mj-social-element>
+            <mj-social-element
+              name="facebook"
+              href="https://www.facebook.com/guardiannm/"
+            >
+            </mj-social-element>
+            <mj-social-element
+              background-color="#DB2777"
+              src="https://iconic.app/icons/iconic/png/white/mail.png"
+              name="email"
+              href="mailto:info@guardiannm.com.au"
+            >
+            </mj-social-element>
+          </mj-social>
+        </mj-column>
+      </mj-group>
     </mj-section>
 
     <mj-hero
@@ -252,19 +289,37 @@
       padding-top="28px"
     >
       <mj-column>
-        <mj-social padding-top="0">
-          <mj-social-element
+        <mj-social padding-top="0" icon-height="24px" icon-size="24px">
+          <!-- <mj-social-element
             color="black"
             src="https://iconic.app/icons/iconic/png/black/phone.png"
             href="https://www.guardiannm.com.au/"
           >
             &nbsp;1300LOANSTAR
+          </mj-social-element> -->
+          <mj-social-element
+            background-color="#DB2777"
+            src="https://iconic.app/icons/iconic/png/white/phone.png"
+            name="phone"
+            href="tel:1300 LOAN STAR"
+          >
+          </mj-social-element>
+          <mj-social-element
+            name="facebook"
+            href="https://www.facebook.com/guardiannm/"
+          >
+          </mj-social-element>
+          <mj-social-element
+            background-color="#DB2777"
+            src="https://iconic.app/icons/iconic/png/white/mail.png"
+            name="email"
+            href="mailto:info@guardiannm.com.au"
+          >
           </mj-social-element>
         </mj-social>
 
-        <!-- <mj-text
-          font-size="16px"
-          font-weight="600"
+        <mj-text
+          font-size="14px"
           container-background-color="#f47624"
           color="white"
         >
@@ -272,9 +327,9 @@
             href="https://www.guardiannm.com.au/"
             style="color: white; text-decoration: none"
           >
-            VISIT NOW
+            36 East Concourse Beaumaris VIC 3193
           </a>
-        </mj-text> -->
+        </mj-text>
 
         <mj-text font-size="10px">
           You may
