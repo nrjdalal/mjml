@@ -78,7 +78,7 @@
       </mj-button>
     </mj-hero>
 
-    <mj-section background-color="white" padding-bottom="32px">
+    <mj-section background-color="white">
       <mj-column>
         <mj-text align="left" font-size="18px"> Hello [First Name], </mj-text>
         <mj-text
@@ -106,13 +106,8 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="white" padding="0 30px">
-      <mj-column
-        border-bottom="2.5px solid #f47624"
-        border-left="2.5px solid #f47624"
-        padding-bottom="15px"
-        padding-top="15px"
-      >
+    <mj-section background-color="white">
+      <mj-column>
         <mj-text
           align="left"
           color="#f47624"
@@ -125,11 +120,12 @@
         </mj-text>
 
         <mj-button
+          align="left"
           background-color="#f47624"
           color="white"
           font-size="16px"
           font-weight="500"
-          href="https://mailr.vercel.app/rentals111/assets/conditioning.pdf"
+          href="https://guardiannm.com.au/reviews/"
         >
           LEAVE A REVIEW
         </mj-button>
@@ -154,23 +150,117 @@
         </mj-text>
 
         <mj-image
+          src="https://media.licdn.com/dms/image/C4D03AQFu2Y7TybXaFQ/profile-displayphoto-shrink_800_800/0/1516938634229?e=1684972800&v=beta&t=G-MUf9zckyLI_VbfzZX6NkXfjpEecMvthN97b8xF9U4"
+          alt="Director"
+          align="left"
+          width="100px"
+          border-radius="100%"
+        />
+
+        <mj-text
+          color="#f47624"
+          align="left"
+          font-size="18px"
+          font-weight="600"
+          padding-top="0"
+        >
+          <span style="font-size: 16px; line-height: 1.2">
+            Phil Sealy, Director
+            <br />
+            <br />
+          </span>
+        </mj-text>
+
+        <mj-image
           src="https://mailr.vercel.app/singlacharul/assets/logo.png"
           width="300px"
         />
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="white" padding-bottom="32px" padding-top="0">
+    <mj-section background-color="white" padding="0 30px">
+      <mj-column
+        border-bottom="2.5px solid #f47624"
+        border-right="2.5px solid #f47624"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-text color="#f47624" font-size="18px" font-weight="500">
+          Debbie S
+        </mj-text>
+        <mj-text font-style="italic" padding-top="0">
+          You guys have been great to deal with again.
+          <br /><br />
+          Thanks for taking all the stress out of refinancing for us. We are
+          both really pleased with what we have done by improving our loan
+          structure and reducing our expenses making life that little bit
+          easier!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding="0 30px">
+      <mj-column
+        border-bottom="2.5px solid #f47624"
+        border-left="2.5px solid #f47624"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-text color="#f47624" font-size="18px" font-weight="500">
+          Craig L
+        </mj-text>
+        <mj-text font-style="italic" padding-top="0">
+          More people would refinance more frequently, I believe, if they were
+          dealing with the team at Guardian.
+          <br /><br />
+          Everything moved along smoothly and it all happened quicker than we
+          thought possible.
+          <br /><br />
+          I would certainly recommend Guardian to anyone looking to refinance
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding="0 30px">
+      <mj-column
+        border-bottom="2.5px solid #f47624"
+        border-right="2.5px solid #f47624"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-text color="#f47624" font-size="18px" font-weight="500">
+          Andrew P
+        </mj-text>
+        <mj-text font-style="italic" padding-top="0">
+          Phil and his team recently assisted us with the refinancing of some
+          investment loans. Phil was extremely knowledgeable about the products
+          and services that suited our situation. He was able source a number of
+          options with improved interest rates within a couple of days. He spent
+          time understanding our requirements and circumstances and recommended
+          products to suit. The Guardian team was professional and quick to
+          respond. They quickly followed up on any issues. We had a short
+          timeframe to get our new finance in place and the team had everything
+          completed and in place with plenty of time to spare. I highly
+          recommend Phil and his team to anyone needing mortgage services.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="white"
+      padding-bottom="32px"
+      padding-top="28px"
+    >
       <mj-column>
-        <!-- <mj-social padding-top="0">
+        <mj-social padding-top="0">
           <mj-social-element
             color="black"
-            src="https://iconic.app/icons/iconic/png/black/world.png"
+            src="https://iconic.app/icons/iconic/png/black/phone.png"
             href="https://www.guardiannm.com.au/"
           >
-            &nbsp;https://www.guardiannm.com.au/
+            &nbsp;1300LOANSTAR
           </mj-social-element>
-        </mj-social> -->
+        </mj-social>
 
         <!-- <mj-text
           font-size="16px"
