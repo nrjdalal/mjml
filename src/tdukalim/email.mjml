@@ -151,22 +151,18 @@
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-table>
-          <tr>
-            <td width="49%">
-              <img
-                src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
-              />
-            </td>
-            <td width="2%" />
-            <td width="49%">
-              <img
-                src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
-              />
-            </td>
-          </tr>
-        </mj-table>
-
+        <mj-image
+          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+          padding-left="24px"
+          padding-right="24px"
+          width="300px"
+        />
+        <mj-image
+          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+          padding-left="24px"
+          padding-right="24px"
+          width="300px"
+        />
         <mj-text color="#eab308" font-size="18px" font-weight="500">
           Closing Date: 23rd August 2023
         </mj-text>
@@ -180,22 +176,12 @@
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-table>
-          <tr>
-            <td width="49%">
-              <img
-                src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
-              />
-            </td>
-            <td width="2%" />
-            <td width="49%">
-              <img
-                src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
-              />
-            </td>
-          </tr>
-        </mj-table>
-
+        <mj-image
+          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+          padding-left="24px"
+          padding-right="24px"
+          width="300px"
+        />
         <mj-text color="#eab308" font-size="18px" font-weight="500">
           Closing Date: 23rd August 2023
         </mj-text>
@@ -209,22 +195,12 @@
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-table>
-          <tr>
-            <td width="49%">
-              <img
-                src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
-              />
-            </td>
-            <td width="2%" />
-            <td width="49%">
-              <img
-                src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
-              />
-            </td>
-          </tr>
-        </mj-table>
-
+        <mj-image
+          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+          padding-left="24px"
+          padding-right="24px"
+          width="300px"
+        />
         <mj-text color="#eab308" font-size="18px" font-weight="500">
           Closing Date: 23rd August 2023
         </mj-text>
@@ -238,22 +214,12 @@
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-table>
-          <tr>
-            <td width="49%">
-              <img
-                src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
-              />
-            </td>
-            <td width="2%" />
-            <td width="49%">
-              <img
-                src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
-              />
-            </td>
-          </tr>
-        </mj-table>
-
+        <mj-image
+          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+          padding-left="24px"
+          padding-right="24px"
+          width="300px"
+        />
         <mj-text color="#eab308" font-size="18px" font-weight="500">
           Closing Date: 23rd August 2023
         </mj-text>
@@ -266,22 +232,12 @@
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-table>
-          <tr>
-            <td width="49%">
-              <img
-                src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
-              />
-            </td>
-            <td width="2%" />
-            <td width="49%">
-              <img
-                src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
-              />
-            </td>
-          </tr>
-        </mj-table>
-
+        <mj-image
+          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+          padding-left="24px"
+          padding-right="24px"
+          width="300px"
+        />
         <mj-text color="#eab308" font-size="18px" font-weight="500">
           Closing Date: 23rd August 2023
         </mj-text>
@@ -295,22 +251,12 @@
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-table>
-          <tr>
-            <td width="49%">
-              <img
-                src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
-              />
-            </td>
-            <td width="2%" />
-            <td width="49%">
-              <img
-                src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
-              />
-            </td>
-          </tr>
-        </mj-table>
-
+        <mj-image
+          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+          padding-left="24px"
+          padding-right="24px"
+          width="300px"
+        />
         <mj-text color="#eab308" font-size="18px" font-weight="500">
           Closing Date: 23rd August 2023
         </mj-text>
@@ -323,22 +269,12 @@
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-table>
-          <tr>
-            <td width="49%">
-              <img
-                src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
-              />
-            </td>
-            <td width="2%" />
-            <td width="49%">
-              <img
-                src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
-              />
-            </td>
-          </tr>
-        </mj-table>
-
+        <mj-image
+          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+          padding-left="24px"
+          padding-right="24px"
+          width="300px"
+        />
         <mj-text color="#eab308" font-size="18px" font-weight="500">
           Closing Date: 23rd August 2023
         </mj-text>
@@ -352,22 +288,12 @@
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-table>
-          <tr>
-            <td width="49%">
-              <img
-                src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
-              />
-            </td>
-            <td width="2%" />
-            <td width="49%">
-              <img
-                src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
-              />
-            </td>
-          </tr>
-        </mj-table>
-
+        <mj-image
+          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+          padding-left="24px"
+          padding-right="24px"
+          width="300px"
+        />
         <mj-text color="#eab308" font-size="18px" font-weight="500">
           Closing Date: 23rd August 2023
         </mj-text>
@@ -381,22 +307,12 @@
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-table>
-          <tr>
-            <td width="49%">
-              <img
-                src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
-              />
-            </td>
-            <td width="2%" />
-            <td width="49%">
-              <img
-                src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
-              />
-            </td>
-          </tr>
-        </mj-table>
-
+        <mj-image
+          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+          padding-left="24px"
+          padding-right="24px"
+          width="300px"
+        />
         <mj-text color="#eab308" font-size="18px" font-weight="500">
           Closing Date: 23rd August 2023
         </mj-text>
