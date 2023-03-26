@@ -82,14 +82,20 @@
       </mj-group>
     </mj-section>
     <mj-section border-top="2px solid red">
+      <mj-group>
       <mj-column padding="0">
-        <mj-text>Property Investors</mj-text>
+        <mj-text><a style="color: inherit; text-decoration:none" href="https://www.guardiannm.com.au/property-investors">Property Investors</a></mj-text>
       </mj-column>
-      <mj-column><mj-text>Refinancing </mj-text></mj-column>
-      <mj-column><mj-text>Low / Alternative Doc Loans</mj-text></mj-column>
-      <mj-column><mj-text>SMSF Loans</mj-text></mj-column>
-      <mj-column><mj-text>Getting Finance Structure Right</mj-text></mj-column>
+      <mj-column><mj-text><a style="color: inherit; text-decoration:none" href="https://www.guardiannm.com.au/refinancing">Refinancing</a> </mj-text></mj-column>
+        </mj-group>
+      <mj-group>
+      <mj-column><mj-text><a style="color: inherit; text-decoration:none" href="https://www.guardiannm.com.au/lowalternative-doc-loans">Low / Alternative Doc Loans</a></mj-text></mj-column>
+      <mj-column><mj-text><a style="color: inherit; text-decoration:none" href="https://www.guardiannm.com.au/smsf-loans">SMSF Loans</a></mj-text></mj-column>
+        </mj-group>
+      <mj-group>
+      <mj-column><mj-text><a style="color: inherit; text-decoration:none" href="https://www.guardiannm.com.au/getting-finance-structure-right">Getting Finance Structure Right</a></mj-text></mj-column>
     </mj-section>
+      </mj-group>
 
     <mj-hero
       mode="fluid-height"
@@ -104,7 +110,7 @@
         align="left"
         color="#ffffff"
         align="center"
-        font-size="35px"
+        font-size="30px"
         font-weight="700"
       >
         HOW WAS YOUR
@@ -208,7 +214,7 @@
           padding-bottom="5px"
         >
           <span style="font-size: 16px"> Kind Regards, </span><br />
-          <span style="font-size: 16px"> Phil Sealy, </span>
+          <a style="color: inherit; text-decoration: none;" href=""><span style="font-size: 16px"> Phil Sealy </span></a><br />
           <span style="font-size: 16px"> Director </span>
         </mj-text>
       </mj-column>
@@ -218,7 +224,7 @@
       <mj-column padding-bottom="0">
         <mj-text
           color="#f47624"
-          align="left"
+          align="center"
           font-size="18px"
           font-weight="600"
           padding-top="0"
@@ -304,52 +310,29 @@
       padding-top="28px"
     >
       <mj-column>
-        <mj-social padding-top="0" icon-height="24px" icon-size="24px">
-          <!-- <mj-social-element
-            color="black"
-            src="https://iconic.app/icons/iconic/png/black/phone.png"
-            href="https://www.guardiannm.com.au/"
-          >
-            &nbsp;1300LOANSTAR
-          </mj-social-element> -->
-          <mj-social-element
-            background-color="#f47624"
-            src="https://iconic.app/icons/iconic/png/white/phone.png"
-            name="phone"
-            href="tel:1300 LOAN STAR"
-          >
-          </mj-social-element>
-          <mj-social-element
-            name="fb"
-            src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png"
-            href="https://www.facebook.com/guardiannm"
-          >
-          </mj-social-element>
-          <mj-social-element
-            name="li"
-            src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
-            href="https://www.linkedin.com/in/phil-sealy-39839b21"
-          >
-          </mj-social-element>
-          <mj-social-element
-            background-color="#f47624"
-            src="https://iconic.app/icons/iconic/png/white/mail.png"
-            name="email"
-            href="mailto:info@guardiannm.com.au"
-          >
-          </mj-social-element>
-        </mj-social>
 
         <mj-text
           font-size="14px"
           container-background-color="#f47624"
           color="white"
         >
-          <a
+          Address : <a
             href="https://www.guardiannm.com.au/"
             style="color: white; text-decoration: none"
           >
             36 East Concourse Beaumaris VIC 3193
+          </a>
+        </mj-text>
+        <mj-text
+          font-size="14px"
+          container-background-color="#f47624"
+          color="white"
+        >
+          Contact : <a
+            href="https://www.guardiannm.com.au/"
+            style="color: white; text-decoration: none"
+          >
+            1800LOANSTAR
           </a>
         </mj-text>
 
