@@ -10,7 +10,7 @@
         href="https://www.guardiannm.com.au/"
         background-color="black"
         color="white"
-      />-*
+      />
       <mj-image
         href="https://www.guardiannm.com.au/"
         alt="Guardian National Mortgage"
@@ -235,6 +235,7 @@
 
     <mj-section background-color="white" padding="0 30px">
       <mj-column
+        border-left="2.5px solid #f47624"
         padding-bottom="15px"
         padding-top="15px"
       >
