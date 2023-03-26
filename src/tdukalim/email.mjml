@@ -145,178 +145,380 @@
     </mj-section>
 
     <mj-section background-color="black" padding="0 30px">
-      <mj-column
-        border-bottom="2.5px solid #eab308"
-        border-left="2.5px solid #eab308"
-        padding-bottom="15px"
-        padding-top="15px"
-      >
-        <mj-image
-          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
-          padding-left="24px"
-          padding-right="24px"
-          width="300px"
-        />
-        <mj-image
-          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
-          padding-left="24px"
-          padding-right="24px"
-          width="300px"
-        />
-        <mj-text color="#eab308" font-size="18px" font-weight="500">
-          Closing Date: 23rd August 2023
-        </mj-text>
-      </mj-column>
+      <mj-group>
+        <mj-column
+          border-bottom="2.5px solid #eab308"
+          border-left="2.5px solid #eab308"
+          padding-bottom="15px"
+          padding-top="15px"
+        >
+          <mj-image
+            src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+            padding-left="24px"
+            padding-right="24px"
+            width="300px"
+          />
+
+          <mj-text color="#eab308" font-size="18px" font-weight="500">
+            Closing Date: 23rd August 2023
+          </mj-text>
+        </mj-column>
+        <mj-column
+          border-bottom="2.5px solid #eab308"
+          border-left="2.5px solid #000000"
+          padding-bottom="15px"
+          padding-top="15px"
+        >
+          <mj-image
+            src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+            padding-left="24px"
+            padding-right="24px"
+            width="300px"
+          />
+
+          <mj-text color="#eab308" font-size="18px" font-weight="500">
+            Closing Date: 23rd August 2023
+          </mj-text>
+        </mj-column>
+      </mj-group>
     </mj-section>
 
     <mj-section background-color="black" padding="0 30px">
-      <mj-column
-        border-bottom="2.5px solid #eab308"
-        border-right="2.5px solid #eab308"
-        padding-bottom="15px"
-        padding-top="15px"
-      >
-        <mj-image
-          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
-          padding-left="24px"
-          padding-right="24px"
-          width="300px"
-        />
-        <mj-text color="#eab308" font-size="18px" font-weight="500">
-          Closing Date: 23rd August 2023
-        </mj-text>
-      </mj-column>
+      <mj-group>
+        <mj-column
+          border-bottom="2.5px solid #eab308"
+          border-right="2.5px solid #000000"
+          padding-bottom="15px"
+          padding-top="15px"
+        >
+          <mj-image
+            src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+            padding-left="24px"
+            padding-right="24px"
+            width="300px"
+          />
+          <mj-text color="#eab308" font-size="18px" font-weight="500">
+            Closing Date: 23rd August 2023
+          </mj-text>
+        </mj-column>
+        <mj-column
+          border-bottom="2.5px solid #eab308"
+          border-right="2.5px solid #eab308"
+          padding-bottom="15px"
+          padding-top="15px"
+        >
+          <mj-image
+            src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+            padding-left="24px"
+            padding-right="24px"
+            width="300px"
+          />
+          <mj-text color="#eab308" font-size="18px" font-weight="500">
+            Closing Date: 23rd August 2023
+          </mj-text>
+        </mj-column>
+      </mj-group>
     </mj-section>
 
     <mj-section background-color="black" padding="0 30px">
-      <mj-column
-        border-bottom="2.5px solid #eab308"
-        border-left="2.5px solid #eab308"
-        padding-bottom="15px"
-        padding-top="15px"
-      >
-        <mj-image
-          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
-          padding-left="24px"
-          padding-right="24px"
-          width="300px"
-        />
-        <mj-text color="#eab308" font-size="18px" font-weight="500">
-          Closing Date: 23rd August 2023
-        </mj-text>
-      </mj-column>
+      <mj-group>
+        <mj-column
+          border-bottom="2.5px solid #eab308"
+          border-left="2.5px solid #eab308"
+          padding-bottom="15px"
+          padding-top="15px"
+        >
+          <mj-image
+            src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+            padding-left="24px"
+            padding-right="24px"
+            width="300px"
+          />
+
+          <mj-text color="#eab308" font-size="18px" font-weight="500">
+            Closing Date: 23rd August 2023
+          </mj-text>
+        </mj-column>
+        <mj-column
+          border-bottom="2.5px solid #eab308"
+          border-left="2.5px solid #000000"
+          padding-bottom="15px"
+          padding-top="15px"
+        >
+          <mj-image
+            src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+            padding-left="24px"
+            padding-right="24px"
+            width="300px"
+          />
+
+          <mj-text color="#eab308" font-size="18px" font-weight="500">
+            Closing Date: 23rd August 2023
+          </mj-text>
+        </mj-column>
+      </mj-group>
     </mj-section>
 
     <mj-section background-color="black" padding="0 30px">
-      <mj-column
-        border-bottom="2.5px solid #eab308"
-        border-right="2.5px solid #eab308"
-        padding-bottom="15px"
-        padding-top="15px"
-      >
-        <mj-image
-          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
-          padding-left="24px"
-          padding-right="24px"
-          width="300px"
-        />
-        <mj-text color="#eab308" font-size="18px" font-weight="500">
-          Closing Date: 23rd August 2023
-        </mj-text>
-      </mj-column>
+      <mj-group>
+        <mj-column
+          border-bottom="2.5px solid #eab308"
+          border-right="2.5px solid #000000"
+          padding-bottom="15px"
+          padding-top="15px"
+        >
+          <mj-image
+            src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+            padding-left="24px"
+            padding-right="24px"
+            width="300px"
+          />
+          <mj-text color="#eab308" font-size="18px" font-weight="500">
+            Closing Date: 23rd August 2023
+          </mj-text>
+        </mj-column>
+        <mj-column
+          border-bottom="2.5px solid #eab308"
+          border-right="2.5px solid #eab308"
+          padding-bottom="15px"
+          padding-top="15px"
+        >
+          <mj-image
+            src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+            padding-left="24px"
+            padding-right="24px"
+            width="300px"
+          />
+          <mj-text color="#eab308" font-size="18px" font-weight="500">
+            Closing Date: 23rd August 2023
+          </mj-text>
+        </mj-column>
+      </mj-group>
     </mj-section>
     <mj-section background-color="black" padding="0 30px">
-      <mj-column
-        border-bottom="2.5px solid #eab308"
-        border-left="2.5px solid #eab308"
-        padding-bottom="15px"
-        padding-top="15px"
-      >
-        <mj-image
-          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
-          padding-left="24px"
-          padding-right="24px"
-          width="300px"
-        />
-        <mj-text color="#eab308" font-size="18px" font-weight="500">
-          Closing Date: 23rd August 2023
-        </mj-text>
-      </mj-column>
+      <mj-group>
+        <mj-column
+          border-bottom="2.5px solid #eab308"
+          border-left="2.5px solid #eab308"
+          padding-bottom="15px"
+          padding-top="15px"
+        >
+          <mj-image
+            src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+            padding-left="24px"
+            padding-right="24px"
+            width="300px"
+          />
+
+          <mj-text color="#eab308" font-size="18px" font-weight="500">
+            Closing Date: 23rd August 2023
+          </mj-text>
+        </mj-column>
+        <mj-column
+          border-bottom="2.5px solid #eab308"
+          border-left="2.5px solid #000000"
+          padding-bottom="15px"
+          padding-top="15px"
+        >
+          <mj-image
+            src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+            padding-left="24px"
+            padding-right="24px"
+            width="300px"
+          />
+
+          <mj-text color="#eab308" font-size="18px" font-weight="500">
+            Closing Date: 23rd August 2023
+          </mj-text>
+        </mj-column>
+      </mj-group>
     </mj-section>
 
     <mj-section background-color="black" padding="0 30px">
-      <mj-column
-        border-bottom="2.5px solid #eab308"
-        border-right="2.5px solid #eab308"
-        padding-bottom="15px"
-        padding-top="15px"
-      >
-        <mj-image
-          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
-          padding-left="24px"
-          padding-right="24px"
-          width="300px"
-        />
-        <mj-text color="#eab308" font-size="18px" font-weight="500">
-          Closing Date: 23rd August 2023
-        </mj-text>
-      </mj-column>
+      <mj-group>
+        <mj-column
+          border-bottom="2.5px solid #eab308"
+          border-right="2.5px solid #000000"
+          padding-bottom="15px"
+          padding-top="15px"
+        >
+          <mj-image
+            src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+            padding-left="24px"
+            padding-right="24px"
+            width="300px"
+          />
+          <mj-text color="#eab308" font-size="18px" font-weight="500">
+            Closing Date: 23rd August 2023
+          </mj-text>
+        </mj-column>
+        <mj-column
+          border-bottom="2.5px solid #eab308"
+          border-right="2.5px solid #eab308"
+          padding-bottom="15px"
+          padding-top="15px"
+        >
+          <mj-image
+            src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+            padding-left="24px"
+            padding-right="24px"
+            width="300px"
+          />
+          <mj-text color="#eab308" font-size="18px" font-weight="500">
+            Closing Date: 23rd August 2023
+          </mj-text>
+        </mj-column>
+      </mj-group>
     </mj-section>
     <mj-section background-color="black" padding="0 30px">
-      <mj-column
-        border-bottom="2.5px solid #eab308"
-        border-left="2.5px solid #eab308"
-        padding-bottom="15px"
-        padding-top="15px"
-      >
-        <mj-image
-          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
-          padding-left="24px"
-          padding-right="24px"
-          width="300px"
-        />
-        <mj-text color="#eab308" font-size="18px" font-weight="500">
-          Closing Date: 23rd August 2023
-        </mj-text>
-      </mj-column>
+      <mj-group>
+        <mj-column
+          border-bottom="2.5px solid #eab308"
+          border-left="2.5px solid #eab308"
+          padding-bottom="15px"
+          padding-top="15px"
+        >
+          <mj-image
+            src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+            padding-left="24px"
+            padding-right="24px"
+            width="300px"
+          />
+
+          <mj-text color="#eab308" font-size="18px" font-weight="500">
+            Closing Date: 23rd August 2023
+          </mj-text>
+        </mj-column>
+        <mj-column
+          border-bottom="2.5px solid #eab308"
+          border-left="2.5px solid #000000"
+          padding-bottom="15px"
+          padding-top="15px"
+        >
+          <mj-image
+            src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+            padding-left="24px"
+            padding-right="24px"
+            width="300px"
+          />
+
+          <mj-text color="#eab308" font-size="18px" font-weight="500">
+            Closing Date: 23rd August 2023
+          </mj-text>
+        </mj-column>
+      </mj-group>
     </mj-section>
 
     <mj-section background-color="black" padding="0 30px">
-      <mj-column
-        border-bottom="2.5px solid #eab308"
-        border-right="2.5px solid #eab308"
-        padding-bottom="15px"
-        padding-top="15px"
-      >
-        <mj-image
-          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
-          padding-left="24px"
-          padding-right="24px"
-          width="300px"
-        />
-        <mj-text color="#eab308" font-size="18px" font-weight="500">
-          Closing Date: 23rd August 2023
-        </mj-text>
-      </mj-column>
+      <mj-group>
+        <mj-column
+          border-bottom="2.5px solid #eab308"
+          border-right="2.5px solid #000000"
+          padding-bottom="15px"
+          padding-top="15px"
+        >
+          <mj-image
+            src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+            padding-left="24px"
+            padding-right="24px"
+            width="300px"
+          />
+          <mj-text color="#eab308" font-size="18px" font-weight="500">
+            Closing Date: 23rd August 2023
+          </mj-text>
+        </mj-column>
+        <mj-column
+          border-bottom="2.5px solid #eab308"
+          border-right="2.5px solid #eab308"
+          padding-bottom="15px"
+          padding-top="15px"
+        >
+          <mj-image
+            src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+            padding-left="24px"
+            padding-right="24px"
+            width="300px"
+          />
+          <mj-text color="#eab308" font-size="18px" font-weight="500">
+            Closing Date: 23rd August 2023
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="black" padding="0 30px">
+      <mj-group>
+        <mj-column
+          border-bottom="2.5px solid #eab308"
+          border-left="2.5px solid #eab308"
+          padding-bottom="15px"
+          padding-top="15px"
+        >
+          <mj-image
+            src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+            padding-left="24px"
+            padding-right="24px"
+            width="300px"
+          />
+
+          <mj-text color="#eab308" font-size="18px" font-weight="500">
+            Closing Date: 23rd August 2023
+          </mj-text>
+        </mj-column>
+        <mj-column
+          border-bottom="2.5px solid #eab308"
+          border-left="2.5px solid #000000"
+          padding-bottom="15px"
+          padding-top="15px"
+        >
+          <mj-image
+            src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+            padding-left="24px"
+            padding-right="24px"
+            width="300px"
+          />
+
+          <mj-text color="#eab308" font-size="18px" font-weight="500">
+            Closing Date: 23rd August 2023
+          </mj-text>
+        </mj-column>
+      </mj-group>
     </mj-section>
 
     <mj-section background-color="black" padding="0 30px">
-      <mj-column
-        border-bottom="2.5px solid #eab308"
-        border-left="2.5px solid #eab308"
-        padding-bottom="15px"
-        padding-top="15px"
-      >
-        <mj-image
-          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
-          padding-left="24px"
-          padding-right="24px"
-          width="300px"
-        />
-        <mj-text color="#eab308" font-size="18px" font-weight="500">
-          Closing Date: 23rd August 2023
-        </mj-text>
-      </mj-column>
+      <mj-group>
+        <mj-column
+          border-bottom="2.5px solid #eab308"
+          border-right="2.5px solid #000000"
+          padding-bottom="15px"
+          padding-top="15px"
+        >
+          <mj-image
+            src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+            padding-left="24px"
+            padding-right="24px"
+            width="300px"
+          />
+          <mj-text color="#eab308" font-size="18px" font-weight="500">
+            Closing Date: 23rd August 2023
+          </mj-text>
+        </mj-column>
+        <mj-column
+          border-bottom="2.5px solid #eab308"
+          border-right="2.5px solid #eab308"
+          padding-bottom="15px"
+          padding-top="15px"
+        >
+          <mj-image
+            src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+            padding-left="24px"
+            padding-right="24px"
+            width="300px"
+          />
+          <mj-text color="#eab308" font-size="18px" font-weight="500">
+            Closing Date: 23rd August 2023
+          </mj-text>
+        </mj-column>
+      </mj-group>
     </mj-section>
 
     <mj-section padding-top="32px" padding-bottom="0">
