@@ -10,7 +10,7 @@
         href="https://www.guardiannm.com.au/"
         background-color="black"
         color="white"
-      />
+      />-*
       <mj-image
         href="https://www.guardiannm.com.au/"
         alt="Guardian National Mortgage"
@@ -59,8 +59,15 @@
             >
             </mj-social-element>
             <mj-social-element
-              name="facebook"
-              href="https://www.facebook.com/guardiannm/"
+              name="fb"
+              src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png"
+              href="https://www.facebook.com/guardiannm"
+            >
+            </mj-social-element>
+            <mj-social-element
+              name="li"
+              src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+              href="https://www.linkedin.com/in/phil-sealy-39839b21"
             >
             </mj-social-element>
             <mj-social-element
@@ -74,6 +81,15 @@
         </mj-column>
       </mj-group>
     </mj-section>
+    <mj-section border-top="2px solid red">
+      <mj-column padding="0">
+        <mj-text>Property Investors</mj-text>
+      </mj-column>
+      <mj-column><mj-text>Refinancing </mj-text></mj-column>
+      <mj-column><mj-text>Low / Alternative Doc Loans</mj-text></mj-column>
+      <mj-column><mj-text>SMSF Loans</mj-text></mj-column>
+      <mj-column><mj-text>Getting Finance Structure Right</mj-text></mj-column>
+    </mj-section>
 
     <mj-hero
       mode="fluid-height"
@@ -83,23 +99,16 @@
       background-color="#000000"
       padding="175px 30px 100px 30px"
     >
-      <mj-text
-        align="left"
-        color="#ffffff"
-        font-size="24px"
-        font-weight="300"
-        padding-bottom="0"
-      >
-        HOW WAS YOUR
-      </mj-text>
 
       <mj-text
         align="left"
         color="#ffffff"
         align="center"
-        font-size="30px"
-        font-weight="500"
+        font-size="35px"
+        font-weight="700"
       >
+        HOW WAS YOUR
+        <br/>
         EXPERIENCE?
       </mj-text>
 
@@ -119,15 +128,14 @@
       <mj-column>
         <mj-text align="left" font-size="18px"> Hello [First Name], </mj-text>
         <mj-text
-          align="left"
+          align="justify"
           font-size="18px"
           font-weight="600"
           padding-top="0"
         >
           <br />
           <span style="color: #f47624">
-            It was a pleasure doing business with you. Thank you for choosing
-            and trusting us as your mortgage broker.
+            It was a pleasure doing business with you. Thank you for choosing and trusting us as your mortgage broker.
           </span>
 
           <br /><br />
@@ -135,7 +143,7 @@
           <span style="font-size: 16px; line-height: 1.2">
             As you may know, many people like you rely on online reviews to make
             sure they get the best service possible. With that said, we would
-            love it if you could leave us a testimonial on our Google page.
+            love it if you could leave us a testimonial on Google.
           </span>
 
           <br />
@@ -146,9 +154,9 @@
     <mj-section background-color="white">
       <mj-column>
         <mj-text
-          align="left"
+          align="center"
           color="#f47624"
-          font-size="18px"
+          font-size="16px"
           font-weight="500"
         >
           You can click this link to leave your feedback and assist other people
@@ -157,7 +165,7 @@
         </mj-text>
 
         <mj-button
-          align="left"
+          align="center"
           background-color="#f47624"
           color="white"
           font-size="16px"
@@ -178,10 +186,7 @@
           padding-top="0"
         >
           <span style="font-size: 16px; line-height: 1.2">
-            Thank you for taking time out of your day.
-            <br />
-            We greatly appreciate it!
-            <br />
+            Thank you for taking time out of your day. We greatly appreciate it!
             <br />
           </span>
         </mj-text>
@@ -200,32 +205,43 @@
           font-size="18px"
           font-weight="600"
           padding-top="0"
+          padding-bottom="5px"
         >
-          <span style="font-size: 16px; line-height: 1.2">
-            Phil Sealy, Director
+          <span style="font-size: 16px"> Kind Regards, </span><br />
+          <span style="font-size: 16px"> Phil Sealy, </span>
+          <span style="font-size: 16px"> Director </span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="50px" padding-bottom="0">
+      <mj-column padding-bottom="0">
+        <mj-text
+          color="#f47624"
+          align="left"
+          font-size="18px"
+          font-weight="600"
+          padding-top="0"
+          padding-bottom="0"
+        >
+          <span style="font-size: 20px; line-height: 1.2">
+            Here’s what others have said
             <br />
             <br />
           </span>
         </mj-text>
-
-        <mj-image
-          src="https://mailr.vercel.app/singlacharul/assets/logo-min.png"
-          width="256px"
-        />
       </mj-column>
     </mj-section>
 
     <mj-section background-color="white" padding="0 30px">
       <mj-column
-        border-bottom="2.5px solid #f47624"
-        border-right="2.5px solid #f47624"
         padding-bottom="15px"
         padding-top="15px"
       >
         <mj-text color="#f47624" font-size="18px" font-weight="500">
           Debbie S
         </mj-text>
-        <mj-text font-style="italic" padding-top="0">
+        <mj-text font-style="italic" padding-top="0" >
           You guys have been great to deal with again.
           <br /><br />
           Thanks for taking all the stress out of refinancing for us. We are
@@ -238,8 +254,7 @@
 
     <mj-section background-color="white" padding="0 30px">
       <mj-column
-        border-bottom="2.5px solid #f47624"
-        border-left="2.5px solid #f47624"
+        border-right="2.5px solid #f47624"
         padding-bottom="15px"
         padding-top="15px"
       >
@@ -260,8 +275,7 @@
 
     <mj-section background-color="white" padding="0 30px">
       <mj-column
-        border-bottom="2.5px solid #f47624"
-        border-right="2.5px solid #f47624"
+        border-left="2.5px solid #f47624"
         padding-bottom="15px"
         padding-top="15px"
       >
@@ -305,8 +319,15 @@
           >
           </mj-social-element>
           <mj-social-element
-            name="facebook"
-            href="https://www.facebook.com/guardiannm/"
+            name="fb"
+            src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png"
+            href="https://www.facebook.com/guardiannm"
+          >
+          </mj-social-element>
+          <mj-social-element
+            name="li"
+            src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+            href="https://www.linkedin.com/in/phil-sealy-39839b21"
           >
           </mj-social-element>
           <mj-social-element
