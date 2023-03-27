@@ -51,13 +51,13 @@
           >
             &nbsp;1300LOANSTAR
           </mj-social-element> -->
-            <mj-social-element
+            <!-- <mj-social-element
               background-color="#f47624"
               src="https://iconic.app/icons/iconic/png/white/phone.png"
               name="phone"
-              href="tel:1300 LOAN STAR"
+              href="tel:1800 LOAN STAR"
             >
-            </mj-social-element>
+            </mj-social-element> -->
             <mj-social-element
               name="fb"
               src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png"
@@ -70,32 +70,54 @@
               href="https://www.linkedin.com/in/phil-sealy-39839b21"
             >
             </mj-social-element>
-            <mj-social-element
+            <!-- <mj-social-element
               background-color="#f47624"
               src="https://iconic.app/icons/iconic/png/white/mail.png"
               name="email"
               href="mailto:info@guardiannm.com.au"
             >
-            </mj-social-element>
+            </mj-social-element> -->
           </mj-social>
         </mj-column>
       </mj-group>
     </mj-section>
+
     <mj-section border-top="2px solid red">
-      <mj-group>
       <mj-column padding="0">
-        <mj-text><a style="color: inherit; text-decoration:none" href="https://www.guardiannm.com.au/property-investors">Property Investors</a></mj-text>
+        <mj-text>
+          <a
+            style="color: inherit; text-decoration: none"
+            href="https://www.guardiannm.com.au/property-investors"
+            >Property Investors</a
+          >
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a
+            style="color: inherit; text-decoration: none"
+            href="https://www.guardiannm.com.au/refinancing"
+            >Refinancing</a
+          >
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a
+            style="color: inherit; text-decoration: none"
+            href="https://www.guardiannm.com.au/lowalternative-doc-loans"
+            >Low Doc Loans</a
+          >
+          <br /><br />
+          <a
+            style="color: inherit; text-decoration: none"
+            href="https://www.guardiannm.com.au/smsf-loans"
+            >SMSF Loans</a
+          >
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a
+            style="color: inherit; text-decoration: none"
+            href="https://www.guardiannm.com.au/getting-finance-structure-right"
+          >
+            Getting Finance Structure Right</a
+          >
+        </mj-text>
       </mj-column>
-      <mj-column><mj-text><a style="color: inherit; text-decoration:none" href="https://www.guardiannm.com.au/refinancing">Refinancing</a> </mj-text></mj-column>
-        </mj-group>
-      <mj-group>
-      <mj-column><mj-text><a style="color: inherit; text-decoration:none" href="https://www.guardiannm.com.au/lowalternative-doc-loans">Low / Alternative Doc Loans</a></mj-text></mj-column>
-      <mj-column><mj-text><a style="color: inherit; text-decoration:none" href="https://www.guardiannm.com.au/smsf-loans">SMSF Loans</a></mj-text></mj-column>
-        </mj-group>
-      <mj-group>
-      <mj-column><mj-text><a style="color: inherit; text-decoration:none" href="https://www.guardiannm.com.au/getting-finance-structure-right">Getting Finance Structure Right</a></mj-text></mj-column>
     </mj-section>
-      </mj-group>
 
     <mj-hero
       mode="fluid-height"
@@ -105,7 +127,6 @@
       background-color="#000000"
       padding="175px 30px 100px 30px"
     >
-
       <mj-text
         align="left"
         color="#ffffff"
@@ -114,7 +135,7 @@
         font-weight="700"
       >
         HOW WAS YOUR
-        <br/>
+        <br />
         EXPERIENCE?
       </mj-text>
 
@@ -130,7 +151,7 @@
       </mj-button>
     </mj-hero>
 
-    <mj-section background-color="white">
+    <mj-section background-color="white" padding-bottom="8px">
       <mj-column>
         <mj-text align="left" font-size="18px"> Hello [First Name], </mj-text>
         <mj-text
@@ -141,7 +162,8 @@
         >
           <br />
           <span style="color: #f47624">
-            It was a pleasure doing business with you. Thank you for choosing and trusting us as your mortgage broker.
+            It was a pleasure doing business with you. Thank you for choosing
+            and trusting us as your mortgage broker.
           </span>
 
           <br /><br />
@@ -157,13 +179,13 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="white">
+    <mj-section background-color="white" padding-top="0">
       <mj-column>
         <mj-text
-          align="center"
+          align="left"
           color="#f47624"
           font-size="16px"
-          font-weight="500"
+          font-weight="600"
         >
           You can click this link to leave your feedback and assist other people
           like you get the help they need in negotiating loan rates with the
@@ -183,7 +205,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section padding-top="32px" padding-bottom="0">
+    <mj-section padding-top="16px" padding-bottom="0">
       <mj-column>
         <mj-text
           align="left"
@@ -214,7 +236,9 @@
           padding-bottom="5px"
         >
           <span style="font-size: 16px"> Kind Regards, </span><br />
-          <a style="color: inherit; text-decoration: none;" href=""><span style="font-size: 16px"> Phil Sealy </span></a><br />
+          <a style="color: inherit; text-decoration: none" href=""
+            ><span style="font-size: 16px"> Phil Sealy </span></a
+          ><br />
           <span style="font-size: 16px"> Director </span>
         </mj-text>
       </mj-column>
@@ -248,7 +272,7 @@
         <mj-text color="#f47624" font-size="18px" font-weight="500">
           Debbie S
         </mj-text>
-        <mj-text font-style="italic" padding-top="0" >
+        <mj-text font-style="italic" padding-top="0">
           You guys have been great to deal with again.
           <br /><br />
           Thanks for taking all the stress out of refinancing for us. We are
@@ -310,13 +334,13 @@
       padding-top="28px"
     >
       <mj-column>
-
         <mj-text
           font-size="14px"
           container-background-color="#f47624"
           color="white"
         >
-          Address : <a
+          Address :
+          <a
             href="https://www.guardiannm.com.au/"
             style="color: white; text-decoration: none"
           >
@@ -328,11 +352,12 @@
           container-background-color="#f47624"
           color="white"
         >
-          Contact : <a
+          Contact :
+          <a
             href="https://www.guardiannm.com.au/"
             style="color: white; text-decoration: none"
           >
-            1800LOANSTAR
+            1300LOANSTAR
           </a>
         </mj-text>
 
