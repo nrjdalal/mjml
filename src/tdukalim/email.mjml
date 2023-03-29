@@ -48,9 +48,8 @@
       <mj-column>
         <mj-text font-size="20px" font-weight="600px">
           You have received this email from EmailOffer.info, to unsubscribe
-          click here
-          <a href="https://example.com" style="color: white">here</a>
-          .
+          click
+          <a href="https://example.com" style="color: white">here</a>.
         </mj-text>
         <mj-text font-size="24px" font-weight="700" padding-top="0">
           <span style="color: #eab308">
