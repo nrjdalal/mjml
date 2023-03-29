@@ -25,25 +25,6 @@
     </mj-attributes>
   </mj-head>
   <mj-body>
-    <!-- <mj-section padding-top="32px" padding-bottom="0">
-      <mj-column>
-        <mj-image
-          src="https://mailr.vercel.app/rentals111/assets/logo.png"
-          width="128px"
-        />
-      </mj-column>
-    </mj-section>
-
-    <mj-section padding-top="16px" padding-bottom="0">
-      <mj-column>
-        <mj-image
-          src="https://mailr.vercel.app/rentals111/assets/IMG_0588.jpg"
-          padding-left="24px"
-          padding-right="24px"
-        />
-      </mj-column>
-    </mj-section> -->
-
     <mj-section background-color="black" padding-bottom="32px">
       <mj-column>
         <mj-text font-size="20px" font-weight="600px">
@@ -56,95 +37,7 @@
             Passion for Fashion and Beauty? We've got some great prizes draws
             for you!
           </span>
-
-          <!-- <br /><br />
-
-          <span style="font-size: 14px; line-height: 1.2">
-            We're slowing down gun violence by getting local youth involved in
-            basketball.
-            <br />
-            LESS EXCUSES, MORE ADJUSTMENTS
-          </span>
-
-          <br /><br /> -->
         </mj-text>
-
-        <!-- <mj-text
-          font-size="16px"
-          font-weight="600"
-          container-background-color="#eab308"
-          color="black"
-        >
-          <a
-            href="https://example.com"
-            style="color: black; text-decoration: none"
-          >
-            VISIT NOW
-          </a>
-        </mj-text>
-
-        <mj-text font-size="18px" font-weight="600" padding-top="36px">
-          <span style="color: #eab308"
-            >Join our Player Development Program</span
-          >
-        </mj-text>
-
-        <mj-image
-          src="https://mailr.vercel.app/rentals111/assets/video.jpg"
-          href="https://youtu.be/gdndQWYhCRY"
-          padding-left="24px"
-          padding-right="24px"
-          border-radius="10px"
-          width="350px"
-        />
-
-        <mj-text font-size="18px" font-weight="600" padding-top="36px">
-          <span
-            style="
-              color: white;
-              font-weight: 400;
-              font-size: 14px;
-              text-align: center;
-              line-height: 1.6;
-            "
-          >
-            <li>Nationally recognized as one of the best in country</li>
-            <li>
-              Innovative training techniques such as pilates, cryotherapy and
-              more
-            </li>
-            <li>Valuable coaching and funamental basketball training</li>
-            <li>
-              Positive, effective grassroots way to end tragic gun violence
-            </li>
-          </span>
-        </mj-text>
-
-        <mj-button
-          background-color="#eab308"
-          color="black"
-          font-size="16px"
-          font-weight="500"
-          href="https://mailr.vercel.app/rentals111/assets/program.pdf"
-        >
-          View PDF to know more
-        </mj-button>
-
-        <mj-spacer height="24px" />
-
-        <mj-text
-          font-size="16px"
-          font-weight="600"
-          container-background-color="#eab308"
-          color="black"
-        >
-          <a
-            href="https://example.com"
-            style="color: black; text-decoration: none"
-          >
-            JOIN THE PROGRAM
-          </a>
-        </mj-text> -->
       </mj-column>
     </mj-section>
 
