@@ -46,7 +46,12 @@
 
     <mj-section background-color="black" padding-bottom="32px">
       <mj-column>
-        <mj-text font-size="18px"> EmailOffer.info </mj-text>
+        <mj-text font-size="20px" font-weight="600px">
+          You have received this email from EmailOffer.info, to unsubscribe
+          click here
+          <a href="https://example.com" style="color: white">here</a>
+          .
+        </mj-text>
         <mj-text font-size="24px" font-weight="700" padding-top="0">
           <span style="color: #eab308">
             Passion for Fashion and Beauty? We've got some great prizes draws
@@ -530,6 +535,10 @@
     <mj-section background-color="black" padding-bottom="32px">
       <mj-column>
         <mj-text font-size="12px">
+          <a href="https://example.com" style="color: white">Privacy Policy</a>
+          <br /><br />
+          <a href="https://example.com" style="color: white">GDPR Statement</a>
+          <br /><br />
           This email was sent to admin@example.com. If you no longer wish to
           receive emails from us, simply
           <a href="https://example.com" style="color: white">unsubscribe</a>
