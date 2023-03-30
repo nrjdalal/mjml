@@ -1,76 +1,38 @@
 <mjml>
   <mj-head>
-    <mj-title>GlucoTrust</mj-title>
+    <mj-title>Exipure</mj-title>
     <mj-font
       name="Montserrat"
       href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap"
     />
     <mj-attributes>
-      <mj-button
-        href="https://249a70553g2m2l340qqauh2rv1.hop.clickbank.net"
-        background-color="white"
-        color="black"
-      />
-      <mj-image
-        href="https://249a70553g2m2l340qqauh2rv1.hop.clickbank.net"
-        alt="GlucoTrust"
-      />
+      <mj-button href="https://bit.ly/Exipurenutrients" background-color="white" color="black" />
+      <mj-image href="https://bit.ly/Exipurenutrients" alt="Exipure" />
       <mj-section background-color="white" />
-      <mj-text
-        align="center"
-        color="black"
-        font-family="Montserrat, Arial"
-        line-height="1.4"
-      />
+      <mj-text align="center" color="black" font-family="Montserrat, Arial" line-height="1.4" />
     </mj-attributes>
   </mj-head>
   <mj-body>
     <mj-section padding-top="32px" padding-bottom="0">
       <mj-column>
-        <mj-image
-          src="https://mailr.vercel.app/lanes24/assets/main.png"
-          border-radius="10px"
-          padding="0 40px"
-        />
+        <mj-image src="https://mailr.vercel.app/pdisband/assets/exipure.png" border-radius="10px" padding="0 20px" />
       </mj-column>
     </mj-section>
 
     <mj-section background-color="white" padding-bottom="32px">
       <mj-column>
         <mj-text font-size="18px">
-          Introducing our revolutionary blood pressure supplement - the natural
-          solution to managing your blood pressure!
+          A breakthrough study has proven that this ugly plant turbo-charges metabolism and melts fat by fixing a newly
+          discovered “root cause” of arm, butt and hip fat.
         </mj-text>
-        <mj-text
-          color="#14B8A6"
-          font-size="18px"
-          font-weight="600"
-          padding-top="0"
-        >
-          <span style="font-size: 20px"
-            >Say goodbye to the hassle of taking multiple pills a day, and try
-            our all-in-one blood pressure supplement that combines the benefits
-            of several natural ingredients in one convenient capsule.</span
-          >
+        <mj-text color="#14B8A6" font-size="18px" font-weight="600" padding-top="0">
+          Can you guess which one it is? <br />
+          <span style="font-size: 20px">Kohlrabi? Chayote? Kudzu? </span>
           <br /><br />
-          <span style="color: black"
-            >Whether you're looking to maintain a healthy blood pressure or
-            manage hypertension, our supplement can be an effective addition to
-            your daily routine. Try it today and experience the benefits for
-            yourself!</span
-          >
-          <br /><br />
+          <span style="color: black">To your amazing health</span>
         </mj-text>
-        <mj-text
-          font-size="16px"
-          font-weight="600"
-          container-background-color="black"
-          color="black"
-        >
-          <a
-            href="https://249a70553g2m2l340qqauh2rv1.hop.clickbank.net"
-            style="color: white; text-decoration: none"
-          >
+        <mj-text font-size="16px" font-weight="600" container-background-color="black" color="black">
+          <a href="https://bit.ly/Exipurenutrients" style="color: white; text-decoration: none">
             LIMITED STOCK / ORDER NOW
           </a>
         </mj-text>
@@ -85,12 +47,7 @@
         padding-top="15px"
       >
         <mj-text color="#2DD4BF" font-size="18px" font-weight="500">
-          First, GlucoTrust contains Gymnema sylvestra, which comes from a leafy
-          vine. It's been used for hundreds of years in India for medicinal
-          purposes.
-          <br /><br />
-          This nutrient is known to help restore healthy blood sugar levels
-          while curbing your cravings at the same time.
+          It’s 556% more powerful than exercise – even when sleeping.
         </mj-text>
 
         <!-- <mj-button> BUY NOW </mj-button> -->
@@ -105,15 +62,7 @@
         padding-top="15px"
       >
         <mj-text color="#2DD4BF" font-size="18px" font-weight="500">
-          Next there is biotin, which gets its name from the Greek word
-          "biotos," which means "life."
-          <br /><br />
-          A daily dose of biotin can help your body to convert food into energy
-          and metabolize carbs, fats and proteins more effectively.
-          <br /><br />
-          The biotin you get in every GlucoTrust capsule also promotes healthy
-          hair and skin while supporting your liver, eyesight and nervous
-          system.
+          It’s 611% more powerful at burning butt, arm and neck fat than any diet.
         </mj-text>
         <!-- <mj-button> BUY NOW </mj-button> -->
       </mj-column>
@@ -127,98 +76,9 @@
         padding-top="15px"
       >
         <mj-text color="#2DD4BF" font-size="18px" font-weight="500">
-          GlucoTrust also contains chromium. This ingredient supports your
-          metabolism and helps it to work faster on burning fat.
+          Even Dr Oz. featured it recently on his show – calling it a booty fat buster!
         </mj-text>
 
-        <!-- <mj-button> BUY NOW </mj-button> -->
-      </mj-column>
-    </mj-section>
-
-    <mj-section background-color="black" padding="0 30px">
-      <mj-column
-        border-bottom="2.5px solid white"
-        border-right="2.5px solid white"
-        padding-bottom="15px"
-        padding-top="15px"
-      >
-        <mj-text color="#2DD4BF" font-size="18px" font-weight="500">
-          Manganese stimulates insulin production, which turns your blood sugar
-          into energy it can burn. Manganese also promotes healthy brain and
-          nervous system function.
-        </mj-text>
-        <!-- <mj-button> BUY NOW </mj-button> -->
-      </mj-column>
-    </mj-section>
-
-    <mj-section background-color="black" padding="0 30px">
-      <mj-column
-        border-bottom="2.5px solid white"
-        border-left="2.5px solid white"
-        padding-bottom="15px"
-        padding-top="15px"
-      >
-        <mj-text color="#2DD4BF" font-size="18px" font-weight="500">
-          Licorice root is one of the world's oldest herbal remedies, used for
-          thousands of years in traditional Chinese, Middle Eastern and Greek
-          medicines.
-          <br /><br />
-          It's also known as a weight loss aid, because it helps to control your
-          appetite while being rich in flavonoids, which are said to prevent
-          obesity.
-        </mj-text>
-
-        <!-- <mj-button> BUY NOW </mj-button> -->
-      </mj-column>
-    </mj-section>
-
-    <mj-section background-color="black" padding="0 30px">
-      <mj-column
-        border-bottom="2.5px solid white"
-        border-right="2.5px solid white"
-        padding-bottom="15px"
-        padding-top="15px"
-      >
-        <mj-text color="#2DD4BF" font-size="18px" font-weight="500">
-          Cinnamon, known for thousands of years as "the king of spices".
-          <br /><br />
-          It also promotes healthy blood pressure, assists with digestion, and
-          has anti-viral, anti-bacterial, and anti-inflammatory properties.
-        </mj-text>
-        <!-- <mj-button> BUY NOW </mj-button> -->
-      </mj-column>
-    </mj-section>
-
-    <mj-section background-color="black" padding="0 30px">
-      <mj-column
-        border-bottom="2.5px solid white"
-        border-left="2.5px solid white"
-        padding-bottom="15px"
-        padding-top="15px"
-      >
-        <mj-text color="#2DD4BF" font-size="18px" font-weight="500">
-          Before finalizing the GlucoTrust formula we also added zinc, which can
-          stimulate insulin production in the pancreas.
-        </mj-text>
-
-        <!-- <mj-button> BUY NOW </mj-button> -->
-      </mj-column>
-    </mj-section>
-
-    <mj-section background-color="black" padding="0 30px">
-      <mj-column
-        border-bottom="2.5px solid white"
-        border-right="2.5px solid white"
-        padding-bottom="15px"
-        padding-top="15px"
-      >
-        <mj-text color="#2DD4BF" font-size="18px" font-weight="500">
-          And you'll also enjoy the benefits of juniper berries.
-          <br /><br />
-          Juniper berries were buried in the tombs of ancient pharaohs and used
-          to help the performance of athletes in the Roman Olympics. Their
-          healing powers come from antioxidants that support the immune system.
-        </mj-text>
         <!-- <mj-button> BUY NOW </mj-button> -->
       </mj-column>
     </mj-section>
@@ -229,21 +89,16 @@
           <mj-social-element
             color="white"
             src="https://iconic.app/icons/iconic/png/white/world.png"
-            href="https://249a70553g2m2l340qqauh2rv1.hop.clickbank.net"
+            href="https://bit.ly/Exipurenutrients"
           >
-            &nbsp;GlucoTrust.com
+            &nbsp;exipure.com
           </mj-social-element>
         </mj-social>
 
         <mj-text container-background-color="white">
           <br />
-          <a
-            style="color: black; text-decoration: none; font-size: 14px"
-            href="https://249a70553g2m2l340qqauh2rv1.hop.clickbank.net"
-          >
-            <span style="color: #14b8a6; font-weight: 500"
-              >Claim Your Discounted GlucoTrust</span
-            >
+          <a style="color: black; text-decoration: none; font-size: 14px" href="https://bit.ly/Exipurenutrients">
+            <span style="color: #14b8a6; font-weight: 500">Claim Your Discounted Exipure</span>
             <br />
           </a>
           <br />
