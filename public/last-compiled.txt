@@ -1,48 +1,46 @@
-./src/amaurymerlano/follow-up.mjmlFri Mar 31 2023 17:10:14 GMT+0530 (India Standard Time)
-./src/amaurymerlano/marketing.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/amaurymerlano/welcome.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/bombsbeats/thank-you-alpha.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/davidc83/raine.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/dragonmortgages/dragon-finance-alt.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/dragonmortgages/dragon-finance.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/frank139/splashtop-alt.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/frank139/splashtop.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/edrantsan/invite-pro.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/edrantsan/invite-unsplash.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/edrantsan/invite.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/julyasse/br-1.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/germanky/main.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/justsh/ahidi-alt.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/justsh/ahidi.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/lanes24/glucotrust.mjmlThu Mar 30 2023 18:23:13 GMT+0530 (India Standard Time)
-./src/matthewreid505/accepted-fuchsia.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/matthewreid505/accepted-indigo.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/matthewreid505/confirm-fuchsia.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/matthewreid505/confirm-indigo.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/matthewreid505/fan-fuchsia.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/matthewreid505/fan-indigo.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/matthewreid505/improve-fuchsia.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/matthewreid505/improve-indigo.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/matthewreid505/product-fuchsia.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/matthewreid505/product-indigo.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/matthewreid505/rejected-fuchsia.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/matthewreid505/rejected-indigo.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/matthewreid505/reset-fuchsia.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/matthewreid505/reset-indigo.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/matthewreid505/transaction-fuchsia.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/matthewreid505/transaction-indigo.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/midz259/traboufix.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/mills2000/resistance.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/pdisband/exipure.mjmlThu Mar 30 2023 18:23:26 GMT+0530 (India Standard Time)
-./src/rentals111/sbnp.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/richard_md/signal-students.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/richard_md/signal.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/saragoncalves/sale.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/serta2821/wisppix.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/singlacharul/gnm.mjmlMon Mar 27 2023 19:16:49 GMT+0530 (India Standard Time)
-./src/tdukalim/email.mjmlWed Mar 29 2023 07:59:49 GMT+0530 (India Standard Time)
-./src/theblastuk/investments.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/welllyhopper/main-alpha.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/welllyhopper/main.mjmlMon Mar 27 2023 13:41:01 GMT+0530 (India Standard Time)
-./src/amaurymerlano/follow-up.mjmlFri Mar 31 2023 17:12:51 GMT+0530 (India Standard Time)
-./src/amaurymerlano/follow-up.mjmlFri Mar 31 2023 17:17:58 GMT+0530 (India Standard Time)
+./src/amaurymerlano/follow-up.mjml-1680263278087
+./src/amaurymerlano/marketing.mjml-1679904661057
+./src/amaurymerlano/welcome.mjml-1679904661057
+./src/bombsbeats/thank-you-alpha.mjml-1679904661058
+./src/davidc83/raine.mjml-1679904661059
+./src/edrantsan/invite-pro.mjml-1679904661066
+./src/edrantsan/invite-unsplash.mjml-1679904661066
+./src/edrantsan/invite.mjml-1679904661066
+./src/frank139/splashtop-alt.mjml-1679904661075
+./src/frank139/splashtop.mjml-1679904661075
+./src/dragonmortgages/dragon-finance-alt.mjml-1679904661064
+./src/dragonmortgages/dragon-finance.mjml-1679904661064
+./src/julyasse/br-1.mjml-1679904661078
+./src/germanky/main.mjml-1679904661077
+./src/justsh/ahidi-alt.mjml-1679904661079
+./src/justsh/ahidi.mjml-1679904661079
+./src/lanes24/glucotrust.mjml-1680180793465
+./src/matthewreid505/accepted-fuchsia.mjml-1679904661080
+./src/matthewreid505/accepted-indigo.mjml-1679904661080
+./src/matthewreid505/confirm-fuchsia.mjml-1679904661081
+./src/matthewreid505/confirm-indigo.mjml-1679904661081
+./src/matthewreid505/fan-fuchsia.mjml-1679904661081
+./src/matthewreid505/fan-indigo.mjml-1679904661081
+./src/matthewreid505/improve-fuchsia.mjml-1679904661081
+./src/matthewreid505/improve-indigo.mjml-1679904661081
+./src/matthewreid505/product-fuchsia.mjml-1679904661081
+./src/matthewreid505/product-indigo.mjml-1679904661081
+./src/matthewreid505/rejected-fuchsia.mjml-1679904661081
+./src/matthewreid505/rejected-indigo.mjml-1679904661082
+./src/matthewreid505/reset-fuchsia.mjml-1679904661082
+./src/matthewreid505/reset-indigo.mjml-1679904661082
+./src/matthewreid505/transaction-fuchsia.mjml-1679904661082
+./src/matthewreid505/transaction-indigo.mjml-1679904661082
+./src/midz259/traboufix.mjml-1679904661088
+./src/mills2000/resistance.mjml-1679904661089
+./src/pdisband/exipure.mjml-1680180806567
+./src/rentals111/sbnp.mjml-1679904661123
+./src/richard_md/signal-students.mjml-1679904661125
+./src/richard_md/signal.mjml-1679904661125
+./src/saragoncalves/sale.mjml-1679904661128
+./src/serta2821/wisppix.mjml-1679904661129
+./src/singlacharul/gnm.mjml-1679924809178
+./src/tdukalim/email.mjml-1680056989516
+./src/theblastuk/investments.mjml-1679904661135
+./src/welllyhopper/main-alpha.mjml-1679904661139
+./src/welllyhopper/main.mjml-1679904661140

@@ -22,12 +22,12 @@ const history = fs.readFileSync(
 for (let index = 0; index < files.length; index++) {
   const src = files[index]
 
-  console.log(fs.statSync(src).mtime)
+  const time = new Date(fs.statSync(src).mtime).getTime()
 
-  if (!history.includes(src + fs.statSync(src).mtime)) {
+  if (!history.includes(src + '-' + time)) {
     fs.appendFileSync(
       './public/last-compiled.txt',
-      src + fs.statSync(src).mtime + '\n',
+      src + '-' + time + '\n',
       function (err) {
         if (err) return console.log(err)
       }
