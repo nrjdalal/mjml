@@ -1,7 +1,7 @@
 {
   "type": "module",
   "scripts": {
-    "build": "node compile.js",
+    "compile": "node compile.js",
     "send": "node index.cjs"
   },
   "dependencies": {
