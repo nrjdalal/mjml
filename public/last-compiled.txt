@@ -44,3 +44,4 @@
 ./src/theblastuk/investments.mjml-1680263885748
 ./src/welllyhopper/main-alpha.mjml-1680263885752
 ./src/welllyhopper/main.mjml-1680263885752
+./src/amaurymerlano/follow-up.mjml-1680264092120
