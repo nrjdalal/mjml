@@ -22,6 +22,8 @@ const history = fs.readFileSync(
 for (let index = 0; index < files.length; index++) {
   const src = files[index]
 
+  console.log(fs.statSync(src).mtime)
+
   if (!history.includes(src + fs.statSync(src).mtime)) {
     fs.appendFileSync(
       './public/last-compiled.txt',
