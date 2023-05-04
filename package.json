@@ -6,7 +6,8 @@
   },
   "dependencies": {
     "globby": "^13.1.1",
-    "mjml": "^4.12.0"
+    "mjml": "^4.12.0",
+    "p-queue": "^7.3.4"
   },
   "devDependencies": {
     "dotenv": "^16.0.1",
