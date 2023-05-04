@@ -334,6 +334,15 @@
       </mj-column>
     </mj-section>
 
+    <mj-section padding-top="32px" padding-bottom="12px">
+      <mj-column>
+        <mj-image
+          src="https://www.montrealsupreme.com/_next/image?url=https%3A%2F%2Fmontrealsupreme.imgix.net%2Fhomepage%2Fplomberie-montreal-supreme-logo.webp%3Fixlib%3Djs-3.8.0&w=640&q=100"
+          width="256px"
+        />
+      </mj-column>
+    </mj-section>
+
     <mj-section
       background-color="white"
       padding-bottom="32px"
