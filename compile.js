@@ -37,6 +37,6 @@ for (let index = 0; index < files.length; index++) {
       .slice(0, src.lastIndexOf('/') + 1)
       .replace('./src/', './public/')
 
-    exec(`mkdir -p '${dist}' && pnpx mjml '${src}' -o '${dist}'`)
+    exec(`mkdir -p '${dist}' && mjml '${src}' -o '${dist}'`)
   }
 }
