@@ -81,36 +81,6 @@
       </mj-group>
     </mj-section>
 
-    <!-- <mj-section border-top="2px solid red">
-      <mj-column padding="0">
-        <mj-text>
-          <a
-            style="color: inherit; text-decoration: none"
-            href="https://www.montrealsupreme.comproperty-investors"
-            >Property Investors</a
-          >
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          <a
-            style="color: inherit; text-decoration: none"
-            href="https://www.montrealsupreme.comrefinancing"
-            >Refinancing</a
-          >
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          <a
-            style="color: inherit; text-decoration: none"
-            href="https://www.montrealsupreme.comlowalternative-doc-loans"
-            >Low Doc Loans</a
-          >
-          <br /><br />
-          <a
-            style="color: inherit; text-decoration: none"
-            href="https://www.montrealsupreme.comsmsf-loans"
-            >SMSF Loans</a
-          >
-        </mj-text>
-      </mj-column>
-    </mj-section> -->
-
     <mj-hero
       mode="fluid-height"
       background-width="600px"
