@@ -37,6 +37,9 @@ for (let index = 0; index < files.length; index++) {
       .slice(0, src.lastIndexOf('/') + 1)
       .replace('./src/', './public/')
 
-    exec(`mkdir -p '${dist}' && mjml '${src}' -o '${dist}'`)
+    const filename =
+      src.slice(src.lastIndexOf('/') + 1, src.lastIndexOf('.')) + '.html'
+
+    exec(`mkdir -p '${dist}' && mjml '${src}' -o '${dist}${filename}'`)
   }
 }

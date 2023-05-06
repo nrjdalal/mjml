@@ -45,8 +45,5 @@
 ./src/welllyhopper/main-alpha.mjml-1680263885752
 ./src/welllyhopper/main.mjml-1680263885752
 ./src/amaurymerlano/follow-up.mjml-1680264092120
-./src/peter945s/gnm.mjml-1683176670339
-./src/peter945s/index.mjml-1683178143767
-./src/peter945s/index.mjml-1683178394294
-./src/peter945s/index.mjml-1683178464109
-./src/peter945s/index.mjml-1683302441269
+./src/peter945s/index.mjml-1683361178270
+./src/peter945s/index.mjml-1683361308341

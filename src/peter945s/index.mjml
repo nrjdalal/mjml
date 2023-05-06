@@ -28,6 +28,7 @@
       />
     </mj-attributes>
   </mj-head>
+
   <mj-body>
     <mj-section padding-top="32px" padding-bottom="12px">
       <mj-group>
