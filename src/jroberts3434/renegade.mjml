@@ -1,62 +1,100 @@
 <mjml>
   <mj-head>
-    <mj-title>SBNP</mj-title>
+    <mj-title>RenegadeFit</mj-title>
     <mj-font
       name="Montserrat"
       href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap"
     />
     <mj-attributes>
-      <mj-button href="https://joinsbnp.org" background-color="white" color="black" />
-      <mj-image href="https://joinsbnp.org" alt="Shoot Basketballs NOT People" />
-      <mj-carousel-image href="https://joinsbnp.org" alt="Shoot Basketballs NOT People" />
+      <mj-button
+        href="https://www.renegadefit.net"
+        background-color="white"
+        color="black"
+      />
+      <mj-image href="https://www.renegadefit.net" alt="RenegadeFit" />
       <mj-section background-color="black" />
-      <mj-text align="center" color="white" font-family="Montserrat, Arial" line-height="1.4" />
+      <mj-text
+        align="center"
+        color="white"
+        font-family="Montserrat, Arial"
+        line-height="1.4"
+      />
     </mj-attributes>
   </mj-head>
   <mj-body>
-    <mj-section padding-top="32px" padding-bottom="0">
+    <mj-section padding-top="32px">
       <mj-column>
-        <mj-image src="https://mailr.vercel.app/rentals111/assets/logo.png" width="128px" />
+        <mj-image
+          src="https://lirp.cdn-website.com/4569d9ca/dms3rep/multi/opt/renegade_white+logo-386w.png"
+          width="128px"
+        />
       </mj-column>
     </mj-section>
 
-    <mj-section padding-top="16px" padding-bottom="0">
+    <mj-section
+      padding-top="16px"
+      padding-bottom="0"
+      background-color="#ffffff"
+    >
       <mj-column>
         <mj-image
-          src="https://mailr.vercel.app/rentals111/assets/IMG_0588.jpg"
+          src="https://lirp.cdn-website.com/4569d9ca/dms3rep/multi/opt/Home+Page+IMAGE+trns+v2-673w.png"
           padding-left="24px"
           padding-right="24px"
+          width="300px"
         />
       </mj-column>
     </mj-section>
 
     <mj-section background-color="black" padding-bottom="32px">
       <mj-column>
-        <mj-text font-size="18px"> WELCOME TO SBNP </mj-text>
+        <mj-text font-size="18px">Clean. Safe. Open For Fitness!</mj-text>
         <mj-text font-size="18px" font-weight="600" padding-top="0">
-          <span style="color: #eab308"> To use basketball as a vehicle to change and save lives </span>
+          <span style="color: #22c55e">
+            Regardless whether you are a casual exerciser or a serious athlete,
+            you'll get your best results with the proper mix of professional
+            training, cutting-edge equipment & resources & an atmosphere that is
+            supportive & welcoming.
+          </span>
 
           <br /><br />
 
           <span style="font-size: 14px; line-height: 1.2">
-            We're slowing down gun violence by getting local youth involved in basketball.
-            <br />
-            LESS EXCUSES, MORE ADJUSTMENTS
+            At RENEGADE®, that's been our winning formula for over 10 years.
+            This is NOT your traditional gyms with a room full of equipment
+            where you are left on your own.
+            <br /><br />
+            THE EVOLUTION OF FITNESS IS HERE!
           </span>
 
           <br /><br />
         </mj-text>
 
-        <mj-text font-size="16px" font-weight="600" container-background-color="#eab308" color="black">
-          <a href="https://joinsbnp.org" style="color: black; text-decoration: none"> VISIT NOW </a>
+        <mj-text
+          font-size="16px"
+          font-weight="600"
+          container-background-color="#22c55e"
+          color="black"
+        >
+          <a
+            href="https://www.renegadefit.net"
+            style="color: black; text-decoration: none"
+          >
+            Be a RENEGADE®
+          </a>
         </mj-text>
 
         <mj-text font-size="18px" font-weight="600" padding-top="36px">
-          <span style="color: #eab308">Join our Player Development Program</span>
+          <span style="color: #22c55e"
+            >Our members love our the variety and quality of everything
+            RENEGADE®. With help from our professional instructors and trainers,
+            to the tools to track your progress, you'll see great results,
+            quickly:</span
+          >
         </mj-text>
 
         <mj-image
-          src="https://mailr.vercel.app/rentals111/assets/video.jpg"
+          src="https://lirp.cdn-website.com/4569d9ca/dms3rep/multi/opt/49718_REN_Unleashed_Banner_1218-ddf1b7ca-7c71b7ac-450w.jpg"
           href="https://youtu.be/gdndQWYhCRY"
           padding-left="24px"
           padding-right="24px"
@@ -65,94 +103,139 @@
         />
 
         <mj-text font-size="18px" font-weight="600" padding-top="36px">
-          <span style="color: white; font-weight: 400; font-size: 14px; text-align: center; line-height: 1.6">
-            <li>Nationally recognized as one of the best in country</li>
-            <li>Innovative training techniques such as pilates, cryotherapy and more</li>
-            <li>Valuable coaching and funamental basketball training</li>
-            <li>Positive, effective grassroots way to end tragic gun violence</li>
+          <span
+            style="
+              color: white;
+              font-weight: 400;
+              font-size: 14px;
+              text-align: center;
+              line-height: 1.6;
+            "
+          >
+            <li>Tone up</li>
+            <li>Trim down</li>
+            <li>Relieve stress</li>
+            <li>Sleep better</li>
+            <li>Improved flexibility</li>
+            <li>Higher metabolism</li>
           </span>
         </mj-text>
 
         <mj-button
-          background-color="#eab308"
+          background-color="#22c55e"
           color="black"
           font-size="16px"
           font-weight="500"
           href="https://mailr.vercel.app/rentals111/assets/program.pdf"
         >
-          View PDF to know more
+          Be a RENEGADE®
         </mj-button>
 
         <mj-spacer height="24px" />
 
-        <mj-text font-size="16px" font-weight="600" container-background-color="#eab308" color="black">
-          <a href="https://joinsbnp.org" style="color: black; text-decoration: none"> JOIN THE PROGRAM </a>
+        <mj-text
+          font-size="16px"
+          font-weight="600"
+          container-background-color="#22c55e"
+          color="black"
+        >
+          <a
+            href="https://www.renegadefit.net"
+            style="color: black; text-decoration: none"
+          >
+            JOIN THE PROGRAM
+          </a>
         </mj-text>
       </mj-column>
     </mj-section>
 
     <mj-section background-color="black" padding="0 30px">
       <mj-column
-        border-bottom="2.5px solid #eab308"
-        border-left="2.5px solid #eab308"
+        border-bottom="2.5px solid #22c55e"
+        border-left="2.5px solid #22c55e"
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-text color="#eab308" font-size="18px" font-weight="500"> Apparels and more </mj-text>
-        <mj-text color="white" padding-top="0"> Get classic t-shirts, hoodies and more. </mj-text>
+        <mj-text color="#22c55e" font-size="18px" font-weight="500">
+          GROUP X
+        </mj-text>
+        <mj-text color="white" padding-top="0">
+          GROUP X RENEGADE® offers the most respected and results-producing
+          group training programs for our members.
+          <br /><br />
+          You will love our fun, socially-distanced and safe classes including
+          exciting programs like Les Mills Body Pump, RPM and Sprint, Burn, Boot
+          Camp, Silver Sneakers, Zumba, Spin and so many more!
+        </mj-text>
         <mj-image
-          src="https://mailr.vercel.app/rentals111/assets/apparel.gif"
+          src="https://lirp.cdn-website.com/4569d9ca/dms3rep/multi/opt/groton%2B6-300w.jpg"
           padding-left="24px"
           padding-right="24px"
           width="300px"
         />
         <mj-button
-          background-color="#eab308"
+          background-color="#22c55e"
           color="black"
           font-size="16px"
           font-weight="500"
-          href="https://joinsbnp.org/collections/all"
+          href="Group X Schedule"
         >
-          Shop Now
+          Group X Schedule
         </mj-button>
       </mj-column>
     </mj-section>
 
     <mj-section background-color="black" padding="0 30px">
       <mj-column
-        border-bottom="2.5px solid #eab308"
-        border-right="2.5px solid #eab308"
+        border-bottom="2.5px solid #22c55e"
+        border-right="2.5px solid #22c55e"
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-text color="#eab308" font-size="18px" font-weight="500"> Donate to Shoot Basketballs NOT People </mj-text>
-        <mj-text color="white" padding-top="0">
-          Thank you for supporting Shoot Basketballs NOT People and our mission to use basketballs as a vehicle to
-          change and save lives.
-          <br /><br />
-          <a href="https://youtu.be/Gq3mhygfEj0" style="color: white">Click to watch video to know more!</a>
+        <mj-text color="#22c55e" font-size="18px" font-weight="500">
+          ONLINE WORKOUTS
         </mj-text>
+        <mj-text color="white" padding-top="0">
+          RENEGADE® and Les Mills understand how important a healthy lifestyle
+          is. We also understand how your busy lifestyle doesn't always make it
+          easy to hit the gym! This is why we want to introduce you to LES MILLS
+          on Demand - where your favorite workouts are available anytime,
+          anywhere.
+          <br /><br />
+          Get unlimited access to Les Mills workouts loved by millions for 30
+          days absolutely FREE.
+        </mj-text>
+        <mj-image
+          src="https://lirp.cdn-website.com/4569d9ca/dms3rep/multi/opt/Les+Mills+Online-300w.png"
+          padding-left="24px"
+          padding-right="24px"
+          width="300px"
+        />
         <mj-button
-          background-color="#eab308"
+          background-color="#22c55e"
           color="black"
           font-size="16px"
           font-weight="500"
-          href="https://www.paypal.com/donate/?hosted_button_id=EB65QFCR4KQBG"
+          href="Group X Schedule"
         >
-          Donate
+          Online on Demand
         </mj-button>
       </mj-column>
     </mj-section>
 
     <mj-section background-color="black" padding="0 30px">
       <mj-column
-        border-bottom="2.5px solid #eab308"
-        border-left="2.5px solid #eab308"
+        border-bottom="2.5px solid #22c55e"
+        border-left="2.5px solid #22c55e"
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-text color="#eab308" font-size="18px" font-weight="500"> Stay Updated with SBNP </mj-text>
-        <mj-text color="white" padding-top="0"> Subscribe to our newsletter and more. </mj-text>
+        <mj-text color="#22c55e" font-size="18px" font-weight="500">
+          Stay Updated with RenegadeFit
+        </mj-text>
+        <mj-text color="white" padding-top="0">
+          Subscribe to our newsletter & more.
+        </mj-text>
         <mj-image
           src="https://cdn.shopify.com/s/files/1/0555/5221/3269/articles/RC4jWFbnoFGUoXxuP7P6eA_400x.jpg?v=1673827896"
           padding-left="24px"
@@ -161,7 +244,8 @@
           width="350px"
         />
         <mj-text color="white" padding-top="0">
-          The Benefits of Normatec Pants for Recovery and Why Young Players Should Definitely Consider These
+          The Benefits of Normatec Pants for Recovery & Why Young Players Should
+          Definitely Consider These
         </mj-text>
 
         <mj-image
@@ -172,15 +256,16 @@
           width="350px"
         />
         <mj-text color="white" padding-top="0">
-          Why Young Players Should Incorporate Mediation into Their Everyday Routine?
+          Why Young Players Should Incorporate Mediation into Their Everyday
+          Routine?
         </mj-text>
 
         <mj-button
-          background-color="#eab308"
+          background-color="#22c55e"
           color="black"
           font-size="16px"
           font-weight="500"
-          href="https://joinsbnp.org/blogs/news"
+          href="https://www.renegadefit.net/blogs/news"
         >
           Read More
         </mj-button>
@@ -189,15 +274,17 @@
 
     <mj-section background-color="black" padding="0 30px">
       <mj-column
-        border-bottom="2.5px solid #eab308"
-        border-right="2.5px solid #eab308"
+        border-bottom="2.5px solid #22c55e"
+        border-right="2.5px solid #22c55e"
         padding-bottom="15px"
         padding-top="15px"
       >
-        <mj-text color="#eab308" font-size="18px" font-weight="500"> Try our e-books </mj-text>
+        <mj-text color="#22c55e" font-size="18px" font-weight="500">
+          Try our e-books
+        </mj-text>
 
         <mj-button
-          background-color="#eab308"
+          background-color="#22c55e"
           color="black"
           font-size="16px"
           font-weight="500"
@@ -207,7 +294,7 @@
         </mj-button>
 
         <mj-button
-          background-color="#eab308"
+          background-color="#22c55e"
           color="black"
           font-size="16px"
           font-weight="500"
@@ -220,7 +307,10 @@
 
     <mj-section padding-top="32px" padding-bottom="0">
       <mj-column>
-        <mj-image src="https://mailr.vercel.app/rentals111/assets/logo.png" width="128px" />
+        <mj-image
+          src="https://lirp.cdn-website.com/4569d9ca/dms3rep/multi/opt/renegade_white+logo-386w.png"
+          width="128px"
+        />
       </mj-column>
     </mj-section>
 
@@ -230,19 +320,36 @@
           <mj-social-element
             color="white"
             src="https://iconic.app/icons/iconic/png/white/world.png"
-            href="https://joinsbnp.org"
+            href="https://www.renegadefit.net"
           >
-            &nbsp;https://joinsbnp.org
+            &nbsp;https://www.renegadefit.net
           </mj-social-element>
         </mj-social>
 
-        <mj-text font-size="16px" font-weight="600" container-background-color="#eab308" color="black">
-          <a href="https://joinsbnp.org" style="color: black; text-decoration: none"> VISIT NOW </a>
+        <mj-text
+          font-size="16px"
+          font-weight="600"
+          container-background-color="#22c55e"
+          color="black"
+        >
+          <a
+            href="https://www.renegadefit.net"
+            style="color: black; text-decoration: none"
+          >
+            VISIT NOW
+          </a>
         </mj-text>
 
         <mj-text padding-top="24px" font-size="10px">
-          You may <a href="https://joinsbnp.org" style="color: white">unsubscribe</a> or
-          <a href="https://joinsbnp.org" style="color: white"> change your contact details</a> at any time.
+          You may
+          <a href="https://www.renegadefit.net" style="color: white"
+            >unsubscribe</a
+          >
+          or
+          <a href="https://www.renegadefit.net" style="color: white">
+            change your contact details</a
+          >
+          at any time.
         </mj-text>
       </mj-column>
     </mj-section>
