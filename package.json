@@ -3,7 +3,7 @@
   "scripts": {
     "compile": "node compile.js",
     "send": "node index.cjs",
-    "resize": "find . -name \"*.jpg\" -exec mogrify -verbose -resize 500x\\> {} \\;"
+    "resize": "find ./src -name \"*\" -exec mogrify -verbose -resize 500x\\> {} \\;"
   },
   "devDependencies": {
     "dotenv": "^16.0.1",
