@@ -1,9 +1,8 @@
 {
   "type": "module",
   "scripts": {
-    "compile": "node compile.js",
-    "send": "node index.cjs",
-    "resize": "find ./src -name \"*\" -exec convert -verbose -resize 500x\\> {} \\;"
+    "compile": "node compile.js && bash resize.sh",
+    "send": "node index.cjs"
   },
   "devDependencies": {
     "dotenv": "^16.0.1",
