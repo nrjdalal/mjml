@@ -178,7 +178,7 @@
           color="black"
           font-size="16px"
           font-weight="500"
-          href="Group X Schedule"
+          href="https://www.renegadefit.net"
         >
           Group X Schedule
         </mj-button>
@@ -216,7 +216,7 @@
           color="black"
           font-size="16px"
           font-weight="500"
-          href="Group X Schedule"
+          href="https://www.renegadefit.net"
         >
           Online on Demand
         </mj-button>
@@ -231,43 +231,42 @@
         padding-top="15px"
       >
         <mj-text color="#22c55e" font-size="18px" font-weight="500">
-          Stay Updated with RenegadeFit
+          PERSONAL TRAINING
         </mj-text>
         <mj-text color="white" padding-top="0">
-          Subscribe to our newsletter & more.
+          Personal Training is our specialty at RENEGADE® and serves as your
+          ultimate resource for fitness education, motivation, inspiration and
+          results.
+          <br /><br />
+          Our members see the value of utilizing our professional trainers,
+          because they know effective programming will maximize your chances for
+          success - the #1 priority for anyone considering the benefits of
+          exercise.
+          <br /><br />
+          We’ll create a personalized fitness plan by assessing your unique
+          physical needs and discuss your personal fitness goals. We’ll actually
+          bring you through a customized workout with a Certified Professional
+          Personal Trainer.
+          <br />
+          <br />
+          You will be treated to a fun and exciting exercise experience aimed to
+          educate and give you a sample of what it’s like to work with a
+          Personal Trainer.
         </mj-text>
         <mj-image
-          src="https://cdn.shopify.com/s/files/1/0555/5221/3269/articles/RC4jWFbnoFGUoXxuP7P6eA_400x.jpg?v=1673827896"
+          src="https://lirp.cdn-website.com/4569d9ca/dms3rep/multi/opt/e+greenwich+small+group+training-300w.jpg"
           padding-left="24px"
           padding-right="24px"
-          border-radius="10px"
-          width="350px"
+          width="300px"
         />
-        <mj-text color="white" padding-top="0">
-          The Benefits of Normatec Pants for Recovery & Why Young Players Should
-          Definitely Consider These
-        </mj-text>
-
-        <mj-image
-          src="https://cdn.shopify.com/s/files/1/0555/5221/3269/articles/Players_Should_Incorporate_Mediation_400x.jpg?v=1671831574"
-          padding-left="24px"
-          padding-right="24px"
-          border-radius="10px"
-          width="350px"
-        />
-        <mj-text color="white" padding-top="0">
-          Why Young Players Should Incorporate Mediation into Their Everyday
-          Routine?
-        </mj-text>
-
         <mj-button
           background-color="#22c55e"
           color="black"
           font-size="16px"
           font-weight="500"
-          href="https://www.renegadefit.net/blogs/news"
+          href="https://www.renegadefit.net"
         >
-          Read More
+          Try Personal Training
         </mj-button>
       </mj-column>
     </mj-section>
@@ -280,27 +279,39 @@
         padding-top="15px"
       >
         <mj-text color="#22c55e" font-size="18px" font-weight="500">
-          Try our e-books
+          MEMBERSHIP
         </mj-text>
-
+        <mj-text color="white" padding-top="0">
+          Unlike traditional gyms that sign you up, give you a key fob and swipe
+          card and then just turn you loose to figure out how to reach your
+          goals...
+          <br /><br />
+          RENEGADE® is totally different.
+          <br /><br />
+          You see, Renegade is all about helping our members get great results!
+          Membership includes not only unlimited Group X Training, but so much
+          more. Your orientation includes a 1 on 1 training session to establish
+          the best training regime to achieve your goals. We make sure you are
+          100% familiar with the equipment and the training approach and
+          comfortable with our training staff.
+          <br /><br />
+          Click the button below for pricing information and a FREE 1 Day Trial
+          Membership to see if we're a good fit!
+        </mj-text>
+        <mj-image
+          src="https://lirp.cdn-website.com/4569d9ca/dms3rep/multi/opt/cranston1-1280x960+%281%29-300w.jpg"
+          padding-left="24px"
+          padding-right="24px"
+          width="300px"
+        />
         <mj-button
           background-color="#22c55e"
           color="black"
           font-size="16px"
           font-weight="500"
-          href="https://mailr.vercel.app/rentals111/assets/conditioning.pdf"
+          href="https://www.renegadefit.net"
         >
-          Fundamentals of Conditioning
-        </mj-button>
-
-        <mj-button
-          background-color="#22c55e"
-          color="black"
-          font-size="16px"
-          font-weight="500"
-          href="https://mailr.vercel.app/rentals111/assets/shooting.pdf"
-        >
-          Fundamentals of Shooting
+          Location and Pricing
         </mj-button>
       </mj-column>
     </mj-section>
