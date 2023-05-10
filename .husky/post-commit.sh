@@ -1,7 +1,5 @@
 #!/bin/sh
 
-echo "Commiting compiled files..."
-
 if [ -e .commit ]; then
   rm .commit
   git add .
