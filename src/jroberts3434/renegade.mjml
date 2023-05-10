@@ -25,8 +25,8 @@
     <mj-section padding-top="32px">
       <mj-column>
         <mj-image
-          src="https://lirp.cdn-website.com/4569d9ca/dms3rep/multi/opt/renegade_white+logo-386w.png"
-          width="128px"
+          src="https://mailr.vercel.app/jroberts3434/assets/renegade.png"
+          width="256px"
         />
       </mj-column>
     </mj-section>
@@ -319,8 +319,8 @@
     <mj-section padding-top="32px" padding-bottom="0">
       <mj-column>
         <mj-image
-          src="https://lirp.cdn-website.com/4569d9ca/dms3rep/multi/opt/renegade_white+logo-386w.png"
-          width="128px"
+          src="https://mailr.vercel.app/jroberts3434/assets/renegade.png"
+          width="256px"
         />
       </mj-column>
     </mj-section>
