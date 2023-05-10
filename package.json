@@ -1,6 +1,7 @@
 {
   "type": "module",
   "scripts": {
+    "compile": "node compile.js && bash resize.sh",
     "send": "node index.cjs"
   },
   "devDependencies": {
