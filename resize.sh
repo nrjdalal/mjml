@@ -6,6 +6,4 @@ for i in $(find ./src -type f); do
   fi
 done
 
-echo
 touch .commit
-exit
