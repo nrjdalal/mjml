@@ -40,6 +40,8 @@ for (let index = 0; index < files.length; index++) {
     const filename =
       src.slice(src.lastIndexOf('/') + 1, src.lastIndexOf('.')) + '.html'
 
+    console.log(`Compiling ${src} to ${dist}${filename}`)
+
     exec(
       `mkdir -p '${dist}' && mjml '${src}' -o '${dist}${filename}' -c.keepComments false`
     )
