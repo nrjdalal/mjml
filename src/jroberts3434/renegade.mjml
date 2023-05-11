@@ -28,6 +28,8 @@
           src="https://mailr.vercel.app/jroberts3434/assets/renegade.png"
           width="256px"
         />
+
+        <mj-text font-size="18px">One day... Or Day One? You Decide?</mj-text>
       </mj-column>
     </mj-section>
 
