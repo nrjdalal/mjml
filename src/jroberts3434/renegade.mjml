@@ -195,44 +195,6 @@
         padding-top="15px"
       >
         <mj-text color="#22c55e" font-size="18px" font-weight="500">
-          ONLINE WORKOUTS
-        </mj-text>
-        <mj-text color="white" padding-top="0">
-          RENEGADE® and Les Mills understand how important a healthy lifestyle
-          is. We also understand how your busy lifestyle doesn't always make it
-          easy to hit the gym! This is why we want to introduce you to LES MILLS
-          on Demand - where your favorite workouts are available anytime,
-          anywhere.
-          <br /><br />
-          Get unlimited access to Les Mills workouts loved by millions for 30
-          days absolutely FREE.
-        </mj-text>
-        <mj-image
-          src="https://lirp.cdn-website.com/4569d9ca/dms3rep/multi/opt/Les+Mills+Online-300w.png"
-          padding-left="24px"
-          padding-right="24px"
-          width="300px"
-        />
-        <mj-button
-          background-color="#22c55e"
-          color="black"
-          font-size="16px"
-          font-weight="500"
-          href="https://www.renegadefit.net"
-        >
-          Online on Demand
-        </mj-button>
-      </mj-column>
-    </mj-section>
-
-    <mj-section background-color="black" padding="0 30px">
-      <mj-column
-        border-bottom="2.5px solid #22c55e"
-        border-left="2.5px solid #22c55e"
-        padding-bottom="15px"
-        padding-top="15px"
-      >
-        <mj-text color="#22c55e" font-size="18px" font-weight="500">
           PERSONAL TRAINING
         </mj-text>
         <mj-text color="white" padding-top="0">
@@ -270,6 +232,16 @@
         >
           Try Personal Training
         </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="black" padding="0 30px">
+      <mj-column
+        border-bottom="2.5px solid #22c55e"
+        border-left="2.5px solid #22c55e"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
       </mj-column>
     </mj-section>
 
