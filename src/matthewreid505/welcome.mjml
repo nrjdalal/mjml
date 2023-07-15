@@ -12,7 +12,7 @@
         color="black"
       />
       <mj-image href="https://www.renegadefit.net" alt="RenegadeFit" />
-      <mj-section background-color="black" />
+      <mj-section background-color="#1e1b4b" />
       <mj-text
         align="center"
         color="white"
@@ -36,11 +36,11 @@
     <mj-section
       padding-top="16px"
       padding-bottom="0"
-      background-color="#ffffff"
+      background-color="#1e1b4b"
     >
       <mj-column>
         <mj-image
-          src="https://lirp.cdn-website.com/4569d9ca/dms3rep/multi/opt/Home+Page+IMAGE+trns+v2-673w.png"
+          src="https://mailr.vercel.app/matthewreid505/assets/tour.png"
           padding-left="24px"
           padding-right="24px"
           width="300px"
