@@ -111,8 +111,7 @@
         </mj-text>
         <mj-image
           src="https://mailr.vercel.app/matthewreid505/assets/exposure.png"
-          padding-left="24px"
-          padding-right="24px"
+          width="64px"
         />
       </mj-column>
     </mj-section>
@@ -125,43 +124,55 @@
         padding-top="15px"
       >
         <mj-text color="#818cf8" font-size="18px" font-weight="500">
-          PERSONAL TRAINING
+          Simplified Booking Process
         </mj-text>
         <mj-text color="white" padding-top="0">
-          Personal Training is our specialty at RENEGADE® and serves as your
-          ultimate resource for fitness education, motivation, inspiration and
-          results.
-          <br /><br />
-          Our members see the value of utilizing our professional trainers,
-          because they know effective programming will maximize your chances for
-          success - the #1 priority for anyone considering the benefits of
-          exercise.
-          <br /><br />
-          We’ll create a personalized fitness plan by assessing your unique
-          physical needs and discuss your personal fitness goals. We’ll actually
-          bring you through a customized workout with a Certified Professional
-          Personal Trainer.
-          <br />
-          <br />
-          You will be treated to a fun and exciting exercise experience aimed to
-          educate and give you a sample of what it’s like to work with a
-          Personal Trainer.
+          Streamlined event planning made simple.
         </mj-text>
         <mj-image
-          src="https://lirp.cdn-website.com/4569d9ca/dms3rep/multi/opt/e+greenwich+small+group+training-300w.jpg"
-          padding-left="24px"
-          padding-right="24px"
-          width="300px"
+          src="https://mailr.vercel.app/matthewreid505/assets/exposure.png"
+          width="64px"
         />
-        <mj-button
-          background-color="#818cf8"
-          color="#020617"
-          font-size="16px"
-          font-weight="500"
-          href="https://payolie.com"
-        >
-          Try Personal Training
-        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#020617" padding="0 30px">
+      <mj-column
+        border-bottom="2.5px solid #818cf8"
+        border-left="2.5px solid #818cf8"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-text color="#818cf8" font-size="18px" font-weight="500">
+          Increased Exposure
+        </mj-text>
+        <mj-text color="white" padding-top="0">
+          Increased exposure to new audiences.
+        </mj-text>
+        <mj-image
+          src="https://mailr.vercel.app/matthewreid505/assets/exposure.png"
+          width="64px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#020617" padding="0 30px">
+      <mj-column
+        border-bottom="2.5px solid #818cf8"
+        border-right="2.5px solid #818cf8"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-text color="#818cf8" font-size="18px" font-weight="500">
+          Increased Exposure
+        </mj-text>
+        <mj-text color="white" padding-top="0">
+          Increased exposure to new audiences.
+        </mj-text>
+        <mj-image
+          src="https://mailr.vercel.app/matthewreid505/assets/exposure.png"
+          width="64px"
+        />
       </mj-column>
     </mj-section>
 
@@ -183,47 +194,42 @@
         padding-top="15px"
       >
         <mj-text color="#818cf8" font-size="18px" font-weight="500">
-          MEMBERSHIP
+          Increased Exposure
         </mj-text>
         <mj-text color="white" padding-top="0">
-          Unlike traditional gyms that sign you up, give you a key fob and swipe
-          card and then just turn you loose to figure out how to reach your
-          goals...
-          <br /><br />
-          RENEGADE® is totally different.
-          <br /><br />
-          You see, Renegade is all about helping our members get great results!
-          Membership includes not only unlimited Group X Training, but so much
-          more. Your orientation includes a 1 on 1 training session to establish
-          the best training regime to achieve your goals. We make sure you are
-          100% familiar with the equipment and the training approach and
-          comfortable with our training staff.
-          <br /><br />
-          Click the button below for pricing information and a FREE 1 Day Trial
-          Membership to see if we're a good fit!
+          Increased exposure to new audiences.
         </mj-text>
         <mj-image
-          src="https://lirp.cdn-website.com/4569d9ca/dms3rep/multi/opt/cranston1-1280x960+%281%29-300w.jpg"
-          padding-left="24px"
-          padding-right="24px"
-          width="300px"
+          src="https://mailr.vercel.app/matthewreid505/assets/exposure.png"
+          width="64px"
         />
-        <mj-button
-          background-color="#818cf8"
-          color="#020617"
-          font-size="16px"
-          font-weight="500"
-          href="https://payolie.com"
-        >
-          Location and Pricing
-        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#020617" padding="0 30px">
+      <mj-column
+        border-bottom="2.5px solid #818cf8"
+        border-left="2.5px solid #818cf8"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-text color="#818cf8" font-size="18px" font-weight="500">
+          Increased Exposure
+        </mj-text>
+        <mj-text color="white" padding-top="0">
+          Increased exposure to new audiences.
+        </mj-text>
+        <mj-image
+          src="https://mailr.vercel.app/matthewreid505/assets/exposure.png"
+          width="64px"
+        />
       </mj-column>
     </mj-section>
 
     <mj-section padding-top="32px" padding-bottom="0">
       <mj-column>
         <mj-image
-          src="https://mailr.vercel.app/jroberts3434/assets/renegade.png"
+          src="https://mailr.vercel.app/matthewreid505/assets/logo.png"
           width="256px"
         />
       </mj-column>
@@ -251,7 +257,7 @@
             href="https://payolie.com"
             style="color: #020617; text-decoration: none"
           >
-            TRY NOW
+            For the creators by the creators
           </a>
         </mj-text>
 
