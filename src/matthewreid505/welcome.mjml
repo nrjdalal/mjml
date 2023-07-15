@@ -11,7 +11,7 @@
         background-color="white"
         color="#020617"
       />
-      <mj-image href="https://payolie.com" alt="RenegadeFit" />
+      <mj-image href="https://payolie.com" alt="payolie" />
       <mj-section background-color="#020617" />
       <mj-text
         align="center"
@@ -41,7 +41,7 @@
           src="https://mailr.vercel.app/matthewreid505/assets/welcome.png"
           padding-left="24px"
           padding-right="24px"
-          width="500px"
+          width="576px"
         />
       </mj-column>
     </mj-section>
@@ -91,53 +91,8 @@
           padding-left="24px"
           padding-right="24px"
           border-radius="10px"
-          width="350px"
+          width="540px"
         />
-
-        <mj-text font-size="18px" font-weight="600" padding-top="36px">
-          <span
-            style="
-              color: white;
-              font-weight: 400;
-              font-size: 14px;
-              text-align: center;
-              line-height: 1.6;
-            "
-          >
-            <li>Tone up</li>
-            <li>Trim down</li>
-            <li>Relieve stress</li>
-            <li>Sleep better</li>
-            <li>Improved flexibility</li>
-            <li>Higher metabolism</li>
-          </span>
-        </mj-text>
-
-        <mj-button
-          background-color="#818cf8"
-          color="#020617"
-          font-size="16px"
-          font-weight="500"
-          href="https://mailr.vercel.app/rentals111/assets/program.pdf"
-        >
-          Be a RENEGADE®
-        </mj-button>
-
-        <mj-spacer height="24px" />
-
-        <mj-text
-          font-size="16px"
-          font-weight="600"
-          container-background-color="#818cf8"
-          color="#020617"
-        >
-          <a
-            href="https://payolie.com"
-            style="color: #020617; text-decoration: none"
-          >
-            JOIN THE PROGRAM
-          </a>
-        </mj-text>
       </mj-column>
     </mj-section>
 
@@ -149,21 +104,15 @@
         padding-top="15px"
       >
         <mj-text color="#818cf8" font-size="18px" font-weight="500">
-          GROUP X
+          Increased Exposure
         </mj-text>
         <mj-text color="white" padding-top="0">
-          GROUP X RENEGADE® offers the most respected and results-producing
-          group training programs for our members.
-          <br /><br />
-          You will love our fun, socially-distanced and safe classes including
-          exciting programs like Les Mills Body Pump, RPM and Sprint, Burn, Boot
-          Camp, Silver Sneakers, Zumba, Spin and so many more!
+          Increased exposure to new audiences.
         </mj-text>
         <mj-image
-          src="https://lirp.cdn-website.com/4569d9ca/dms3rep/multi/opt/groton%2B6-300w.jpg"
+          src="https://mailr.vercel.app/matthewreid505/assets/exposure.png"
           padding-left="24px"
           padding-right="24px"
-          width="300px"
         />
         <mj-button
           background-color="#818cf8"
