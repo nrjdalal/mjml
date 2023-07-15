@@ -130,7 +130,7 @@
           Streamlined event planning made simple.
         </mj-text>
         <mj-image
-          src="https://mailr.vercel.app/matthewreid505/assets/exposure.png"
+          src="https://mailr.vercel.app/matthewreid505/assets/booking.png"
           width="64px"
         />
       </mj-column>
@@ -144,13 +144,13 @@
         padding-top="15px"
       >
         <mj-text color="#818cf8" font-size="18px" font-weight="500">
-          Increased Exposure
+          Payment Processing
         </mj-text>
         <mj-text color="white" padding-top="0">
-          Increased exposure to new audiences.
+          Timely, secure payment processing.
         </mj-text>
         <mj-image
-          src="https://mailr.vercel.app/matthewreid505/assets/exposure.png"
+          src="https://mailr.vercel.app/matthewreid505/assets/processing.png"
           width="64px"
         />
       </mj-column>
@@ -164,13 +164,13 @@
         padding-top="15px"
       >
         <mj-text color="#818cf8" font-size="18px" font-weight="500">
-          Increased Exposure
+          Travel Accommodations
         </mj-text>
         <mj-text color="white" padding-top="0">
-          Increased exposure to new audiences.
+          Convenient, stress-free travel for artists.
         </mj-text>
         <mj-image
-          src="https://mailr.vercel.app/matthewreid505/assets/exposure.png"
+          src="https://mailr.vercel.app/matthewreid505/assets/travel.png"
           width="64px"
         />
       </mj-column>
@@ -194,13 +194,13 @@
         padding-top="15px"
       >
         <mj-text color="#818cf8" font-size="18px" font-weight="500">
-          Increased Exposure
+          Real-Time Feedback
         </mj-text>
         <mj-text color="white" padding-top="0">
-          Increased exposure to new audiences.
+          Improve performances, increase bookings.
         </mj-text>
         <mj-image
-          src="https://mailr.vercel.app/matthewreid505/assets/exposure.png"
+          src="https://mailr.vercel.app/matthewreid505/assets/feedback.png"
           width="64px"
         />
       </mj-column>
@@ -214,13 +214,13 @@
         padding-top="15px"
       >
         <mj-text color="#818cf8" font-size="18px" font-weight="500">
-          Increased Exposure
+          Additional Services
         </mj-text>
         <mj-text color="white" padding-top="0">
-          Increased exposure to new audiences.
+          Enhance artist revenue and brand image.
         </mj-text>
         <mj-image
-          src="https://mailr.vercel.app/matthewreid505/assets/exposure.png"
+          src="https://mailr.vercel.app/matthewreid505/assets/services.png"
           width="64px"
         />
       </mj-column>
