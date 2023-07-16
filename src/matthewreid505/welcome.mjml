@@ -90,20 +90,67 @@
         >
           LEARN MORE
         </mj-button>
+      </mj-column>
+    </mj-section>
 
+    <mj-section padding-bottom="0" padding-top="0">
+      <mj-column>
         <mj-text font-size="18px" font-weight="600" padding-top="36px">
-          <span style="color: #4338ca">Upcoming tours</span>
+          <span style="color: #f8fafc">Upcoming tours</span>
         </mj-text>
+      </mj-column>
+    </mj-section>
 
-        <mj-image
-          src="https://mailr.vercel.app/matthewreid505/assets/upcoming.png"
-          href="https://www.youtube.com"
-          padding-left="24px"
-          padding-right="24px"
-          border-radius="10px"
-          width="540px"
-        />
+    <mj-section padding-bottom="0">
+      <mj-group>
+        <mj-column width="200px">
+          <mj-image
+            src="https://mailr.vercel.app/matthewreid505/assets/upcoming.png"
+            href="https://www.youtube.com"
+            padding-left="12px"
+            padding-right="12px"
+            border-radius="10px"
+            width="540px"
+          />
+        </mj-column>
+        <mj-column width="200px">
+          <mj-image
+            src="https://mailr.vercel.app/matthewreid505/assets/upcoming.png"
+            href="https://www.youtube.com"
+            padding-left="12px"
+            padding-right="12px"
+            border-radius="10px"
+            width="540px"
+          />
+        </mj-column>
+        <mj-column width="200px">
+          <mj-image
+            src="https://mailr.vercel.app/matthewreid505/assets/upcoming.png"
+            href="https://www.youtube.com"
+            padding-left="12px"
+            padding-right="12px"
+            border-radius="10px"
+            width="540px"
+          />
+        </mj-column>
+      </mj-group>
+    </mj-section>
 
+    <mj-section padding-top="0">
+      <mj-column>
+        <mj-button
+          font-size="16px"
+          font-weight="400"
+          color="#4338ca"
+          background-color="#f8fafc"
+        >
+          CHECK TOURS
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f8fafc" padding-top="0">
+      <mj-column>
         <mj-text font-size="18px" font-weight="600" padding-top="36px">
           <span style="color: #4338ca">Features of Payolie</span>
         </mj-text>
