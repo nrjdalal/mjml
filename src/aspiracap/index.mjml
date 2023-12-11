@@ -34,7 +34,7 @@
         <mj-column>
           <mj-image
             src="https://aspiracapitalgroup.com/wp-content/uploads/2023/05/new-logo-orange-light-1.png"
-            width="128px"
+            width="256px"
           />
         </mj-column>
         <mj-column padding-top="8px">
@@ -152,7 +152,7 @@
         </mj-text>
 
         <mj-button
-          align="left"
+          align="center"
           background-color="#0daae6"
           color="white"
           font-size="16px"

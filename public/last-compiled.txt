@@ -122,3 +122,4 @@
 ./src/welllyhopper/main-alpha.mjml-1702271786656
 ./src/welllyhopper/main.mjml-1702271786656
 ./src/aspiracap/index.mjml-1702273502085
+./src/aspiracap/index.mjml-1702273614658
