@@ -121,3 +121,4 @@
 ./src/theblastuk/investments.mjml-1702271786655
 ./src/welllyhopper/main-alpha.mjml-1702271786656
 ./src/welllyhopper/main.mjml-1702271786656
+./src/aspiracap/index.mjml-1702273502085
